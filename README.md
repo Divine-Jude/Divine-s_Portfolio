@@ -1,2 +1,2 @@
-# Divine-s_Portfolio
+# Divine Jude
 Analytics Portfolio
