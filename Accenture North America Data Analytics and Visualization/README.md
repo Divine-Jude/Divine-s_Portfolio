@@ -1,4 +1,4 @@
-# ACCENTURE NORTH AMERICA DATA ANALYTICS AND VISUALIZATION
+# Accenture North America Data Analytics and Visulization
 Virtual Experience Program
 
 # Case study
