@@ -1,1 +1,1 @@
-
+This project is a data analysis project that uses SQL and Power BI to analyze hotel data. The project will first use SQL to join the hotels table with the market_segment table on the market_segment column. This will create a new table that contains all of the data from both tables. The project will then use Power BI to visualize the data and answer the following questions:
