@@ -58,13 +58,13 @@ Based on the analysis and visualizations, the following key findings were identi
 8. Generally, guests did not require a parking area.
 
 ## Recommendation
-- Based on the findings of the project, the following recommendations can be made:
+Based on the findings of the project, the following recommendations can be made:
 
 - The hotel chain should focus on increasing revenue from the Online TA market segment.
 
 - The hotel chain should consider offering discounts during the off-season to attract more guests.
 
-The hotel chain should focus on improving the customer experience in order to attract more repeat customers.
+- The hotel chain should focus on improving the customer experience in order to attract more repeat customers.
 
 ## Conclusion
 This project has provided valuable insights into the hotel chain’s revenue performance. The findings can be used to improve the hotel chain’s marketing and sales strategies, as well as its customer service initiatives. By implementing the recommendations, the hotel chain can increase its revenue and improve its profitability.
