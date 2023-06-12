@@ -1,4 +1,4 @@
-# Quantium Virtual Internship - Retail Strategy & Analytics  (Ongoing)
+# Quantium Virtual Internship - Retail Strategy & Analytics
 
 ### Performance Evaluation and Analysis of Supermarket Changes using Transactional and Customer Data.
 
