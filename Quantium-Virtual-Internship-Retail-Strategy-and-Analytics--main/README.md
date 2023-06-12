@@ -30,7 +30,6 @@ The project involves several key analytics skills and techniques, including:
 ### Key Insights
 <p align="center">
    <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/bed11226-61ae-40f8-b467-09f9a439c6ee">
-   Retail Strategy and Analytics Dashboard
 </p>
 
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
