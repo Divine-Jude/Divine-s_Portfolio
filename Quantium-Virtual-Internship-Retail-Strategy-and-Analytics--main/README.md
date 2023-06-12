@@ -30,9 +30,9 @@ The project involves several key analytics skills and techniques, including:
 - Commercial thinking: Considering business implications and providing actionable insights to guide strategic decision-making.
 
 ### Key Insights
-![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/bed11226-61ae-40f8-b467-09f9a439c6ee)
-
-                            Retail Strategy and Analytics Dashboard
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/bed11226-61ae-40f8-b467-09f9a439c6ee)<p align="center">
+    Retail Strategy and Analytics Dashboard
+</p>
 
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
 - There are more Mainstream — young singles/couples and Mainstream — retirees who buy chips. This contributes to there being more sales to these customer segments, but this is not a major driver for the Budget — Older families' segment.
