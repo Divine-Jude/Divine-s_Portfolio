@@ -50,19 +50,23 @@ From the Assessments,
  <p align="center">
   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/0703b534-cd52-4571-931f-e486f09edfe9">
 </p>                              
-                                                      Plot for sales over time for control store 233 and trial store 77
+Plot for sales over time for control store 233 and trial store 77
+
 
 For Number of Customers
  <p align="center">
   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/ea066f23-166f-463c-911c-c53dbbb5b72d">
 </p> 
-
 Plot for number of customers over time for control store 233 and trial store 77
 
-2. The results show that the trial in store 86 is not significantly different to its control store in the trial period as the trial store performance lies inside the 5% to 95% confidence interval of the control store in two of the three trial months.
 
-Line chart
+2. The results show that the trial in store 86 is not significantly different to its control store in the trial period as the trial store performance lies inside the 5% to 95% confidence interval of the control store in two of the three trial months.
+ <p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/1*GojNH9psXW06QKyKHYGaFQ.png">
+</p>
 Plot for sales over time for control store 155 and trial store 86
+
+
 For Number of Customers, number of customers is significantly higher in all of the three months. This seems to suggest that the trial had a significant impact on increasing the number of customers in trial store 86 but as we saw, sales were not significantly higher.
 
 Line Chart
