@@ -47,30 +47,28 @@ Cick here to view [Dashboard](https://www.novypro.com/project/quantium-retail-st
 From the Assessments,
 
 1. The results show that the trial in store 77 is significantly different to its control store 233 in the trial period as the trial store performance lies outside the 5% to 95% confidence interval of the control store in two of the three trial months.
- <p align="center">
-  <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/0703b534-cd52-4571-931f-e486f09edfe9">
-</p>                              
-Plot for sales over time for control store 233 and trial store 77
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/df4948aa-b1a0-4569-a7fe-fa4d56683749)
 
+                                      Plot for sales over time for control store 233 and trial store 77
 
 For Number of Customers
- <p align="center">
-  <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/ea066f23-166f-463c-911c-c53dbbb5b72d">
-</p> 
-Plot for number of customers over time for control store 233 and trial store 77
+ <![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/f1dd7449-b02d-42e4-ba7d-07c55acddfa9)
+      
+                                  Plot for number of customers over time for control store 233 and trial store 77
 
 
 2. The results show that the trial in store 86 is not significantly different to its control store in the trial period as the trial store performance lies inside the 5% to 95% confidence interval of the control store in two of the three trial months.
- <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/1*GojNH9psXW06QKyKHYGaFQ.png">
-</p>
-Plot for sales over time for control store 155 and trial store 86
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/9cd97228-0e22-4cd2-b75f-47332f5b8641)
+
+                                         Plot for sales over time for control store 155 and trial store 86
 
 
-For Number of Customers, number of customers is significantly higher in all of the three months. This seems to suggest that the trial had a significant impact on increasing the number of customers in trial store 86 but as we saw, sales were not significantly higher.
+For Number of Customers, 
+number of customers is significantly higher in all of the three months. This seems to suggest that the trial had a significant impact on increasing the number of customers in trial store 86 but as we saw, sales were not significantly higher.
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/5acaf452-1351-4707-9074-464ebde680fc)
 
-Line Chart
-Plot for number of customers over time for control store 155 and trial store 86
+                                      Plot for number of customers over time for control store 155 and trial store 86
+
 3. The results show that the trial in store 88 is significantly different to its control store in the trial period as the trial store performance lies outside of the 5% to 95% confidence interval of the control store in two of the three trial months.
 
 Line chart with Python
