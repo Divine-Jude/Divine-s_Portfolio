@@ -43,6 +43,47 @@ The project involves several key analytics skills and techniques, including:
 
 Cick here to view [Dashboard](https://www.novypro.com/project/quantium-retail-strategy--analytics-project)
 
+### Results
+From the Assessments,
+
+1. The results show that the trial in store 77 is significantly different to its control store 233 in the trial period as the trial store performance lies outside the 5% to 95% confidence interval of the control store in two of the three trial months.
+ <p align="center">
+  <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/0703b534-cd52-4571-931f-e486f09edfe9">
+</p>
+                                    Plot for sales over time for control store 233 and trial store 77
+
+For Number of Customers
+Plot for number of customers over time for control store 233 and trial store 77
+
+2. The results show that the trial in store 86 is not significantly different to its control store in the trial period as the trial store performance lies inside the 5% to 95% confidence interval of the control store in two of the three trial months.
+
+Line chart
+Plot for sales over time for control store 155 and trial store 86
+For Number of Customers, number of customers is significantly higher in all of the three months. This seems to suggest that the trial had a significant impact on increasing the number of customers in trial store 86 but as we saw, sales were not significantly higher.
+
+Line Chart
+Plot for number of customers over time for control store 155 and trial store 86
+3. The results show that the trial in store 88 is significantly different to its control store in the trial period as the trial store performance lies outside of the 5% to 95% confidence interval of the control store in two of the three trial months.
+
+Line chart with Python
+Plot for sales over time for control store 237 and trial store 88
+Assessing Number of Customer, total number of customers in the trial period for the trial store is significantly higher than the control store for two out of three months, which indicates a positive trial effect.
+
+
+Plot for number of customers over time for control store 237 and trial store 88
+Conclusion
+Sales have mainly been due to Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees' shoppers. We found that the high spend in chips for Mainstream — young singles/couples and retirees is due to there being more of them than other buyers. Mainstream — midage and young singles/couples are also more likely to pay more per packet of chips. This is indicative of impulse buying behaviour.
+
+We’ve also found that Mainstream — young singles/couples are 23% more likely to purchase Tyrrells chips compared to the rest of the population. The Category Manager may want to increase the category’s performance by off locating some Tyrrells and smaller packs of chips in discretionary space near segments where young singles/couples are frequent more often to increase visibility and impulse behaviour.
+
+I found control stores 233, 155, 237 for trial stores 77, 86 and 88 respectively.
+
+The results for trial stores 77 and 88 during the trial period show a significant difference in at least two of the three trial months but this is not the case for trial store 86. We can check with the client if the implementation of the trial was different in trial store 86 but overall, the trial shows a significant increase in sales.
+
+Follow me @
+Divine Jude
+
+
 
 
 
