@@ -49,7 +49,8 @@ From the Assessments,
 1. The results show that the trial in store 77 is significantly different to its control store 233 in the trial period as the trial store performance lies outside the 5% to 95% confidence interval of the control store in two of the three trial months.
  <p align="center">
   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/0703b534-cd52-4571-931f-e486f09edfe9">
-</p>                              Plot for sales over time for control store 233 and trial store 77
+</p>                              
+                                                      Plot for sales over time for control store 233 and trial store 77
 
 For Number of Customers
  <p align="center">
