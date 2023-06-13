@@ -47,20 +47,22 @@ Cick here to view [Dashboard](https://www.novypro.com/project/quantium-retail-st
 From the Assessments,
 
 1. The results show that the trial in store 77 is significantly different to its control store 233 in the trial period as the trial store performance lies outside the 5% to 95% confidence interval of the control store in two of the three trial months.
+
 ![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/df4948aa-b1a0-4569-a7fe-fa4d56683749)
 
-                                      Plot for sales over time for control store 233 and trial store 77
+                                       Plot for sales over time for control store 233 and trial store 77
 
 For Number of Customers
+
 ![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/f1dd7449-b02d-42e4-ba7d-07c55acddfa9)
       
-                                  Plot for number of customers over time for control store 233 and trial store 77
+                                      Plot for number of customers over time for control store 233 and trial store 77
 
 
 2. The results show that the trial in store 86 is not significantly different to its control store in the trial period as the trial store performance lies inside the 5% to 95% confidence interval of the control store in two of the three trial months.
 ![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/9cd97228-0e22-4cd2-b75f-47332f5b8641)
 
-                                         Plot for sales over time for control store 155 and trial store 86
+                                      Plot for sales over time for control store 155 and trial store 86
 
 
 For Number of Customers, 
