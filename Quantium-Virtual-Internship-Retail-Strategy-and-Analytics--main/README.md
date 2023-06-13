@@ -97,8 +97,7 @@ I found control stores 233, 155, 237 for trial stores 77, 86 and 88 respectively
 
 The results for trial stores 77 and 88 during the trial period show a significant difference in at least two of the three trial months but this is not the case for trial store 86. We can check with the client if the implementation of the trial was different in trial store 86 but overall, the trial shows a significant increase in sales.
 
-Follow me @
-Divine Jude
+Follow me @[Divine Jude](https://medium.com/u/3b8711af5d3b?source=post_page-----b2e650a0a789--------------------------------) on medium
 
 
 
