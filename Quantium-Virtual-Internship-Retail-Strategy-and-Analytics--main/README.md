@@ -83,6 +83,7 @@ Number of customers is significantly higher in all of the three months. This see
 Assessing Number of Customer, 
 
 Total number of customers in the trial period for the trial store is significantly higher than the control store for two out of three months, which indicates a positive trial effect.
+
 ![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/73bb8996-e736-4d41-a504-87e8f7ddb13b)
      
      Plot for number of customers over time for control store 237 and trial store 88
