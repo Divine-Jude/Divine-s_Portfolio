@@ -31,6 +31,7 @@ The project involves several key analytics skills and techniques, including:
 <p align="center">
    <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/85848c10-a534-430d-a80d-eade9086d93c">
 </p>
+
 Retail Strategy & Analytics [Dashboard](https://www.novypro.com/project/quantium-retail-strategy--analytics-project)
 
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
