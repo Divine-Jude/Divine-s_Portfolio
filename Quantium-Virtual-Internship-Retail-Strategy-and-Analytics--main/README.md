@@ -31,7 +31,7 @@ The project involves several key analytics skills and techniques, including:
 <p align="center">
    <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/85848c10-a534-430d-a80d-eade9086d93c">
 </p>
-                                                Retail Strategy & Analytics [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMyMmNjZGItNDdiYy00YjU1LTlkNWQtMmEwMzIzZDhmYTFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionfbbb800c9733c4d45dbc)
+                                                Retail Strategy & Analytics [Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOTMyMmNjZGItNDdiYy00YjU1LTlkNWQtMmEwMzIzZDhmYTFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionfbbb800c9733c4d45dbc](https://www.novypro.com/project/quantium-retail-strategy--analytics-project))
 
 
 
