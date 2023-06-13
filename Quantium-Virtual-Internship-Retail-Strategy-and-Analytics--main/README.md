@@ -32,8 +32,6 @@ The project involves several key analytics skills and techniques, including:
    <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/85848c10-a534-430d-a80d-eade9086d93c">
 </p>
 
-click here to view [Dashboard](https://www.novypro.com/project/quantium-retail-strategy--analytics-project)
-
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
 - There are more Mainstream — young singles/couples and Mainstream — retirees who buy chips. This contributes to there being more sales to these customer segments, but this is not a major driver for the Budget — Older families' segment.
 - Older families and young families in general buy more chips per transactions.
@@ -43,7 +41,7 @@ click here to view [Dashboard](https://www.novypro.com/project/quantium-retail-s
 - Mainstream — young singles/couples are 27% more likely to purchase a 270g pack of chips compared to the rest of the population but let’s dive into what brands sell this pack size.
 - A Larger pack size of 270g is only offered by Twisties, which may explain why the target segment has a higher affinity towards this pack size. This could indicate a higher likelihood of the target segment purchasing Twisties over other brands.
 
-
+Cick here to view [Dashboard](https://www.novypro.com/project/quantium-retail-strategy--analytics-project)
 
 
 
