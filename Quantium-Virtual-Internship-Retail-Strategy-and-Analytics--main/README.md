@@ -52,7 +52,7 @@ From the Assessments,
                                       Plot for sales over time for control store 233 and trial store 77
 
 For Number of Customers
- <![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/f1dd7449-b02d-42e4-ba7d-07c55acddfa9)
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/f1dd7449-b02d-42e4-ba7d-07c55acddfa9)
       
                                   Plot for number of customers over time for control store 233 and trial store 77
 
