@@ -29,8 +29,11 @@ The project involves several key analytics skills and techniques, including:
 
 ### Key Insights
 <p align="center">
-   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/bed11226-61ae-40f8-b467-09f9a439c6ee">
+   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/85848c10-a534-430d-a80d-eade9086d93c">
 </p>
+                                                Retail Strategy & Analytics Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiOTMyMmNjZGItNDdiYy00YjU1LTlkNWQtMmEwMzIzZDhmYTFhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionfbbb800c9733c4d45dbc
 
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
 - There are more Mainstream — young singles/couples and Mainstream — retirees who buy chips. This contributes to there being more sales to these customer segments, but this is not a major driver for the Budget — Older families' segment.
