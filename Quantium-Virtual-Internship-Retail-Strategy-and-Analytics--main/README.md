@@ -76,16 +76,18 @@ Number of customers is significantly higher in all of the three months. This see
 
 3. The results show that the trial in store 88 is significantly different to its control store in the trial period as the trial store performance lies outside of the 5% to 95% confidence interval of the control store in two of the three trial months.
 
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/c3356c38-84c0-4334-b415-f48de98e7cac)
 
-Plot for sales over time for control store 237 and trial store 88
+    Plot for sales over time for control store 237 and trial store 88
 
 Assessing Number of Customer, 
 
 Total number of customers in the trial period for the trial store is significantly higher than the control store for two out of three months, which indicates a positive trial effect.
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/73bb8996-e736-4d41-a504-87e8f7ddb13b)
+     
+     Plot for number of customers over time for control store 237 and trial store 88
 
-
-Plot for number of customers over time for control store 237 and trial store 88
-Conclusion
+### Conclusion
 Sales have mainly been due to Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees' shoppers. We found that the high spend in chips for Mainstream — young singles/couples and retirees is due to there being more of them than other buyers. Mainstream — midage and young singles/couples are also more likely to pay more per packet of chips. This is indicative of impulse buying behaviour.
 
 We’ve also found that Mainstream — young singles/couples are 23% more likely to purchase Tyrrells chips compared to the rest of the population. The Category Manager may want to increase the category’s performance by off locating some Tyrrells and smaller packs of chips in discretionary space near segments where young singles/couples are frequent more often to increase visibility and impulse behaviour.
