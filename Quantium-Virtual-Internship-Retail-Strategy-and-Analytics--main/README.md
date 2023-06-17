@@ -29,8 +29,9 @@ The project involves several key analytics skills and techniques, including:
 
 ### Key Insights
 <p align="center">
-   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/85848c10-a534-430d-a80d-eade9086d93c">
+   <img src="https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/c0d1a17d-a9a6-4efc-bd83-887fea274381">
 </p>
+
 
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
 - There are more Mainstream — young singles/couples and Mainstream — retirees who buy chips. This contributes to there being more sales to these customer segments, but this is not a major driver for the Budget — Older families' segment.
