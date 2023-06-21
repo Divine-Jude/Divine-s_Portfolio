@@ -33,16 +33,24 @@ The project involves several key analytics skills and techniques, including:
 </p>
 
 
+
 - Sales are coming mainly from Budget — older families, Mainstream — young singles/couples, and Mainstream — retirees.
+
 - There are more Mainstream — young singles/couples and Mainstream — retirees who buy chips. This contributes to there being more sales to these customer segments, but this is not a major driver for the Budget — Older families' segment.
-- Older families and young families in general buy more chips per transactions.
-- The Mainstream — midage single/couples and young singles/couples are more willing to pay more per packet of chips compared to their budget and Premium counterparts. This may be due to Premium shoppers being more likely to buy healthy snacks and when they buy chips, this is mainly for entertainment purposes rather than their own consumption. This is also supported by there being fewer Premium — midage single/couples and young singles/couples buying chips compared to their Mainstream counterparts.
+
+- Older families and young families in general buy more chips per transaction.
+
+- The Mainstream — midage single/couples and young singles/couples are more willing to pay more per packet of chips compared to their budget and Premium counterparts. This may be due to Premium shoppers being more likely to buy healthy snacks, and when they buy chips, this is mainly for entertainment purposes rather than their own consumption. This is also supported by there being fewer Premium — midage single/couples and young singles/couples buying chips compared to their Mainstream counterparts.
+
 - Mainstream — young singles/couples are 23% more likely to purchase Tyrrells chips compared to the rest of the population.
+
 - Mainstream — young singles/couples are 56% less likely to purchase Burger Rings compared to the rest of the population.
-- Mainstream — young singles/couples are 27% more likely to purchase a 270g pack of chips compared to the rest of the population but let’s dive into what brands sell this pack size.
+
+- Mainstream — young singles/couples are 27% more likely to purchase a 270g pack of chips compared to the rest of the population, but let’s dive into what brands sell this pack size.
+
 - A Larger pack size of 270g is only offered by Twisties, which may explain why the target segment has a higher affinity towards this pack size. This could indicate a higher likelihood of the target segment purchasing Twisties over other brands.
 
-Cick here to view [Dashboard](https://www.novypro.com/project/quantium-retail-strategy--analytics-project)
+Click here to view [Dashboard](https://www.novypro.com/project/quantium-retail-strategy--analytics-project)
 
 ### Results
 From the Assessments,
