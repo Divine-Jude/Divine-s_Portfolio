@@ -36,7 +36,11 @@ Step 3: Power BI Integration
 To visualize the data and gain meaningful insights, we connected Power BI to the SQL database. This integration allowed us to create interactive and visually appealing visualizations for effective data exploration.
 
 Step 4: Data Visualization
-Using Power BI’s visualization capabilities, we created charts, graphs, and dashboards to represent the hotel data in a visually appealing and informative manner. These visualizations enabled stakeholders to understand the patterns, trends, and relationships within the data. Click the link to interact with the [dashboard](https://www.novypro.com/project/hotel-revenue-analysis-2)
+Using Power BI’s visualization capabilities, we created charts, graphs, and dashboards to represent the hotel data in a visually appealing and informative manner. These visualizations enabled stakeholders to understand the patterns, trends, and relationships within the data. 
+
+![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/46c93bbc-5e13-4b28-b0fa-b37aea50adb7)
+
+Click the link to interact with the [dashboard](https://www.novypro.com/project/hotel-revenue-analysis-2)
 
 ## Results
 Based on the analysis and visualizations, the following key findings were identified:
