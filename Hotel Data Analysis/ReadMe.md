@@ -1,4 +1,4 @@
-# Hotel Revenue Analysis and Visualization using SQL and Power BI
+# Hotel Revenue Analysis using SQL and Power BI
 
 ## Overview
 This project uses SQL and Power BI to analyze data from a hotel chain. The data includes information about hotel revenue, customer type, market segment, and other factors. The project aims to answer the following questions:
