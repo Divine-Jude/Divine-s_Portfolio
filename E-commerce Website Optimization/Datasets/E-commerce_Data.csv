@@ -1,0 +1,1001 @@
+User_ID,Page_views,Unique_visitors,Bounce_rate,Average_session_duration,Date,Products,Conversions,Conversion_path,Conversion_value,Device,Traffic_source,Age,Gender,Country,Product_views,Cart_abandonment,Product_reviews,Page
+135edeb2-726d-4697-ac3e-c9a62dfb6e33,369,238,16,69.86,2020-01-01,Aviator Sunglasses,10.0,https://Yourclothingbrand.com/store/sunglasses,205.42,Desktop,Social Media,32,Female,Canada,49,4,1,sunglasses
+14520c3c-15b6-41dd-8d4c-8dbf9dd900ea,144,356,68,98.83,2020-01-01,Cashmere Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,265.58,Desktop,Social Media,64,Female,Austria,13,9,1,sweater
+2012ca70-6c9d-4751-818f-af21054cf314,331,168,50,92.37,2020-01-01,Floral Dress,28.0,https://Yourclothingbrand.com/store/dresses,167.74,Mobile,Organic Search,31,Female,UK,45,2,4,dress
+81c2add7-f7b2-4383-bdb2-d210c21c9a6a,174,281,64,99.89,2020-01-01,Floral Dress,18.0,https://Yourclothingbrand.com/store/dresses,134.61,Mobile,Organic Search,65,Female,Nigeria,60,52,5,dress
+5a6fd690-8654-4803-bda3-9bf30c7361e3,361,274,11,111.68,2020-01-01,Basic T-Shirt,21.0,https://Yourclothingbrand.com/store/t-shirts,181.28,Desktop,Social Media,69,Male,UK,15,26,5,t-shirt
+84525d39-f287-42d0-aa64-cd3bb4d2b3e5,226,259,28,82.66,2020-01-01,Comfy Shorts,4.0,https://Yourclothingbrand.com/store/shorts,117.03,Desktop,Paid Advertising,20,Male,Australia,65,43,4,shorts
+bdbf12a3-4421-42d1-be29-ee84d89ab1e6,153,126,22,78.32,2020-01-01,Cropped Pants,10.0,https://Yourclothingbrand.com/store/pants,248.93,Mobile,Paid Advertising,49,Female,Netherlands,57,35,5,pants
+1a7bd6e9-0e1f-4793-9fda-6189965427bf,364,238,15,113.6,2020-01-01,Fashionable Outerwear,11.0,https://Yourclothingbrand.com/store/outerwear,104.95,Mobile,Paid Advertising,55,Female,Nigeria,52,48,5,outerwear
+260327c6-0725-4d9e-a179-4648216ebd50,399,234,11,101.48,2020-01-01,Fashionable Outerwear,9.0,https://Yourclothingbrand.com/store/outerwear,201.98,Desktop,Organic Search,69,Female,Ireland,30,14,5,outerwear
+3e5e248a-5401-47dc-89a1-f4d73748de54,323,284,54,109.15,2020-01-01,Pleated Skirt,15.0,https://Yourclothingbrand.com/store/skirts,113.01,Mobile,Paid Advertising,22,Male,Austria,44,12,5,skirt
+4a5418d7-55cd-4ed6-af0b-4f3278b932b7,367,230,62,65.79,2020-01-01,Chic Accessories,16.0,https://Yourclothingbrand.com/store/accessories,240.29,Desktop,Social Media,49,Female,UK,31,34,1,accessories
+3ee1034e-90cd-48f4-92cc-4de2fef5684f,181,243,76,77.03,2020-01-01,Running Activewear,40.0,https://Yourclothingbrand.com/store/activewear,63.68,Mobile,Social Media,65,Female,Germany,19,14,2,activewear
+d105b1fa-14c9-4ae4-8692-a29ccdeecec9,320,308,76,87.73,2020-01-01,Featured Products,7.0,https://Yourclothingbrand.com/home,50.08,Desktop,Paid Advertising,69,Female,UK,71,55,5,home
+124cc749-ce2f-49c7-acb0-160dcea6bf69,221,197,12,101.63,2020-01-01,Stylish Jacket,18.0,https://Yourclothingbrand.com/store/jackets,162.77,Desktop,Social Media,25,Female,Germany,32,14,2,jacket
+58857be4-32de-4ddb-b860-fdb696d88070,206,364,25,61.32,2020-01-01,Sporty Activewear,7.0,https://Yourclothingbrand.com/store/activewear,220.0,Desktop,Social Media,58,Male,Ireland,54,25,5,activewear
+9bd8d6a1-5e1d-429e-9eda-d5adbb8452cb,274,315,44,99.87,2020-01-01,Personal Styling,10.0,https://Yourclothingbrand.com/services,83.77,Desktop,Paid Advertising,49,Female,France,77,56,2,services
+e5077daf-75f7-47ac-a75b-d3d87aa8429b,309,300,63,71.28,2020-01-01,Midi Skirt,7.0,https://Yourclothingbrand.com/store/skirts,233.67,Mobile,Paid Advertising,51,Female,UK,36,35,3,skirt
+a64224f2-0cf4-4239-aa72-d29f618f0a0c,201,385,10,68.24,2020-01-01,Bomber Jacket,4.0,https://Yourclothingbrand.com/store/jackets,233.39,Desktop,Paid Advertising,31,Female,Singapore,15,3,4,jacket
+2599629b-9429-4ee1-919f-35415f9720a1,147,319,63,102.4,2020-01-01,Knitted Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,205.5,Desktop,Social Media,57,Male,Finland,80,29,2,sweater
+6747ae4d-d208-42be-b7b3-4d59fcfa3ec1,183,235,67,92.86,2020-01-01,Leather Jacket,9.0,https://Yourclothingbrand.com/store/jackets,62.42,Desktop,Organic Search,27,Male,Nigeria,8,36,5,jacket
+16b80994-e668-4fbe-89c7-9a1057d9d71e,211,152,33,99.96,2020-01-01,Personal Styling,6.0,https://Yourclothingbrand.com/services,160.71,Desktop,Paid Advertising,50,Male,USA,4,53,5,services
+55c9366f-8629-4247-a226-2cba5aec1455,290,378,21,107.91,2020-01-01,Meet the Team,11.0,https://Yourclothingbrand.com/about-us,159.6,Desktop,Organic Search,45,Female,New Zealand,74,63,5,about us
+946cfb63-1300-4d5f-9ce5-f5547421dbba,251,348,45,75.89,2020-01-01,Stylish Hat,8.0,https://Yourclothingbrand.com/store/hats,239.12,Desktop,Organic Search,70,Female,Australia,66,57,4,hat
+c00f724a-886b-4f0e-a3ff-12ca3950480f,111,377,62,66.03,2020-01-01,Sneaker Collection,5.0,https://Yourclothingbrand.com/store/sneakers,204.4,Desktop,Paid Advertising,34,Male,Ireland,39,34,1,sneaker
+22595983-68c0-4241-a708-a0d40882addf,314,352,35,77.05,2020-01-01,Cozy Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,299.72,Desktop,Organic Search,68,Female,Germany,25,31,2,sweater
+f022abb5-93be-4498-9317-ff8985e7af34,173,265,39,86.05,2020-01-01,Company History,22.0,https://Yourclothingbrand.com/about-us,194.75,Desktop,Social Media,34,Male,New Zealand,23,74,3,about us
+98b4fb14-368e-4741-98c7-d61ff90bbd00,281,261,54,66.8,2020-01-01,Stylish Hat,11.0,https://Yourclothingbrand.com/store/hats,207.17,Desktop,Paid Advertising,52,Female,Canada,29,31,4,hat
+e99f1ce2-9630-44b1-9060-e3f84510eb58,199,323,65,81.81,2020-01-01,Leather Handbag,20.0,https://Yourclothingbrand.com/store/handbags,249.06,Mobile,Organic Search,51,Female,Austria,15,38,4,handbag
+f66f0adf-2233-4d01-8e9d-6c4bd0a5591b,264,285,75,116.95,2020-01-01,Cashmere Sweater,5.0,https://Yourclothingbrand.com/store/sweaters,194.4,Desktop,Paid Advertising,67,Female,Singapore,26,8,4,sweater
+9bb62b2f-fb5b-4a34-bd10-30dc5fdea45b,279,354,27,94.82,2020-01-01,Printed Scarf,7.0,https://Yourclothingbrand.com/store/scarves,151.53,Desktop,Organic Search,67,Female,UK,57,47,4,scarf
+5201222c-11ea-41ba-998b-a2e14183876f,233,306,20,85.51,2020-01-01,Classic Jeans,7.0,https://Yourclothingbrand.com/store/jeans,275.09,Desktop,Paid Advertising,66,Female,Germany,73,77,4,jeans
+31c16478-aaae-400c-8031-e1c054a0a495,346,261,73,98.4,2020-01-01,Cat-Eye Sunglasses,13.0,https://Yourclothingbrand.com/store/sunglasses,165.41,Mobile,Paid Advertising,37,Female,Singapore,40,73,2,sunglasses
+25556b69-4f8d-4e5c-95d4-59e53fc87e86,253,176,39,104.5,2020-01-01,Stylish Jacket,23.0,https://Yourclothingbrand.com/store/jackets,254.42,Mobile,Social Media,24,Female,Austria,44,69,1,jacket
+b5c58b3e-e47d-4ece-a89c-223b303741c2,275,291,30,93.75,2020-01-01,Plaid Shirt,11.0,https://Yourclothingbrand.com/store/shirts,177.03,Desktop,Organic Search,24,Female,Canada,44,31,5,shirt
+ef0bfa36-307c-4485-93ca-6c6a3b7a2c8a,377,229,56,64.85,2020-01-01,Skinny Jeans,10.0,https://Yourclothingbrand.com/store/jeans,291.18,Desktop,Social Media,49,Male,Canada,79,16,2,jeans
+652a6b4a-482f-473e-96d5-3cd7b6babf2f,317,262,69,112.92,2020-01-01,Denim Shorts,18.0,https://Yourclothingbrand.com/store/shorts,128.32,Desktop,Social Media,42,Female,USA,31,80,4,shorts
+ac79c904-1c1c-466f-82ea-559c5796aa46,217,339,19,102.2,2020-01-01,Dainty Jewelry,24.0,https://Yourclothingbrand.com/store/jewelry,188.81,Mobile,Social Media,66,Female,Canada,30,77,2,jewelry
+d5196d2d-4ec0-4b86-b2cb-3f6828ae4fef,380,122,68,98.59,2020-01-01,Featured Products,26.0,https://Yourclothingbrand.com/home,234.88,Mobile,Social Media,62,Female,Canada,5,52,1,home
+e2b42f7a-7e7d-4327-8056-3fe46ce771a6,272,371,42,105.59,2020-01-01,Bohemian Accessories,12.0,https://Yourclothingbrand.com/store/accessories,108.58,Desktop,Social Media,36,Female,Nigeria,75,13,3,accessories
+848858fd-bf1a-4159-a319-59a175d1f714,362,168,26,100.37,2020-01-01,Chic Accessories,5.0,https://Yourclothingbrand.com/store/accessories,210.14,Desktop,Organic Search,67,Female,Australia,29,5,5,accessories
+40490fb8-a867-41db-a2a4-65005fd7cf51,237,158,30,78.33,2020-01-01,Stylish Jacket,10.0,https://Yourclothingbrand.com/store/jackets,181.8,Desktop,Organic Search,40,Female,UK,14,13,2,jacket
+73d1d154-5e53-46a4-bac8-69b427d4edd6,145,332,71,82.01,2020-01-01,Mission and Vision,3.0,https://Yourclothingbrand.com/about-us,271.8,Desktop,Paid Advertising,54,Female,UK,3,63,1,about us
+02ccdf8c-58a6-40f9-8644-b508a4e4a332,100,146,16,93.52,2020-01-01,Tote Handbag,14.0,https://Yourclothingbrand.com/store/handbags,211.68,Desktop,Social Media,23,Male,New Zealand,66,34,4,handbag
+7e69dacf-beaf-44da-b339-a2ecab7a7184,371,243,26,103.03,2020-01-01,Knitted Sweater,28.0,https://Yourclothingbrand.com/store/sweaters,50.4,Mobile,Social Media,66,Female,Australia,66,29,1,sweater
+bea781e8-5fd1-44a0-a55d-14edb2fdc20e,184,124,18,90.54,2020-01-01,Statement Jewelry,4.0,https://Yourclothingbrand.com/store/jewelry,61.07,Desktop,Paid Advertising,67,Female,USA,71,70,1,jewelry
+272729e9-9a95-414c-8884-407842472bba,230,380,11,102.76,2020-01-01,Inquiry Form,9.0,https://Yourclothingbrand.com/contacts,269.19,Desktop,Social Media,48,Female,Australia,17,34,4,contact
+19b17be9-98af-412a-8f99-984ec7b78bde,265,299,79,82.9,2020-01-01,Personal Styling,10.0,https://Yourclothingbrand.com/services,99.46,Desktop,Organic Search,62,Female,Finland,69,60,3,services
+1712cd8f-8b0a-4636-85dd-2c51ee28f771,324,367,47,88.55,2020-01-01,Fashionable Sunglasses,9.0,https://Yourclothingbrand.com/store/sunglasses,64.01,Desktop,Paid Advertising,51,Female,Australia,44,41,5,sunglasses
+dd15e534-eaec-4e9e-a51e-8aa277951275,264,257,44,96.44,2020-01-01,Tote Handbag,6.0,https://Yourclothingbrand.com/store/handbags,226.35,Desktop,Paid Advertising,57,Female,USA,50,75,4,handbag
+f55c5491-8104-4b07-b6cf-5fa7dae90131,271,207,68,118.51,2020-01-01,Mission and Vision,9.0,https://Yourclothingbrand.com/about-us,128.83,Desktop,Social Media,67,Female,Australia,28,80,1,about us
+4a111efc-bee2-43ac-b6f9-987488d8ef4b,192,157,55,90.86,2020-01-01,Tote Handbag,4.0,https://Yourclothingbrand.com/store/handbags,89.33,Desktop,Paid Advertising,20,Male,New Zealand,36,60,2,handbag
+6e19b7eb-f0f0-4135-b4f1-71bb5b62683b,191,123,74,97.6,2020-01-01,Denim Shirt,9.0,https://Yourclothingbrand.com/store/shirts,130.52,Desktop,Organic Search,61,Female,New Zealand,28,44,1,shirt
+78aec849-cdd5-4f1f-8645-bd8730ec4ab1,161,388,29,68.32,2020-01-01,Featured Products,9.0,https://Yourclothingbrand.com/home,298.66,Desktop,Organic Search,21,Female,Finland,43,34,5,home
+b920efeb-9c45-4516-af68-f6938091c472,100,216,77,106.6,2020-01-01,Fun Socks,17.0,https://Yourclothingbrand.com/store/socks,207.48,Desktop,Organic Search,62,Female,Finland,76,76,2,socks
+21f5962a-e172-4e1e-98ec-2e3bd9440f2f,339,272,28,73.85,2020-01-01,Dainty Jewelry,15.0,https://Yourclothingbrand.com/store/jewelry,283.02,Desktop,Social Media,33,Female,USA,65,5,3,jewelry
+30c2cde7-1668-4c6f-91ac-7de904bb215c,232,193,28,100.4,2020-01-01,Silk Scarf,18.0,https://Yourclothingbrand.com/store/scarves,289.9,Desktop,Organic Search,47,Female,USA,50,17,5,scarf
+4c9ab069-fb78-4790-9100-b68ab9ecae90,335,329,74,100.36,2020-01-01,New Arrivals,13.0,https://Yourclothingbrand.com/home,275.6,Desktop,Social Media,22,Female,Netherlands,30,74,3,home
+7bce64e5-82b1-4dcd-b667-8fe35d95e29c,207,249,65,61.21,2020-01-01,Company History,9.0,https://Yourclothingbrand.com/about-us,254.98,Desktop,Paid Advertising,67,Male,Singapore,31,19,5,about us
+702e3fbb-44ec-4df7-9be3-7fd81cc44aa9,235,159,73,80.95,2020-01-01,Leather Wallet,25.0,https://Yourclothingbrand.com/store/wallets,52.27,Mobile,Social Media,30,Female,USA,5,28,3,wallet
+c5e8fda4-337a-4ec0-8032-729e45e11a44,295,395,77,65.77,2020-01-01,Slim Wallet,8.0,https://Yourclothingbrand.com/store/wallets,209.69,Desktop,Organic Search,54,Male,France,31,41,1,wallet
+15e55310-9d9b-4c39-a95a-571bda1f2ce1,111,225,27,82.64,2020-01-01,Woolen Scarf,28.0,https://Yourclothingbrand.com/store/scarves,295.03,Mobile,Organic Search,33,Male,USA,59,31,5,scarf
+10e7a565-db12-41c3-bebb-4a1610adcdbb,137,187,76,93.75,2020-01-01,Yoga Activewear,9.0,https://Yourclothingbrand.com/store/activewear,209.25,Mobile,Social Media,19,Female,USA,17,39,2,activewear
+802e03f9-7181-4eb2-9e98-3a3965e58a32,240,343,63,62.22,2020-01-01,Fashion Consultation,12.0,https://Yourclothingbrand.com/services,118.65,Mobile,Organic Search,64,Female,Singapore,64,8,3,services
+a15dfcac-efbc-4e82-a297-bae1aa835da0,167,359,38,81.42,2020-01-01,Formal Shirt,4.0,https://Yourclothingbrand.com/store/shirts,163.0,Desktop,Paid Advertising,22,Female,UK,73,14,1,shirt
+dc0eab4e-46af-4efc-914a-c62dd083c853,270,286,30,89.91,2020-01-01,Comfy Shorts,5.0,https://Yourclothingbrand.com/store/shorts,260.84,Desktop,Paid Advertising,50,Female,Nigeria,18,6,5,shorts
+cb72d7b1-7486-4411-8211-2e167c3a1b9b,368,188,49,72.92,2020-01-01,Slim Wallet,8.0,https://Yourclothingbrand.com/store/wallets,241.54,Desktop,Paid Advertising,59,Male,Austria,28,69,4,wallet
+6b181dec-adfb-41d8-8a82-4740f05c1458,298,112,19,86.92,2020-01-01,Classic Jeans,12.0,https://Yourclothingbrand.com/store/jeans,188.54,Desktop,Paid Advertising,23,Male,Austria,66,4,1,jeans
+833e1409-1ddb-4306-865b-0fd75069d55c,328,251,22,80.13,2020-01-01,Patterned Socks,8.0,https://Yourclothingbrand.com/store/socks,151.29,Desktop,Paid Advertising,42,Female,Netherlands,49,71,5,socks
+67e17e58-34c3-4bc1-9745-5015c178cd80,274,197,39,104.07,2020-01-01,Silk Scarf,3.0,https://Yourclothingbrand.com/store/scarves,135.26,Desktop,Paid Advertising,45,Female,France,49,63,5,scarf
+2a1079f4-54d5-4b6c-80eb-48ca16a3b6de,226,138,21,104.46,2020-01-01,Classic Jeans,11.0,https://Yourclothingbrand.com/store/jeans,118.26,Desktop,Organic Search,40,Female,UK,16,33,2,jeans
+cbbb28a5-39dd-4290-a89c-26f431bc11de,299,153,12,89.47,2020-01-01,Meet the Team,5.0,https://Yourclothingbrand.com/about-us,285.22,Desktop,Organic Search,28,Female,Nigeria,7,13,1,about us
+e787dea4-7d02-4005-bcbf-0c78a5c51cd4,310,307,17,81.38,2020-01-01,Comfy Sneaker,7.0,https://Yourclothingbrand.com/store/sneakers,288.98,Desktop,Social Media,60,Female,Nigeria,65,47,2,sneaker
+6f2586ee-6687-4dfd-8a1d-de29ff42a158,369,113,46,106.55,2020-01-01,Classic Jeans,12.0,https://Yourclothingbrand.com/store/jeans,277.29,Desktop,Social Media,54,Female,Austria,37,79,1,jeans
+24f9d209-9fff-45e4-bea8-3ac22096d8c3,229,282,66,116.81,2020-01-01,Wide-Leg Pants,5.0,https://Yourclothingbrand.com/store/pants,148.38,Desktop,Paid Advertising,37,Female,UK,33,46,5,pants
+64783566-538c-484f-a807-fc57b549da20,233,230,67,78.08,2020-01-01,Leather Wallet,13.0,https://Yourclothingbrand.com/store/wallets,244.8,Desktop,Organic Search,59,Male,Ireland,40,66,4,wallet
+4fde90ec-0969-4589-bc2c-4a6985197da0,331,163,21,109.35,2020-01-01,Bohemian Accessories,13.0,https://Yourclothingbrand.com/store/accessories,144.09,Desktop,Paid Advertising,49,Female,Finland,20,49,5,accessories
+cabf05ec-0d8b-4a35-82f3-c5e06b737d8e,159,283,38,67.11,2020-01-01,Chic Skirt,19.0,https://Yourclothingbrand.com/store/skirts,144.36,Desktop,Social Media,30,Male,Nigeria,45,14,5,skirt
+f65e5fd4-5fd1-40eb-94b7-8f496e50f0b7,264,150,53,74.77,2020-01-01,Cat-Eye Sunglasses,5.0,https://Yourclothingbrand.com/store/sunglasses,184.81,Desktop,Organic Search,29,Male,Austria,29,11,2,sunglasses
+08f16f25-3477-4224-bb6a-1cfa0e3133a7,381,133,70,111.96,2020-01-01,Bomber Jacket,33.0,https://Yourclothingbrand.com/store/jackets,242.51,Mobile,Social Media,61,Female,Australia,43,32,5,jacket
+47d75f53-3c5f-491e-aa97-330f22428b0a,385,106,42,64.8,2020-01-01,Ripped Jeans,12.0,https://Yourclothingbrand.com/store/jeans,203.02,Desktop,Social Media,67,Female,UK,15,40,4,jeans
+783510f5-49da-4aae-98b9-9d86d26b0182,231,368,26,107.35,2020-01-01,Stylish Jacket,9.0,https://Yourclothingbrand.com/store/jackets,114.7,Desktop,Organic Search,67,Female,Nigeria,14,51,1,jacket
+64949342-407f-478f-82f3-1e8a96bbef6f,370,131,17,104.74,2020-01-01,Leather Jacket,6.0,https://Yourclothingbrand.com/store/jackets,271.67,Desktop,Paid Advertising,19,Female,UK,71,48,3,jacket
+d8da3115-03c8-4f60-90b5-b6a595cbdf7e,189,162,26,60.06,2020-01-01,Floral Dress,9.0,https://Yourclothingbrand.com/store/dresses,171.41,Mobile,Organic Search,35,Female,USA,53,54,5,dress
+7688f504-1e0d-427a-a1b0-d73171ee30d3,364,241,25,115.84,2020-01-01,Dainty Jewelry,13.0,https://Yourclothingbrand.com/store/jewelry,296.04,Mobile,Organic Search,45,Female,Austria,46,73,5,jewelry
+03ad0ecd-0b26-47ca-9413-1bca983d53fd,247,376,46,77.07,2020-01-01,Stylish Hat,48.0,https://Yourclothingbrand.com/store/hats,55.57,Mobile,Social Media,37,Female,Austria,14,76,1,hat
+e50f5e41-012b-432b-bee6-416c2c70937d,278,204,50,105.92,2020-01-01,Cozy Sweater,31.0,https://Yourclothingbrand.com/store/sweaters,95.63,Mobile,Social Media,61,Female,New Zealand,6,14,1,sweater
+7984a7c2-31cc-4256-bc80-f63616dd3210,259,126,71,111.21,2020-01-01,Stylish Jacket,5.0,https://Yourclothingbrand.com/store/jackets,77.88,Mobile,Paid Advertising,67,Male,Singapore,54,27,2,jacket
+3409c457-f81b-422f-adc9-ad76b571cc41,177,268,40,89.77,2020-01-01,Chic Accessories,8.0,https://Yourclothingbrand.com/store/accessories,80.86,Desktop,Organic Search,38,Male,Canada,22,60,4,accessories
+bc6aa848-7de8-4b1a-a403-8c4158116e70,343,124,71,114.19,2020-01-01,Sneaker Collection,7.0,https://Yourclothingbrand.com/store/sneakers,298.42,Mobile,Paid Advertising,23,Female,Ireland,42,74,5,sneaker
+d9661e79-789d-498b-9365-6eca879a8045,217,245,41,116.96,2020-01-01,Sporty Activewear,15.0,https://Yourclothingbrand.com/store/activewear,232.97,Desktop,Social Media,50,Female,Austria,62,66,1,activewear
+05332169-1f21-4cf1-b6a7-5b722ad981a9,238,398,24,106.7,2020-01-01,Pleated Skirt,6.0,https://Yourclothingbrand.com/store/skirts,287.79,Desktop,Paid Advertising,70,Female,South Korea,1,7,2,skirt
+b2c2d9a2-3832-405c-8f37-ea2c38780e6e,239,242,35,73.07,2020-01-01,Bomber Jacket,9.0,https://Yourclothingbrand.com/store/jackets,91.38,Desktop,Organic Search,30,Female,USA,77,22,4,jacket
+be98e393-95f5-4e11-865d-7e283b267e26,269,175,36,70.85,2020-01-01,Vintage T-Shirt,20.0,https://Yourclothingbrand.com/store/t-shirts,271.37,Mobile,Organic Search,52,Female,New Zealand,10,71,1,t-shirt
+47e5f423-9978-4337-b925-856f54988548,217,135,80,119.87,2020-01-01,Boho Jewelry,5.0,https://Yourclothingbrand.com/store/jewelry,94.82,Desktop,Paid Advertising,65,Female,Canada,19,1,4,jewelry
+72a9927d-9a60-441e-9723-4a278e521b11,168,248,41,83.97,2020-01-01,Cashmere Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,71.75,Desktop,Organic Search,22,Female,USA,34,75,1,sweater
+bf648fe7-8a4f-400b-8ed2-79162ec6bd5c,313,255,13,79.63,2020-01-01,Beanie Hat,10.0,https://Yourclothingbrand.com/store/hats,185.32,Desktop,Organic Search,45,Female,Austria,70,26,4,hat
+89015970-f7fa-4889-a5cb-40bfd495fcaf,359,388,54,93.55,2020-01-01,Beanie Hat,13.0,https://Yourclothingbrand.com/store/hats,147.34,Desktop,Social Media,21,Female,France,5,60,5,hat
+e497c8af-d08b-4c22-afa0-121c3b07ee37,197,203,61,91.94,2020-01-01,Ankle Socks,15.0,https://Yourclothingbrand.com/store/socks,230.03,Desktop,Organic Search,22,Female,USA,15,70,4,socks
+498e135c-6508-4f69-a221-f032cf3c2982,363,184,23,88.01,2020-01-01,Patterned Socks,8.0,https://Yourclothingbrand.com/store/socks,185.75,Desktop,Organic Search,37,Female,UK,8,57,5,socks
+a1543384-286b-4b2e-8ad0-a8f70fa2c2ce,138,326,36,84.01,2020-01-01,Fun Socks,7.0,https://Yourclothingbrand.com/store/socks,182.65,Desktop,Paid Advertising,61,Female,Canada,33,37,5,socks
+6e2b82d4-df92-4e25-b034-1abf08fb6009,261,149,24,100.41,2020-01-01,Winter Outerwear,15.0,https://Yourclothingbrand.com/store/outerwear,112.04,Mobile,Paid Advertising,50,Female,USA,6,15,4,outerwear
+76409e59-87fa-446b-9610-37296c67b57d,210,141,34,77.94,2020-01-01,Dainty Jewelry,22.0,https://Yourclothingbrand.com/store/jewelry,200.47,Mobile,Social Media,36,Female,USA,20,40,2,jewelry
+0932d090-6cdb-46ab-a0e8-ac4a9ebe7852,366,221,38,61.8,2020-01-01,Leather Wallet,15.0,https://Yourclothingbrand.com/store/wallets,243.87,Mobile,Organic Search,57,Female,USA,46,60,1,wallet
+15c03c24-5fa0-4375-8145-d3da4e75f0c8,239,298,63,95.28,2020-01-01,Stylish Jacket,16.0,https://Yourclothingbrand.com/store/jackets,181.47,Mobile,Social Media,30,Male,USA,69,20,2,jacket
+46a37a64-e017-41cd-940f-a6dab33127f1,104,188,49,74.74,2020-01-01,Knitted Sweater,6.0,https://Yourclothingbrand.com/store/sweaters,237.93,Mobile,Paid Advertising,49,Female,UK,52,31,4,sweater
+20b5a7c9-2cdc-40c1-8a00-2d4b1ba7caf8,161,170,67,68.11,2020-01-01,Knitted Sweater,19.0,https://Yourclothingbrand.com/store/sweaters,97.54,Desktop,Social Media,44,Female,Australia,5,47,4,sweater
+d03a20c7-9393-4fdb-80de-f9bc967e4de9,269,227,45,94.88,2020-01-01,Denim Shirt,13.0,https://Yourclothingbrand.com/store/shirts,238.7,Mobile,Paid Advertising,49,Female,USA,49,24,1,shirt
+5758e530-f313-45c9-9beb-3c7fc0083466,312,200,62,75.43,2020-01-01,Denim Shirt,15.0,https://Yourclothingbrand.com/store/shirts,132.86,Desktop,Organic Search,40,Male,Nigeria,66,27,4,shirt
+31990106-34a9-44e6-8502-ec54819eccf1,311,112,48,108.12,2020-01-01,Knitted Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,173.0,Desktop,Social Media,35,Female,USA,21,65,1,sweater
+1d439f45-a95c-4cd7-a8e2-6973513036e9,332,296,17,100.46,2020-01-01,Fashionable Outerwear,38.0,https://Yourclothingbrand.com/store/outerwear,295.15,Mobile,Social Media,62,Male,Nigeria,56,15,5,outerwear
+ffc26206-782e-4f88-8740-842e8dfda4b0,205,356,56,86.95,2020-01-01,Leather Handbag,19.0,https://Yourclothingbrand.com/store/handbags,167.81,Mobile,Organic Search,68,Female,USA,19,3,4,handbag
+d8a2c821-a59e-4c18-81a7-2db25bb97a59,340,178,14,100.74,2020-01-01,Tailored Pants,10.0,https://Yourclothingbrand.com/store/pants,192.35,Desktop,Organic Search,24,Female,Canada,50,43,4,pants
+77594e84-cd0b-4f3e-a818-2ded10c024fe,157,309,53,108.46,2020-01-01,Ankle Socks,30.0,https://Yourclothingbrand.com/store/socks,254.47,Mobile,Organic Search,24,Male,USA,36,23,2,socks
+ece60c10-7fd2-492e-9b97-777fe9c67d02,364,119,24,65.39,2020-01-01,Statement Jewelry,7.0,https://Yourclothingbrand.com/store/jewelry,154.17,Desktop,Paid Advertising,49,Male,Singapore,75,77,5,jewelry
+352bff98-21a2-47c0-b9ff-155d1af71bc2,348,221,69,69.15,2020-01-01,Lightweight Outerwear,14.0,https://Yourclothingbrand.com/store/outerwear,190.68,Mobile,Paid Advertising,32,Male,UK,70,33,1,outerwear
+423988ad-3460-4938-bae2-7dc3be1ec9e9,150,339,71,97.69,2020-01-01,Beanie Hat,5.0,https://Yourclothingbrand.com/store/hats,198.35,Desktop,Paid Advertising,45,Female,Austria,71,48,3,hat
+86f21be7-853c-492e-8913-bd15a0d9e797,400,134,64,106.33,2020-01-01,Chic Accessories,12.0,https://Yourclothingbrand.com/store/accessories,114.07,Desktop,Paid Advertising,64,Male,Canada,42,21,1,accessories
+2e8d03af-36b7-4e41-8050-8f81ffdb1ea4,222,345,45,106.29,2020-01-01,Boho Jewelry,15.0,https://Yourclothingbrand.com/store/jewelry,141.14,Desktop,Organic Search,50,Female,Australia,25,3,3,jewelry
+aed5ecf2-db8f-45ad-889e-c491f69ffb69,380,340,79,73.37,2020-01-01,Vintage T-Shirt,17.0,https://Yourclothingbrand.com/store/t-shirts,204.84,Desktop,Social Media,21,Female,Germany,16,16,1,t-shirt
+1965fa4f-4d93-4029-ba32-a422e01189ac,357,237,57,110.66,2020-01-01,Inquiry Form,6.0,https://Yourclothingbrand.com/contacts,148.94,Mobile,Paid Advertising,64,Female,UK,58,53,4,contact
+5d27ce6b-c613-4a63-b3e7-b82ccf65b7b0,162,324,79,68.35,2020-01-01,Floral Dress,38.0,https://Yourclothingbrand.com/store/dresses,221.46,Mobile,Social Media,55,Female,USA,76,46,4,dress
+825c39b6-e452-45a7-9310-f3131acd090c,369,392,28,103.23,2020-01-01,Comfy Shorts,15.0,https://Yourclothingbrand.com/store/shorts,164.98,Desktop,Organic Search,36,Female,Nigeria,73,29,2,shorts
+dcd3b437-3847-41ed-91f0-600e7c40039c,277,170,45,99.18,2020-01-01,Denim Shirt,14.0,https://Yourclothingbrand.com/store/shirts,221.71,Desktop,Social Media,63,Female,USA,40,19,2,shirt
+26b4b621-5291-4903-b7d5-6663d53fa1f7,355,377,21,76.19,2020-01-01,Lightweight Outerwear,7.0,https://Yourclothingbrand.com/store/outerwear,276.96,Mobile,Paid Advertising,47,Female,UK,23,13,3,outerwear
+5f05d718-75fa-480b-815a-e2853cc29009,330,269,37,116.09,2020-01-01,Cashmere Sweater,13.0,https://Yourclothingbrand.com/store/sweaters,210.02,Desktop,Social Media,42,Male,USA,74,63,5,sweater
+64890e59-e951-4812-bbcd-c0e5ea7bb7c1,204,289,72,93.85,2020-01-01,Elegant Sneaker,14.0,https://Yourclothingbrand.com/store/sneakers,298.4,Desktop,Organic Search,69,Female,UK,69,33,1,sneaker
+abd44a2c-5d18-4d73-baa6-95fa6ecf8820,140,359,13,83.12,2020-01-01,Maxi Dress,5.0,https://Yourclothingbrand.com/store/dresses,238.18,Desktop,Paid Advertising,39,Female,USA,12,21,1,dress
+bdb8cd12-1e47-4a56-be70-2f1a791efc33,217,254,29,111.91,2020-01-01,Inquiry Form,16.0,https://Yourclothingbrand.com/contacts,212.44,Desktop,Social Media,35,Female,New Zealand,24,11,2,contact
+7def99db-ee12-4c33-96fc-6f6263a6d09b,202,151,53,98.98,2020-01-01,Company History,12.0,https://Yourclothingbrand.com/about-us,166.3,Desktop,Organic Search,41,Male,Canada,18,64,3,about us
+d548319a-ba14-4288-9dee-a84b9713d1cc,164,246,14,119.39,2020-01-01,Tailored Pants,20.0,https://Yourclothingbrand.com/store/pants,233.87,Mobile,Social Media,53,Female,USA,21,12,4,pants
+529551f9-5436-4bed-8abf-0e96cb98ef00,157,102,39,66.91,2020-01-01,Leather Jacket,12.0,https://Yourclothingbrand.com/store/jackets,95.41,Desktop,Paid Advertising,56,Female,Germany,16,65,5,jacket
+911b3762-d999-4541-8a2c-5bae1b299612,368,378,43,78.46,2020-01-01,Featured Products,5.0,https://Yourclothingbrand.com/home,63.77,Desktop,Paid Advertising,55,Male,Canada,11,9,4,home
+af708dcb-4f7b-4ae6-8b90-a4011e05f5e2,344,231,39,82.59,2020-01-01,Leather Handbag,19.0,https://Yourclothingbrand.com/store/handbags,252.88,Desktop,Social Media,25,Female,Singapore,1,25,5,handbag
+fcfa0c41-8a64-42ec-b1b4-ba2b160011ad,172,255,15,108.58,2020-01-01,Winter Outerwear,13.0,https://Yourclothingbrand.com/store/outerwear,93.66,Desktop,Organic Search,35,Female,Nigeria,73,19,4,outerwear
+d1e363ce-7978-424d-9acc-8c7fbd8c5890,249,321,53,83.79,2020-01-01,Tailored Pants,17.0,https://Yourclothingbrand.com/store/pants,183.96,Desktop,Social Media,25,Female,Germany,18,3,1,pants
+c7b3fa98-c022-4738-8bd6-dd5f343a9b5f,302,373,21,76.22,2020-01-01,Woolen Scarf,11.0,https://Yourclothingbrand.com/store/scarves,230.01,Desktop,Social Media,60,Female,USA,30,54,2,scarf
+7ea4857c-dde1-4d46-b3a5-68fa54e3f500,298,135,31,78.1,2020-01-01,Chic Accessories,7.0,https://Yourclothingbrand.com/store/accessories,251.41,Mobile,Paid Advertising,55,Female,USA,15,45,3,accessories
+458dad62-d406-469f-8deb-f2645a5c6fcc,171,343,64,76.92,2020-01-01,Support Email,10.0,https://Yourclothingbrand.com/contacts,115.87,Desktop,Paid Advertising,27,Female,Australia,8,43,5,contact
+5fa04512-1c51-4b14-8a90-e19e1a129b86,373,320,59,115.41,2020-01-01,Special Offers,9.0,https://Yourclothingbrand.com/home,100.0,Mobile,Organic Search,49,Male,South Korea,2,55,4,home
+62bbd346-7547-447c-8f83-2b236a1b6810,289,395,27,86.18,2020-01-01,Skinny Jeans,6.0,https://Yourclothingbrand.com/store/jeans,86.87,Desktop,Paid Advertising,67,Female,Ireland,36,6,4,jeans
+16b975c7-d445-4fa3-ab95-e32d3406dfac,223,259,15,110.14,2020-01-01,Cashmere Sweater,16.0,https://Yourclothingbrand.com/store/sweaters,288.4,Desktop,Social Media,26,Female,Canada,34,69,2,sweater
+c808fdfb-9037-4255-bbe3-93dc8cba24b3,291,149,38,80.82,2020-01-01,Aviator Sunglasses,28.0,https://Yourclothingbrand.com/store/sunglasses,295.71,Mobile,Organic Search,32,Female,USA,45,13,5,sunglasses
+5289a56e-0b9a-481c-a476-06b0d6133ef7,313,252,50,60.36,2020-01-01,Sneaker Collection,33.0,https://Yourclothingbrand.com/store/sneakers,234.78,Mobile,Social Media,51,Female,USA,68,16,5,sneaker
+4f0b3b91-61b6-4d8d-bd92-b465a5c85639,391,339,52,80.96,2020-01-01,Leather Handbag,22.0,https://Yourclothingbrand.com/store/handbags,227.94,Desktop,Social Media,19,Female,New Zealand,3,5,3,handbag
+f54645c5-6c5b-4801-8a8f-4a43e9350811,290,283,70,115.33,2020-01-01,Tote Handbag,7.0,https://Yourclothingbrand.com/store/handbags,270.48,Desktop,Social Media,45,Female,Canada,2,9,1,handbag
+aa5a0764-fb4f-43e5-aace-6f5fd19e6a54,363,130,44,92.65,2020-01-01,Vintage T-Shirt,21.0,https://Yourclothingbrand.com/store/t-shirts,110.76,Mobile,Social Media,67,Female,Singapore,14,1,2,t-shirt
+30eb157a-3ab9-45cc-a4b7-83e6c7e03d8c,226,109,34,83.31,2020-01-01,Fashion Consultation,6.0,https://Yourclothingbrand.com/services,177.9,Desktop,Paid Advertising,70,Female,USA,7,14,2,services
+0d36c7fb-4368-46a1-b82d-046a7ffc82fb,380,370,62,119.58,2020-01-01,Clothing Rental,14.0,https://Yourclothingbrand.com/services,158.88,Mobile,Social Media,37,Male,Netherlands,11,10,1,services
+80579611-9511-4e0b-9cbd-fc2d7612b5aa,169,354,23,81.45,2020-01-01,Denim Shirt,9.0,https://Yourclothingbrand.com/store/shirts,88.58,Mobile,Social Media,50,Female,Canada,11,55,3,shirt
+336c6e33-11de-441b-9024-8a8d7bf8c316,256,103,44,77.96,2020-01-01,Silk Scarf,12.0,https://Yourclothingbrand.com/store/scarves,242.79,Mobile,Paid Advertising,42,Female,New Zealand,9,55,4,scarf
+79b94c1d-5e8a-4b9e-b067-53d92a039546,294,294,54,79.33,2020-01-01,Designer Wallet,13.0,https://Yourclothingbrand.com/store/wallets,236.22,Desktop,Social Media,31,Female,Canada,40,11,3,wallet
+be92fc0f-50ae-4225-9958-80a8ff316520,273,224,11,115.54,2020-01-01,Personal Styling,17.0,https://Yourclothingbrand.com/services,108.62,Desktop,Organic Search,61,Female,New Zealand,37,75,3,services
+00a05bc9-52a1-4e62-b35b-5b0df1bc94f1,397,206,74,105.46,2020-01-01,Tote Handbag,11.0,https://Yourclothingbrand.com/store/handbags,210.13,Desktop,Organic Search,67,Male,New Zealand,51,8,1,handbag
+06f6a236-65d8-4e97-b061-244fa8152234,209,386,60,98.97,2020-01-01,Comfy Sneaker,18.0,https://Yourclothingbrand.com/store/sneakers,99.12,Desktop,Social Media,63,Male,USA,65,73,4,sneaker
+5369654e-3411-40f1-9677-93562905f5fb,190,167,60,101.11,2020-01-01,Sporty Shorts,16.0,https://Yourclothingbrand.com/store/shorts,281.31,Desktop,Organic Search,22,Female,Singapore,14,65,5,shorts
+fad63c75-a8ae-4067-bc31-522ac477ee21,271,216,76,87.19,2020-01-01,Vintage T-Shirt,12.0,https://Yourclothingbrand.com/store/t-shirts,64.9,Mobile,Organic Search,21,Female,USA,48,65,4,t-shirt
+6b228e31-9cc7-4ddb-904e-7921145ff640,306,134,46,106.34,2020-01-01,Midi Skirt,31.0,https://Yourclothingbrand.com/store/skirts,124.68,Mobile,Social Media,66,Female,Austria,30,67,5,skirt
+afa8cd6d-d688-4068-b04a-a6c2a7169c48,378,115,72,95.52,2020-01-01,Cashmere Sweater,6.0,https://Yourclothingbrand.com/store/sweaters,276.45,Desktop,Paid Advertising,39,Female,USA,30,38,1,sweater
+142cc389-7ef4-404e-9354-87b22ca253ed,302,147,23,99.53,2020-01-01,Fashionable Outerwear,31.0,https://Yourclothingbrand.com/store/outerwear,207.08,Mobile,Organic Search,61,Male,USA,26,45,5,outerwear
+e326a26a-ea18-4749-91d9-271cfe114d03,396,389,38,101.65,2020-01-01,Denim Shirt,40.0,https://Yourclothingbrand.com/store/shirts,170.72,Mobile,Social Media,27,Female,Singapore,69,40,4,shirt
+a4d67920-7a17-4714-9672-5d03a8580f10,396,387,71,62.57,2020-01-01,Elegant Sneaker,11.0,https://Yourclothingbrand.com/store/sneakers,210.12,Desktop,Social Media,48,Male,Canada,76,45,4,sneaker
+b3ed0643-329e-4574-9fea-bd4a987da697,101,184,20,76.33,2020-01-01,Fashion Consultation,8.0,https://Yourclothingbrand.com/services,194.17,Desktop,Social Media,68,Female,USA,1,38,4,services
+b18b98c8-cbd9-42f4-a3d0-7eae446587d5,145,383,40,105.0,2020-01-01,Formal Shirt,16.0,https://Yourclothingbrand.com/store/shirts,97.19,Mobile,Paid Advertising,67,Female,Netherlands,2,75,2,shirt
+ac4f1532-51e2-454a-8929-1e7f2afef5cb,240,157,76,90.24,2020-01-01,Denim Shirt,8.0,https://Yourclothingbrand.com/store/shirts,179.54,Desktop,Paid Advertising,53,Female,Singapore,67,32,4,shirt
+ae73cf49-bf0d-4ccf-b6f6-475b0a008a8e,198,255,18,106.78,2020-01-01,Fashion Consultation,12.0,https://Yourclothingbrand.com/services,151.45,Desktop,Organic Search,51,Female,USA,80,51,3,services
+0bd56715-29be-4288-b70b-b5290a87192a,172,375,59,73.86,2020-01-01,Winter Outerwear,11.0,https://Yourclothingbrand.com/store/outerwear,285.35,Desktop,Organic Search,66,Female,USA,71,59,4,outerwear
+8de373ce-a423-44bc-b589-1f70435428af,346,166,66,60.75,2020-01-01,Clothing Rental,10.0,https://Yourclothingbrand.com/services,243.82,Desktop,Social Media,35,Male,New Zealand,23,60,1,services
+bb1f8560-975a-4692-aa3b-dcae50bf1470,122,148,10,114.45,2020-01-01,Denim Shirt,17.0,https://Yourclothingbrand.com/store/shirts,108.66,Mobile,Paid Advertising,65,Female,Nigeria,42,22,3,shirt
+eb096c6c-4464-410d-aa2a-90d7454a3915,179,236,77,67.68,2020-01-01,Wide-Leg Pants,4.0,https://Yourclothingbrand.com/store/pants,248.19,Mobile,Paid Advertising,58,Female,USA,11,4,2,pants
+04fb652e-863b-47b1-8338-addd9b5267ef,198,231,76,66.51,2020-01-01,Denim Shirt,15.0,https://Yourclothingbrand.com/store/shirts,64.23,Desktop,Social Media,45,Female,Canada,75,24,2,shirt
+e4f8c79d-5e08-4240-ae83-f985faee4f76,203,240,25,70.5,2020-01-01,Fedora Hat,4.0,https://Yourclothingbrand.com/store/hats,187.15,Desktop,Paid Advertising,56,Male,Finland,55,18,5,hat
+d244d0a7-7aaa-4193-9627-31a457765b32,106,333,17,86.55,2020-01-01,Skinny Jeans,8.0,https://Yourclothingbrand.com/store/jeans,195.78,Desktop,Organic Search,34,Female,Nigeria,11,6,3,jeans
+6058b209-44c4-47ac-9c25-5201c3b4b711,155,317,61,64.91,2020-01-01,Printed Scarf,13.0,https://Yourclothingbrand.com/store/scarves,256.25,Mobile,Paid Advertising,68,Female,USA,72,53,4,scarf
+b791c614-6e19-4fec-9ce0-ab92835f0e0e,317,354,42,84.08,2020-01-01,Skinny Jeans,15.0,https://Yourclothingbrand.com/store/jeans,225.62,Desktop,Social Media,61,Male,USA,57,29,2,jeans
+1d9849de-60e1-4dc3-ac66-c8892f5e4551,121,127,56,77.55,2020-01-01,Stylish Jacket,9.0,https://Yourclothingbrand.com/store/jackets,63.15,Desktop,Paid Advertising,69,Female,USA,40,19,2,jacket
+56fd7d63-b5eb-44f3-b5ae-b03bfdfa5cd2,236,212,34,103.7,2020-01-01,Elegant Sneaker,47.0,https://Yourclothingbrand.com/store/sneakers,163.28,Mobile,Social Media,31,Female,Germany,37,61,2,sneaker
+ee628706-aee0-487a-9a31-b29a10f48faa,187,255,53,105.04,2020-01-01,Denim Shorts,12.0,https://Yourclothingbrand.com/store/shorts,101.15,Mobile,Social Media,65,Female,Singapore,51,80,1,shorts
+1a0e13ac-8ede-4e5b-aa3e-31ce15b74a28,339,308,55,78.5,2020-01-01,Slim Wallet,6.0,https://Yourclothingbrand.com/store/wallets,202.91,Desktop,Organic Search,28,Male,Nigeria,17,28,4,wallet
+ebac318a-055c-4b4a-bf32-cf399d4300f1,288,128,67,100.72,2020-01-01,Fashionable Sunglasses,14.0,https://Yourclothingbrand.com/store/sunglasses,105.22,Desktop,Organic Search,30,Female,USA,1,51,1,sunglasses
+9f2e6c05-d8c3-411e-83d5-34832e071ae0,209,301,59,83.92,2020-01-01,Tailored Pants,19.0,https://Yourclothingbrand.com/store/pants,234.36,Mobile,Organic Search,42,Female,Canada,51,59,1,pants
+1915ba53-559d-4721-8f58-8b40b7a1823c,270,274,19,61.65,2020-01-01,Knitted Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,280.29,Desktop,Paid Advertising,60,Female,USA,33,68,3,sweater
+3816127b-d091-4263-9357-d11281f59b41,120,296,26,99.47,2020-01-01,Basic T-Shirt,11.0,https://Yourclothingbrand.com/store/t-shirts,112.23,Desktop,Social Media,37,Female,Finland,71,36,2,t-shirt
+6aef246f-dbfd-4358-a2e4-670e6fc8c93a,122,343,57,87.58,2020-01-01,Basic T-Shirt,8.0,https://Yourclothingbrand.com/store/t-shirts,288.83,Desktop,Organic Search,24,Male,Ireland,54,76,5,t-shirt
+5385d9c5-44b2-43f7-93b2-9e4ea69ea104,365,270,30,92.84,2020-01-01,Maxi Dress,12.0,https://Yourclothingbrand.com/store/dresses,182.75,Desktop,Social Media,55,Male,Singapore,67,25,2,dress
+a6d8d112-4991-4ff3-aac7-d4f0541dcb77,359,137,55,72.56,2020-01-01,Pleated Skirt,28.0,https://Yourclothingbrand.com/store/skirts,235.55,Mobile,Organic Search,22,Female,Nigeria,24,5,1,skirt
+eab4b1ab-ccce-43f2-835f-0d913c4a2e03,120,306,67,93.77,2020-01-01,Patterned Socks,10.0,https://Yourclothingbrand.com/store/socks,85.47,Desktop,Organic Search,57,Female,New Zealand,49,75,2,socks
+1ec5cfc9-dbee-452c-9c79-09f3cbe37f49,381,255,72,74.63,2020-01-01,Sporty Activewear,8.0,https://Yourclothingbrand.com/store/activewear,289.43,Desktop,Paid Advertising,30,Female,UK,58,73,1,activewear
+de4717ba-026f-41c3-a515-067f3f315f5a,250,163,61,111.77,2020-01-01,Glamorous Accessories,8.0,https://Yourclothingbrand.com/store/accessories,191.64,Desktop,Social Media,26,Female,UK,16,36,3,accessories
+1572d551-f533-473f-a3b7-759ca67f8fbb,376,331,43,74.02,2020-01-01,Printed Scarf,14.0,https://Yourclothingbrand.com/store/scarves,212.11,Desktop,Organic Search,66,Female,Canada,33,44,1,scarf
+21afcd25-a5eb-4d8a-b2ee-6762e84668b3,208,113,71,115.81,2020-01-01,Special Offers,15.0,https://Yourclothingbrand.com/home,57.51,Mobile,Paid Advertising,54,Female,USA,29,74,4,home
+f6510367-df65-4c15-a39b-b517526857d9,222,375,38,100.46,2020-01-01,Fun Socks,15.0,https://Yourclothingbrand.com/store/socks,205.5,Desktop,Social Media,62,Female,Netherlands,70,11,2,socks
+1dac5362-3bee-404d-9c75-319de5ec6786,142,122,37,87.09,2020-01-01,Elegant Dress,5.0,https://Yourclothingbrand.com/store/dresses,293.97,Desktop,Paid Advertising,28,Male,USA,15,2,5,dress
+518a72f1-626c-432b-b414-2a811aed5f4b,183,236,36,82.29,2020-01-01,Formal Shirt,13.0,https://Yourclothingbrand.com/store/shirts,179.43,Desktop,Organic Search,56,Female,New Zealand,47,77,5,shirt
+73d8d522-4a6a-4cba-b5de-36d26f349ab3,376,324,76,84.83,2020-01-01,Woolen Scarf,8.0,https://Yourclothingbrand.com/store/scarves,67.06,Desktop,Organic Search,45,Female,Germany,34,78,5,scarf
+27c079c2-8db2-4146-82a9-fc21856eabfd,157,245,29,90.63,2020-01-01,Leather Handbag,23.0,https://Yourclothingbrand.com/store/handbags,231.73,Mobile,Organic Search,45,Female,South Korea,37,78,4,handbag
+6fe47974-4504-4fdd-a1ac-d3add7cac2f2,172,279,78,94.72,2020-01-01,Chic Skirt,17.0,https://Yourclothingbrand.com/store/skirts,124.39,Desktop,Organic Search,48,Male,New Zealand,8,53,3,skirt
+2c8c835f-5a7a-4f6a-a521-384dcf7cb0c1,183,351,55,85.5,2020-01-01,Denim Shorts,13.0,https://Yourclothingbrand.com/store/shorts,160.38,Desktop,Social Media,54,Male,Germany,51,78,2,shorts
+712dab5a-a6c4-4241-b557-8e36c837548f,232,148,62,109.85,2020-01-01,Stylish Jacket,5.0,https://Yourclothingbrand.com/store/jackets,193.09,Mobile,Paid Advertising,47,Female,Canada,5,38,2,jacket
+e9784800-929e-4c48-8977-b6242c5a2577,219,365,53,104.86,2020-01-01,Leather Handbag,11.0,https://Yourclothingbrand.com/store/handbags,278.99,Desktop,Social Media,32,Female,Singapore,71,49,5,handbag
+e6a0bdfb-8598-4740-ba5b-3d94e41f3472,274,391,33,85.27,2020-01-01,Clothing Rental,8.0,https://Yourclothingbrand.com/services,81.01,Desktop,Paid Advertising,34,Female,USA,78,8,3,services
+4f530194-90e2-4b0b-88ec-ae3870d59020,364,118,51,75.88,2020-01-01,Silk Scarf,6.0,https://Yourclothingbrand.com/store/scarves,242.3,Desktop,Paid Advertising,67,Male,USA,80,55,5,scarf
+fcbb90c4-e95d-4ad3-9f31-df6f885ea2d2,255,208,41,71.08,2020-01-01,New Arrivals,10.0,https://Yourclothingbrand.com/home,284.92,Desktop,Paid Advertising,36,Female,Singapore,29,52,5,home
+4035b38d-3726-4af0-b82f-cdb4b510f57c,273,165,20,119.37,2020-01-01,Formal Shirt,17.0,https://Yourclothingbrand.com/store/shirts,271.2,Desktop,Social Media,30,Female,Canada,64,37,4,shirt
+3208724e-2380-4545-832e-319ab81253dc,185,121,12,61.41,2020-01-01,Running Activewear,14.0,https://Yourclothingbrand.com/store/activewear,90.22,Mobile,Social Media,55,Female,UK,3,55,1,activewear
+c8919446-820f-4404-b537-98641f2b1519,226,105,58,78.64,2020-01-01,Lightweight Outerwear,6.0,https://Yourclothingbrand.com/store/outerwear,81.34,Desktop,Organic Search,20,Male,UK,42,63,3,outerwear
+eb2c2994-f20d-4aad-8f47-99f490d08e75,178,383,29,68.17,2020-01-01,Special Offers,14.0,https://Yourclothingbrand.com/home,204.51,Desktop,Social Media,32,Female,South Korea,66,52,5,home
+d2488ce5-e4f5-44a0-9b20-fdae88003ee1,208,186,10,104.91,2020-01-01,Support Email,7.0,https://Yourclothingbrand.com/contacts,137.62,Desktop,Paid Advertising,35,Female,New Zealand,54,16,3,contact
+712f4562-ce86-4ea4-a25f-0f26f96cfe18,159,218,75,68.62,2020-01-01,Denim Shirt,18.0,https://Yourclothingbrand.com/store/shirts,121.48,Desktop,Social Media,20,Male,Netherlands,37,47,3,shirt
+a78166d5-d93d-4655-bd3e-a7f4061d7cf2,311,175,31,71.67,2020-01-01,Customer Service,9.0,https://Yourclothingbrand.com/contacts,97.16,Desktop,Paid Advertising,52,Female,USA,1,75,3,contact
+37f044f2-3a60-4d68-81f2-1a753a52a2e2,389,139,74,78.45,2020-01-01,Beanie Hat,9.0,https://Yourclothingbrand.com/store/hats,269.51,Desktop,Paid Advertising,69,Female,Nigeria,21,59,5,hat
+ed944866-b0ec-4012-a306-69c8a21524d2,351,169,40,81.34,2020-01-01,Statement Jewelry,8.0,https://Yourclothingbrand.com/store/jewelry,271.29,Desktop,Organic Search,52,Female,Canada,71,61,4,jewelry
+2a565855-cb42-4326-942a-51459cc3d5ba,116,233,42,107.54,2020-01-01,Ankle Socks,6.0,https://Yourclothingbrand.com/store/socks,201.14,Desktop,Paid Advertising,67,Female,New Zealand,49,77,5,socks
+988173cb-41f5-4793-b161-8b33d97ed7d5,355,322,73,117.22,2020-01-01,Plaid Shirt,6.0,https://Yourclothingbrand.com/store/shirts,85.83,Mobile,Paid Advertising,35,Male,Germany,17,42,1,shirt
+e4c51b39-dc1a-4b74-ac9d-773dad065e87,173,182,16,76.16,2020-01-01,Graphic T-Shirt,8.0,https://Yourclothingbrand.com/store/t-shirts,124.43,Desktop,Organic Search,61,Female,UK,49,71,5,t-shirt
+fa55aece-929c-4ab1-9b62-593d14294b4a,359,383,43,61.79,2020-01-01,Stylish Jacket,16.0,https://Yourclothingbrand.com/store/jackets,191.39,Mobile,Social Media,46,Female,UK,56,33,5,jacket
+a34a1baf-d400-4524-843b-6f3b693641aa,372,170,50,79.1,2020-01-01,Tote Handbag,19.0,https://Yourclothingbrand.com/store/handbags,196.0,Desktop,Social Media,59,Female,USA,77,45,3,handbag
+800885cc-21dc-41a0-882a-5faa3160ad9d,303,148,24,67.6,2020-01-01,Aviator Sunglasses,31.0,https://Yourclothingbrand.com/store/sunglasses,208.35,Mobile,Social Media,21,Female,Nigeria,64,24,2,sunglasses
+90ff1dd2-609f-48d5-8ff0-25679414560f,340,139,19,116.8,2020-01-01,Patterned Socks,10.0,https://Yourclothingbrand.com/store/socks,103.79,Desktop,Social Media,64,Female,Austria,46,5,1,socks
+efb456a1-ba91-4c2c-bc8d-9e50145e31e1,365,190,23,101.74,2020-01-01,Wide-Leg Pants,12.0,https://Yourclothingbrand.com/store/pants,187.81,Mobile,Organic Search,68,Female,USA,3,63,1,pants
+155138d9-c3e6-47a7-a081-de9dd33282b4,201,343,64,101.98,2020-01-01,Classic Jeans,7.0,https://Yourclothingbrand.com/store/jeans,180.34,Desktop,Organic Search,54,Female,Germany,19,52,3,jeans
+e0b0b728-0ff3-42bb-8e7a-00c786614152,346,170,73,103.89,2020-01-01,Dainty Jewelry,5.0,https://Yourclothingbrand.com/store/jewelry,136.73,Desktop,Paid Advertising,61,Female,New Zealand,42,48,3,jewelry
+5f65fcfc-e86b-4539-9557-03884280f18f,146,300,58,73.33,2020-01-01,Denim Shorts,18.0,https://Yourclothingbrand.com/store/shorts,203.87,Desktop,Social Media,68,Female,Canada,5,31,5,shorts
+7f8643f1-1b19-4833-9837-d77066752ecf,116,362,63,116.04,2020-01-01,Patterned Socks,6.0,https://Yourclothingbrand.com/store/socks,123.5,Desktop,Organic Search,19,Female,USA,43,48,1,socks
+b8d3f04d-271a-47da-88fd-9cfa75a97551,208,265,11,61.03,2020-01-01,Fedora Hat,14.0,https://Yourclothingbrand.com/store/hats,72.83,Desktop,Social Media,50,Male,USA,79,18,4,hat
+ecfe9743-b6c7-4dc6-b920-3f7dd6b8386c,221,338,51,87.82,2020-01-01,Bomber Jacket,13.0,https://Yourclothingbrand.com/store/jackets,106.44,Desktop,Paid Advertising,67,Female,USA,39,17,3,jacket
+893df4a5-4c15-4013-9db7-795c656ec637,358,182,12,66.76,2020-01-01,Cropped Pants,10.0,https://Yourclothingbrand.com/store/pants,248.47,Desktop,Social Media,44,Female,UK,25,35,1,pants
+3fba78f8-29f4-4388-9696-bc29d3876612,293,196,65,108.06,2020-01-01,Boho Jewelry,9.0,https://Yourclothingbrand.com/store/jewelry,142.95,Desktop,Organic Search,39,Female,UK,54,15,4,jewelry
+14d2f1d6-5805-4f09-8312-5be4a79efae0,320,383,16,69.04,2020-01-01,Floral Dress,34.0,https://Yourclothingbrand.com/store/dresses,116.94,Mobile,Social Media,41,Female,UK,38,79,2,dress
+64a11a6e-41a5-430c-8544-6146546ac6e0,154,249,17,113.89,2020-01-01,Formal Shirt,23.0,https://Yourclothingbrand.com/store/shirts,100.5,Mobile,Social Media,37,Female,UK,17,20,5,shirt
+c7186d6f-29d4-4578-99cf-2d23e8790da2,301,158,74,105.55,2020-01-01,Sporty Activewear,9.0,https://Yourclothingbrand.com/store/activewear,182.07,Desktop,Organic Search,46,Male,Singapore,52,41,2,activewear
+62b1c1d9-13a3-4524-96c4-2e8d771e67c6,342,142,31,111.64,2020-01-01,Company History,6.0,https://Yourclothingbrand.com/about-us,242.04,Desktop,Paid Advertising,36,Female,UK,58,48,2,about us
+900075cc-4a83-4955-b8ae-21b043208969,362,207,20,74.54,2020-01-01,Formal Shirt,11.0,https://Yourclothingbrand.com/store/shirts,132.5,Desktop,Social Media,32,Female,Austria,8,58,5,shirt
+72295f05-6ced-4dcf-9cd1-e7d687fdf648,270,375,16,118.07,2020-01-01,Fashionable Sunglasses,8.0,https://Yourclothingbrand.com/store/sunglasses,284.61,Desktop,Social Media,59,Female,Finland,71,76,3,sunglasses
+61603281-d28d-49dc-b27d-9912c65684f8,100,165,57,64.76,2020-01-01,Fun Socks,27.0,https://Yourclothingbrand.com/store/socks,154.19,Mobile,Organic Search,62,Female,Singapore,64,54,2,socks
+ebbe3803-4aef-4011-87fc-32865f9cc8ff,191,388,21,68.25,2020-01-01,Graphic T-Shirt,11.0,https://Yourclothingbrand.com/store/t-shirts,219.68,Desktop,Organic Search,44,Female,Austria,42,29,5,t-shirt
+42290a2e-2033-48f7-93db-b5af398332c0,132,143,47,97.56,2020-01-01,Leather Handbag,9.0,https://Yourclothingbrand.com/store/handbags,250.87,Desktop,Social Media,59,Female,Finland,33,58,4,handbag
+09f98dc3-7e02-4f32-9c37-7d06b1938dc6,297,122,38,86.03,2020-01-01,Fedora Hat,11.0,https://Yourclothingbrand.com/store/hats,280.57,Desktop,Organic Search,23,Female,UK,72,41,3,hat
+c3ab77d0-e124-48ac-903e-d181fbe61cf4,313,146,23,111.79,2020-01-01,Tailored Pants,5.0,https://Yourclothingbrand.com/store/pants,186.97,Mobile,Paid Advertising,69,Female,Nigeria,4,37,5,pants
+e01a01d3-24a3-4e07-8eb4-33eaff82d62a,180,307,41,60.18,2020-01-01,Leather Wallet,13.0,https://Yourclothingbrand.com/store/wallets,57.56,Desktop,Social Media,31,Female,UK,79,29,3,wallet
+f573a6cf-1ce0-443f-bcc7-cc2aa013655d,120,217,44,86.28,2020-01-01,Ripped Jeans,16.0,https://Yourclothingbrand.com/store/jeans,257.34,Mobile,Organic Search,62,Male,South Korea,79,5,4,jeans
+a1805729-6887-4cdf-8a5e-37442d480717,243,191,16,92.54,2020-01-01,Wide-Leg Pants,4.0,https://Yourclothingbrand.com/store/pants,75.19,Desktop,Paid Advertising,68,Female,Nigeria,2,21,2,pants
+66da3ffd-eb8f-4146-9f2b-96e46b0be6a9,303,352,37,88.71,2020-01-01,Inquiry Form,7.0,https://Yourclothingbrand.com/contacts,113.7,Desktop,Organic Search,34,Female,New Zealand,1,10,4,contact
+7e7ec7e0-54ab-4f74-baa4-057374f7f439,298,186,69,69.51,2020-01-01,Cozy Sweater,9.0,https://Yourclothingbrand.com/store/sweaters,139.91,Mobile,Paid Advertising,32,Female,Canada,58,66,5,sweater
+3ab12a49-b9ee-47e9-a559-acd54c2322ae,205,150,50,92.2,2020-01-01,Designer Wallet,17.0,https://Yourclothingbrand.com/store/wallets,220.11,Mobile,Paid Advertising,37,Female,Netherlands,47,71,2,wallet
+d97a886b-4601-43cb-922c-7aaae13340df,133,195,79,109.51,2020-01-01,Wide-Leg Pants,11.0,https://Yourclothingbrand.com/store/pants,152.12,Mobile,Organic Search,27,Male,Canada,7,10,2,pants
+33ca2b56-e74b-45cf-97c3-701cb0dc3dc6,395,324,72,110.88,2020-01-01,Floral Dress,7.0,https://Yourclothingbrand.com/store/dresses,299.21,Desktop,Organic Search,70,Female,Canada,36,48,5,dress
+aec7a183-d730-4c99-9a55-dbb98f49efa6,207,316,17,99.77,2020-01-01,Graphic T-Shirt,11.0,https://Yourclothingbrand.com/store/t-shirts,110.68,Desktop,Paid Advertising,51,Male,Ireland,72,58,4,t-shirt
+788e6169-b95b-4be5-a67d-94329605f989,311,304,79,104.85,2020-01-01,Inquiry Form,13.0,https://Yourclothingbrand.com/contacts,220.32,Desktop,Social Media,49,Female,USA,59,2,2,contact
+bbc826b5-d1cf-4b20-8e37-d18d8024ec96,234,227,64,116.96,2020-01-01,Ripped Jeans,20.0,https://Yourclothingbrand.com/store/jeans,88.47,Mobile,Social Media,35,Female,UK,55,71,1,jeans
+e7bea593-0034-40f3-85f8-d83af87a70c0,160,238,72,104.99,2020-01-01,Fashionable Sunglasses,30.0,https://Yourclothingbrand.com/store/sunglasses,231.31,Mobile,Social Media,60,Female,Nigeria,76,64,3,sunglasses
+281317dd-2d5c-4561-872b-2f296e2b2b51,137,208,71,110.18,2020-01-01,Basic T-Shirt,7.0,https://Yourclothingbrand.com/store/t-shirts,188.92,Mobile,Paid Advertising,66,Female,USA,47,28,1,t-shirt
+d8ca4577-de80-4f44-9019-0360a2b514be,176,183,31,109.63,2020-01-01,Customer Service,22.0,https://Yourclothingbrand.com/contacts,75.91,Mobile,Social Media,70,Female,USA,29,21,3,contact
+e9a5a1c5-eaed-4ce7-9e1c-ee60a7fa2f9e,265,279,31,106.73,2020-01-01,Skinny Jeans,8.0,https://Yourclothingbrand.com/store/jeans,246.16,Desktop,Paid Advertising,32,Female,Ireland,60,65,1,jeans
+a2b27248-4a98-47d6-913a-84f36fc6430e,342,122,79,95.58,2020-01-01,Featured Products,7.0,https://Yourclothingbrand.com/home,134.95,Desktop,Paid Advertising,45,Female,South Korea,16,29,3,home
+dd7a302c-89a0-4d6f-b5bf-9003e2017b3e,266,155,77,67.43,2020-01-01,Maxi Dress,11.0,https://Yourclothingbrand.com/store/dresses,219.03,Desktop,Social Media,24,Female,UK,54,7,4,dress
+eaa7ab07-91f4-4f8b-9881-6e1c6ff21f2d,262,216,41,60.55,2020-01-01,Woolen Scarf,14.0,https://Yourclothingbrand.com/store/scarves,158.49,Desktop,Social Media,66,Female,USA,78,21,1,scarf
+d4457736-85c5-4944-af64-a4160faad278,108,346,40,107.78,2020-01-01,Fashionable Outerwear,15.0,https://Yourclothingbrand.com/store/outerwear,72.96,Desktop,Organic Search,49,Female,USA,5,79,5,outerwear
+10292338-27ec-4f56-810d-0db3f0cda826,378,158,57,79.61,2020-01-01,Winter Outerwear,8.0,https://Yourclothingbrand.com/store/outerwear,54.75,Desktop,Paid Advertising,49,Male,New Zealand,60,59,5,outerwear
+f50f6191-4b38-4403-bf97-3cef09fe49ad,344,125,19,102.37,2020-01-01,Ankle Socks,21.0,https://Yourclothingbrand.com/store/socks,188.91,Mobile,Paid Advertising,55,Female,USA,17,45,4,socks
+c195a563-fbda-44dc-91eb-5c4d9a4a9161,229,378,61,72.79,2020-01-01,Dainty Jewelry,11.0,https://Yourclothingbrand.com/store/jewelry,71.53,Desktop,Social Media,45,Female,Germany,14,20,1,jewelry
+c456e18e-b5fa-4754-bc21-ae4917a58914,354,315,10,110.71,2020-01-01,Denim Shorts,4.0,https://Yourclothingbrand.com/store/shorts,271.65,Desktop,Paid Advertising,45,Female,New Zealand,29,10,2,shorts
+5d3094b6-aad8-4226-90b9-2d9b1cca2877,282,375,12,74.08,2020-01-01,Bohemian Accessories,13.0,https://Yourclothingbrand.com/store/accessories,139.24,Desktop,Organic Search,57,Female,UK,56,46,3,accessories
+a4052ed2-da91-4fdf-892b-b43b76f29b9c,297,281,30,65.88,2020-01-01,Crossbody Handbag,5.0,https://Yourclothingbrand.com/store/handbags,273.85,Desktop,Organic Search,50,Female,Finland,47,77,1,handbag
+716c8fd3-aba5-436d-b5c7-852af9765139,282,317,18,62.81,2020-01-01,Sporty Activewear,10.0,https://Yourclothingbrand.com/store/activewear,141.34,Desktop,Organic Search,45,Male,UK,48,48,5,activewear
+b4a4484e-7a76-4c4d-bad9-365521fef90d,353,278,75,104.46,2020-01-01,Bomber Jacket,12.0,https://Yourclothingbrand.com/store/jackets,114.3,Desktop,Social Media,70,Male,Austria,73,45,4,jacket
+ac72c004-4208-43b4-9293-e7fe4c8fdafd,122,393,61,65.13,2020-01-01,Meet the Team,6.0,https://Yourclothingbrand.com/about-us,59.7,Desktop,Paid Advertising,22,Female,USA,78,30,3,about us
+ba294c0f-8d69-4c66-ab87-2110090f1f35,337,363,16,118.95,2020-01-01,Elegant Sneaker,11.0,https://Yourclothingbrand.com/store/sneakers,153.63,Desktop,Organic Search,25,Female,Austria,6,68,5,sneaker
+55dac61b-df67-4b9e-a659-6f896eac4dc6,352,339,13,97.42,2020-01-01,Cashmere Sweater,45.0,https://Yourclothingbrand.com/store/sweaters,299.45,Mobile,Social Media,52,Female,Singapore,49,67,4,sweater
+84519fe7-4539-4bee-95ff-aafef54e2229,209,270,29,107.38,2020-01-01,Clothing Rental,15.0,https://Yourclothingbrand.com/services,265.69,Mobile,Organic Search,39,Male,UK,74,4,4,services
+613d4bbf-d26a-42a5-bde0-ff7b0cd9a559,209,339,50,96.31,2020-01-01,Wide-Leg Pants,10.0,https://Yourclothingbrand.com/store/pants,269.83,Mobile,Paid Advertising,39,Female,Singapore,8,68,1,pants
+1fdf2300-8603-4b28-b679-ee3820a89921,206,372,31,94.77,2020-01-01,Denim Shorts,15.0,https://Yourclothingbrand.com/store/shorts,250.56,Mobile,Organic Search,63,Male,Singapore,38,72,1,shorts
+cc48c765-1833-4286-b00b-cd4d61df12ef,211,326,42,91.35,2020-01-01,Boho Jewelry,8.0,https://Yourclothingbrand.com/store/jewelry,159.38,Mobile,Paid Advertising,28,Female,Netherlands,38,48,4,jewelry
+c4de8192-4a72-4d45-8094-74716504cc9c,379,127,40,118.15,2020-01-01,Maxi Dress,13.0,https://Yourclothingbrand.com/store/dresses,186.13,Desktop,Social Media,23,Female,Austria,28,44,4,dress
+1f057365-2ada-4f37-b881-6248eb0555eb,375,245,39,61.89,2020-01-01,New Arrivals,15.0,https://Yourclothingbrand.com/home,75.06,Desktop,Social Media,62,Male,South Korea,31,72,5,home
+a7d9789d-6ef4-4033-b9a9-96bf90edb132,197,137,47,95.89,2020-01-01,Tailored Pants,14.0,https://Yourclothingbrand.com/store/pants,168.81,Desktop,Social Media,46,Female,Finland,60,60,4,pants
+eab076a0-eb79-4c19-9146-9b765947c3f5,237,275,12,101.4,2020-01-01,Slim Wallet,9.0,https://Yourclothingbrand.com/store/wallets,135.73,Mobile,Paid Advertising,21,Female,Singapore,24,73,5,wallet
+2c60a1cd-71a7-40bc-bfab-d9ce6060fcc6,350,249,33,60.6,2020-01-01,Skinny Jeans,18.0,https://Yourclothingbrand.com/store/jeans,249.14,Desktop,Organic Search,44,Female,UK,5,67,2,jeans
+c0042b21-ad13-45d9-a62c-6a5585af1419,219,187,14,103.26,2020-01-01,Skinny Jeans,14.0,https://Yourclothingbrand.com/store/jeans,53.33,Mobile,Paid Advertising,47,Female,Finland,28,65,3,jeans
+e6e93dfd-81fc-4a1b-a340-a844a764f4f4,181,377,56,119.56,2020-01-01,Tote Handbag,7.0,https://Yourclothingbrand.com/store/handbags,68.0,Desktop,Paid Advertising,46,Female,Nigeria,45,54,4,handbag
+a3e9b654-d7c7-4727-b9a5-32c64725f5b6,272,267,37,89.96,2020-01-01,Bomber Jacket,16.0,https://Yourclothingbrand.com/store/jackets,68.55,Mobile,Paid Advertising,24,Female,UK,46,46,4,jacket
+65e5729d-194d-4c06-b56a-d4bc2e1325a1,339,167,46,102.61,2020-01-01,Beanie Hat,4.0,https://Yourclothingbrand.com/store/hats,275.55,Desktop,Paid Advertising,63,Male,South Korea,3,16,2,hat
+cb52b5f8-8971-4c14-bca1-3ab5e8b1f992,270,174,58,69.88,2020-01-01,Leather Jacket,10.0,https://Yourclothingbrand.com/store/jackets,155.86,Desktop,Paid Advertising,45,Female,USA,3,51,3,jacket
+f8b500e4-b474-4a92-b99e-152b4e1a5cde,193,114,67,99.8,2020-01-01,Bohemian Accessories,14.0,https://Yourclothingbrand.com/store/accessories,192.53,Desktop,Social Media,24,Female,Canada,26,36,3,accessories
+742c63fc-f253-47bc-9224-2a5f89df9a38,224,370,16,96.38,2020-01-01,Fedora Hat,7.0,https://Yourclothingbrand.com/store/hats,244.32,Desktop,Paid Advertising,67,Female,UK,22,57,3,hat
+845b08e8-6fb5-445f-9dc1-a863d5536e5a,257,209,69,107.94,2020-01-01,Winter Outerwear,9.0,https://Yourclothingbrand.com/store/outerwear,168.87,Desktop,Organic Search,26,Male,UK,61,9,1,outerwear
+66fe3970-c535-406f-9dbc-534c1f15644a,218,214,80,118.77,2020-01-01,Fashionable Outerwear,10.0,https://Yourclothingbrand.com/store/outerwear,232.9,Desktop,Social Media,61,Female,UK,44,70,5,outerwear
+5f0944e6-1447-4e16-8f4d-abaefd0ea64f,196,299,74,89.46,2020-01-01,Tailored Pants,9.0,https://Yourclothingbrand.com/store/pants,219.25,Mobile,Paid Advertising,30,Female,Germany,58,25,3,pants
+67dd94ee-48b5-4bca-bbb9-ea388fd97518,308,385,79,117.66,2020-01-01,Woolen Scarf,8.0,https://Yourclothingbrand.com/store/scarves,256.37,Desktop,Organic Search,39,Female,UK,23,65,5,scarf
+f3731d74-59cd-4174-8da0-880181675df0,134,381,31,73.72,2020-01-01,Personal Styling,13.0,https://Yourclothingbrand.com/services,56.6,Desktop,Organic Search,35,Female,USA,55,39,4,services
+79e4cc2d-7989-4992-b6ca-7e3ccb62a899,398,240,10,111.56,2020-01-01,Floral Dress,27.0,https://Yourclothingbrand.com/store/dresses,149.4,Mobile,Organic Search,60,Female,New Zealand,33,22,5,dress
+b1a25951-fb7c-425d-8ff0-7103ec971787,142,233,74,67.02,2020-01-01,Customer Service,7.0,https://Yourclothingbrand.com/contacts,167.59,Mobile,Paid Advertising,49,Female,Singapore,22,33,5,contact
+20d91dc3-8f4f-4ccc-807a-552c014ae137,171,186,55,68.13,2020-01-01,Yoga Activewear,15.0,https://Yourclothingbrand.com/store/activewear,234.38,Mobile,Paid Advertising,37,Female,Germany,78,38,4,activewear
+c1640cdf-dfe3-403f-9684-fdc5afd2d92d,126,272,52,109.01,2020-01-01,Pleated Skirt,18.0,https://Yourclothingbrand.com/store/skirts,202.47,Mobile,Paid Advertising,49,Female,Canada,68,58,1,skirt
+af92d2a1-e305-493c-8453-00a043a822a7,276,371,19,110.95,2020-01-01,Aviator Sunglasses,6.0,https://Yourclothingbrand.com/store/sunglasses,136.3,Desktop,Organic Search,62,Female,New Zealand,9,51,4,sunglasses
+fef59ff5-d980-41ee-b606-4b64e80ad291,134,245,25,116.82,2020-01-01,Winter Outerwear,15.0,https://Yourclothingbrand.com/store/outerwear,110.34,Desktop,Organic Search,59,Female,Singapore,80,19,1,outerwear
+fe8112ef-b9cd-4a52-8b14-4d75a200492f,271,203,49,105.15,2020-01-01,Fun Socks,16.0,https://Yourclothingbrand.com/store/socks,75.26,Mobile,Social Media,37,Female,USA,48,74,5,socks
+deb87d65-97b0-4b42-9e13-4013220f777c,216,323,60,104.06,2020-01-01,Denim Shorts,14.0,https://Yourclothingbrand.com/store/shorts,53.61,Desktop,Organic Search,27,Female,New Zealand,71,9,4,shorts
+2dd40e67-d505-44fd-a618-08540c0cb942,221,266,41,85.7,2020-01-01,Bomber Jacket,17.0,https://Yourclothingbrand.com/store/jackets,249.74,Desktop,Social Media,65,Male,Austria,64,44,5,jacket
+3cc67c19-8418-4be2-a284-72f98cbbf496,156,307,69,115.12,2020-01-01,Vintage T-Shirt,12.0,https://Yourclothingbrand.com/store/t-shirts,271.55,Mobile,Social Media,24,Male,UK,12,47,4,t-shirt
+f8b483a5-1c2d-4f9d-b36f-b13ccfd705ef,329,137,38,71.84,2020-01-01,Floral Dress,14.0,https://Yourclothingbrand.com/store/dresses,214.98,Desktop,Organic Search,67,Female,UK,54,4,3,dress
+dd3a4c04-e62a-416c-bd16-8a9ca8b433de,115,382,76,98.96,2020-01-01,Sporty Shorts,18.0,https://Yourclothingbrand.com/store/shorts,233.79,Desktop,Social Media,47,Female,France,65,50,1,shorts
+0a230843-d136-4548-8949-6b0273e2392f,169,331,31,79.28,2020-01-01,Ripped Jeans,3.0,https://Yourclothingbrand.com/store/jeans,288.72,Desktop,Paid Advertising,68,Female,Ireland,15,42,4,jeans
+0094c3d3-d23d-4f8b-a9e2-be1d2ecd7eb3,362,274,29,102.83,2020-01-01,Support Email,12.0,https://Yourclothingbrand.com/contacts,57.38,Desktop,Paid Advertising,19,Female,France,50,11,2,contact
+99787288-d706-4561-b3e8-d25228517248,201,147,46,79.58,2020-01-01,Bohemian Accessories,11.0,https://Yourclothingbrand.com/store/accessories,261.26,Desktop,Organic Search,37,Female,USA,10,42,5,accessories
+3d4d0071-1d9b-4767-9388-353680cecdd6,180,190,78,104.95,2020-01-01,Vintage T-Shirt,13.0,https://Yourclothingbrand.com/store/t-shirts,274.34,Desktop,Organic Search,51,Male,Austria,58,61,2,t-shirt
+96a8d517-725e-4da4-a10e-b36ffc3eb34d,251,313,67,119.08,2020-01-01,Comfy Shorts,11.0,https://Yourclothingbrand.com/store/shorts,215.45,Desktop,Social Media,24,Female,France,34,63,3,shorts
+5d90b3c9-7db9-43a2-8d59-75ff33f6e710,150,220,35,116.45,2020-01-01,Beanie Hat,5.0,https://Yourclothingbrand.com/store/hats,55.64,Mobile,Organic Search,58,Female,Canada,19,74,3,hat
+43345d11-528a-486e-99da-d2c748d25228,121,349,76,100.45,2020-01-01,Woolen Scarf,18.0,https://Yourclothingbrand.com/store/scarves,198.53,Mobile,Social Media,69,Female,Finland,74,30,1,scarf
+b3ee82c3-0f37-4071-b99a-3b6784df2c35,387,317,40,72.02,2020-01-01,Meet the Team,4.0,https://Yourclothingbrand.com/about-us,234.87,Desktop,Paid Advertising,51,Male,Netherlands,63,13,4,about us
+9002efa2-3c81-40c0-9686-8d0405e4843c,365,194,48,89.44,2020-01-01,Beanie Hat,6.0,https://Yourclothingbrand.com/store/hats,74.36,Desktop,Paid Advertising,55,Female,Australia,18,75,1,hat
+678df8c3-f523-4a66-8330-db4f225686c4,355,233,41,62.2,2020-01-01,Crossbody Handbag,16.0,https://Yourclothingbrand.com/store/handbags,203.49,Desktop,Social Media,54,Female,Nigeria,50,69,3,handbag
+42389834-eda9-4d78-a8c3-9458246b962c,310,214,36,99.57,2020-01-01,Elegant Dress,12.0,https://Yourclothingbrand.com/store/dresses,145.74,Desktop,Social Media,51,Female,Finland,7,56,5,dress
+26a8c3be-40b2-47be-a8da-317c38701439,324,391,16,77.41,2020-01-01,Leather Wallet,11.0,https://Yourclothingbrand.com/store/wallets,157.78,Desktop,Paid Advertising,35,Female,USA,9,10,2,wallet
+13b87890-0dc0-43d4-bd5e-184e6a48097c,285,124,36,103.87,2020-01-01,Elegant Sneaker,13.0,https://Yourclothingbrand.com/store/sneakers,241.5,Desktop,Social Media,39,Female,USA,66,24,5,sneaker
+3887fd70-27e8-4840-aec8-ee2633de3974,226,190,41,73.79,2020-01-01,Glamorous Accessories,19.0,https://Yourclothingbrand.com/store/accessories,135.44,Desktop,Social Media,42,Female,Canada,26,79,4,accessories
+4ab82317-2ec9-47b8-acf8-d79df8ac015d,394,347,58,113.01,2020-01-01,Basic T-Shirt,7.0,https://Yourclothingbrand.com/store/t-shirts,176.52,Mobile,Paid Advertising,57,Female,Finland,79,51,5,t-shirt
+1d836bd9-d673-4dd0-94d0-82df242540b1,290,324,35,85.37,2020-01-01,Company History,14.0,https://Yourclothingbrand.com/about-us,153.71,Desktop,Organic Search,23,Male,New Zealand,57,56,1,about us
+70e1c91b-a801-468e-a2ec-67f104d53465,266,267,64,97.43,2020-01-01,Pleated Skirt,17.0,https://Yourclothingbrand.com/store/skirts,114.54,Mobile,Organic Search,19,Female,Australia,10,55,3,skirt
+433ab454-a0b2-4c4a-b7fb-50a63a92fdf5,268,206,17,80.66,2020-01-01,Denim Shorts,8.0,https://Yourclothingbrand.com/store/shorts,281.0,Desktop,Organic Search,62,Female,USA,12,68,4,shorts
+068afe08-122f-4141-a803-da2b66a80481,366,122,46,91.37,2020-01-01,Winter Outerwear,7.0,https://Yourclothingbrand.com/store/outerwear,69.88,Desktop,Organic Search,23,Female,Nigeria,32,12,2,outerwear
+adc0c24e-8e57-427e-9e0a-4e804ec84253,244,132,32,108.29,2020-01-01,Wide-Leg Pants,16.0,https://Yourclothingbrand.com/store/pants,83.8,Desktop,Social Media,35,Male,Canada,31,3,2,pants
+fe63f6fb-826e-4f0c-84f5-fb1789011b5f,310,329,36,94.66,2020-01-01,Plaid Shirt,4.0,https://Yourclothingbrand.com/store/shirts,294.67,Desktop,Paid Advertising,35,Male,Nigeria,77,4,5,shirt
+d7124814-f86e-40d8-a186-e08d68136cd7,147,167,70,92.12,2020-01-01,Tailored Pants,14.0,https://Yourclothingbrand.com/store/pants,185.41,Desktop,Social Media,68,Male,New Zealand,69,39,3,pants
+a54d8f94-e1f2-43a3-88da-70e10a2ae26b,266,291,46,100.02,2020-01-01,Leather Handbag,14.0,https://Yourclothingbrand.com/store/handbags,88.05,Desktop,Organic Search,45,Male,USA,23,63,1,handbag
+9d23746f-19a8-4299-8adf-f6b35bfb208f,247,212,24,111.13,2020-01-01,Chic Skirt,11.0,https://Yourclothingbrand.com/store/skirts,146.12,Desktop,Paid Advertising,23,Female,USA,47,11,1,skirt
+7b880462-742f-40b9-ab7e-1be9d31d910f,226,154,70,71.25,2020-01-01,Comfy Shorts,6.0,https://Yourclothingbrand.com/store/shorts,121.86,Desktop,Paid Advertising,28,Female,USA,4,1,5,shorts
+14e0aa84-cc1b-4767-b989-8f75cc97e63d,287,376,42,78.05,2020-01-01,Statement Jewelry,13.0,https://Yourclothingbrand.com/store/jewelry,54.75,Desktop,Organic Search,61,Female,Singapore,4,66,1,jewelry
+0287e18e-4517-4f60-97e8-0c8e476cb462,176,297,75,96.8,2020-01-01,Company History,22.0,https://Yourclothingbrand.com/about-us,68.58,Mobile,Organic Search,58,Female,USA,45,74,1,about us
+a10d7eb2-9a8c-4752-94d3-faf926010a4b,238,287,68,109.59,2020-01-01,Graphic T-Shirt,15.0,https://Yourclothingbrand.com/store/t-shirts,196.8,Desktop,Social Media,62,Female,USA,62,26,4,t-shirt
+10deb897-7e10-46d9-a826-7f65f621c240,130,101,69,102.18,2020-01-01,Customer Service,8.0,https://Yourclothingbrand.com/contacts,224.29,Desktop,Organic Search,26,Female,New Zealand,40,73,5,contact
+97b1e833-d3e7-4b01-8351-f621b3365d6d,265,222,14,94.42,2020-01-01,Glamorous Accessories,12.0,https://Yourclothingbrand.com/store/accessories,242.4,Mobile,Organic Search,60,Female,Canada,5,33,2,accessories
+f37ae971-231f-4d8b-8cbb-74247b4f69e7,221,152,26,83.14,2020-01-01,Classic Jeans,8.0,https://Yourclothingbrand.com/store/jeans,289.5,Mobile,Social Media,22,Female,USA,52,42,2,jeans
+d23806b2-2fc1-497a-9c71-e0ba943375a0,363,167,74,100.24,2020-01-01,Special Offers,8.0,https://Yourclothingbrand.com/home,255.08,Mobile,Social Media,28,Female,Canada,8,60,5,home
+1f393c65-bd29-4381-ade4-cd13a026bbcd,260,137,40,119.87,2020-01-01,Ripped Jeans,21.0,https://Yourclothingbrand.com/store/jeans,277.68,Desktop,Social Media,30,Female,Australia,52,24,4,jeans
+6768e14e-19c0-40a0-9825-dd939720232c,255,292,70,65.08,2020-01-01,Comfy Shorts,15.0,https://Yourclothingbrand.com/store/shorts,202.15,Desktop,Social Media,25,Male,New Zealand,39,39,5,shorts
+efea7d6f-029d-4087-b0f3-19068378e2b8,225,362,22,102.04,2020-01-01,Cozy Sweater,21.0,https://Yourclothingbrand.com/store/sweaters,53.09,Mobile,Social Media,61,Female,New Zealand,28,57,2,sweater
+91c69aca-1d93-4708-a858-d06389c1ba5d,260,151,18,105.5,2020-01-01,Yoga Activewear,9.0,https://Yourclothingbrand.com/store/activewear,288.48,Mobile,Organic Search,70,Female,New Zealand,30,49,3,activewear
+46558b4f-08be-4f3d-97f3-08035f8f886f,288,385,67,77.84,2020-01-01,Skinny Jeans,5.0,https://Yourclothingbrand.com/store/jeans,62.75,Desktop,Paid Advertising,33,Female,USA,47,20,4,jeans
+b700fb40-420d-488c-b971-a64e5dac78ed,145,151,12,97.88,2020-01-01,Meet the Team,22.0,https://Yourclothingbrand.com/about-us,150.75,Mobile,Social Media,31,Female,Ireland,9,48,5,about us
+c578af60-dddb-4364-97f1-4fdecf9d657a,379,269,32,100.58,2020-01-01,Clothing Rental,14.0,https://Yourclothingbrand.com/services,179.88,Desktop,Social Media,42,Female,Austria,67,21,4,services
+77e2323e-c2d4-4e59-8153-753e557a29a1,197,260,38,77.37,2020-01-01,Slim Wallet,42.0,https://Yourclothingbrand.com/store/wallets,102.17,Mobile,Social Media,22,Female,New Zealand,16,32,5,wallet
+8b5aabc1-6bfd-424b-a6dd-ab6c00a57019,244,381,30,97.5,2020-01-01,Fashion Consultation,17.0,https://Yourclothingbrand.com/services,138.24,Desktop,Social Media,69,Female,UK,6,34,1,services
+1c64c697-e4aa-41d9-a3a0-a8a8b5abcf7f,143,140,71,94.53,2020-01-01,Beanie Hat,8.0,https://Yourclothingbrand.com/store/hats,283.9,Desktop,Paid Advertising,31,Female,New Zealand,36,34,4,hat
+7fd84643-2afa-414f-8d53-e1b66416a72c,163,306,66,61.52,2020-01-01,Mission and Vision,10.0,https://Yourclothingbrand.com/about-us,297.36,Desktop,Organic Search,43,Male,Singapore,18,46,4,about us
+60a46451-2ec5-4fee-a1ea-b064b2ec1295,360,278,64,119.92,2020-01-01,Tote Handbag,13.0,https://Yourclothingbrand.com/store/handbags,282.58,Mobile,Social Media,65,Female,Ireland,69,48,4,handbag
+4c1ed827-1955-44da-959c-bc186161f29d,106,283,78,102.1,2020-01-01,Clothing Rental,29.0,https://Yourclothingbrand.com/services,177.8,Mobile,Social Media,42,Male,UK,68,57,4,services
+875e3f4b-45a2-4085-9b87-18be2c1e3f78,179,170,36,67.18,2020-01-01,Stylish Jacket,11.0,https://Yourclothingbrand.com/store/jackets,69.17,Desktop,Social Media,31,Female,USA,1,31,1,jacket
+4e8df777-d5eb-4f4e-86f3-22ac4af2fb03,222,212,54,72.28,2020-01-01,Beanie Hat,15.0,https://Yourclothingbrand.com/store/hats,295.2,Desktop,Organic Search,47,Female,USA,44,67,5,hat
+f025d3ef-40e0-4244-bee0-8c36d5d6c7cc,377,396,38,89.16,2020-01-01,Cropped Pants,5.0,https://Yourclothingbrand.com/store/pants,193.79,Desktop,Paid Advertising,29,Female,Austria,42,64,4,pants
+bf53a403-3f18-47e3-ab5c-9200eec0b746,122,227,76,78.16,2020-01-01,Sneaker Collection,31.0,https://Yourclothingbrand.com/store/sneakers,179.75,Mobile,Organic Search,37,Female,USA,75,1,3,sneaker
+d1c83228-c8b1-4ab9-be2c-07e333ca168a,243,260,47,74.94,2020-01-01,Fun Socks,21.0,https://Yourclothingbrand.com/store/socks,115.88,Mobile,Paid Advertising,41,Female,UK,69,40,1,socks
+0f44b338-6fa9-4eed-b405-e8c1e49b6ba0,233,260,29,81.47,2020-01-01,Elegant Dress,7.0,https://Yourclothingbrand.com/store/dresses,227.7,Mobile,Paid Advertising,29,Female,USA,45,3,5,dress
+f563042f-9d7f-4667-9be0-566aeb0261fb,343,163,53,66.95,2020-01-01,Stylish Jacket,13.0,https://Yourclothingbrand.com/store/jackets,253.4,Mobile,Organic Search,22,Female,Nigeria,45,45,5,jacket
+b5246d31-f78d-4da9-9e7b-45813b48c034,352,341,79,119.09,2020-01-01,Crossbody Handbag,10.0,https://Yourclothingbrand.com/store/handbags,80.12,Desktop,Social Media,70,Female,South Korea,10,65,2,handbag
+5023384a-20aa-44de-bd3e-6e0d1217fb2b,237,227,45,65.72,2020-01-01,Chic Skirt,8.0,https://Yourclothingbrand.com/store/skirts,274.41,Mobile,Organic Search,61,Female,South Korea,74,77,3,skirt
+1f1507dc-ff7d-4f57-8e95-73d21ffe59ef,132,286,14,106.7,2020-01-01,Leather Jacket,17.0,https://Yourclothingbrand.com/store/jackets,87.89,Mobile,Social Media,56,Female,USA,29,58,5,jacket
+5d858af9-3f02-4e21-8f2d-854dbdf41912,259,297,45,89.81,2020-01-01,Featured Products,16.0,https://Yourclothingbrand.com/home,112.82,Desktop,Organic Search,22,Female,UK,24,39,3,home
+81cbb0f0-97bd-41d0-898d-3bc7af43a7d1,327,320,46,91.08,2020-01-01,Denim Shorts,6.0,https://Yourclothingbrand.com/store/shorts,69.39,Mobile,Paid Advertising,57,Female,New Zealand,17,17,2,shorts
+126a3b76-e9be-442d-94ae-9ebb518bd92d,314,232,72,75.67,2020-01-01,Ripped Jeans,8.0,https://Yourclothingbrand.com/store/jeans,99.61,Desktop,Paid Advertising,66,Female,UK,80,16,4,jeans
+7d20fabd-99bb-4bfe-9e51-764b397e239b,346,344,35,67.75,2020-01-01,Chic Accessories,16.0,https://Yourclothingbrand.com/store/accessories,214.24,Desktop,Organic Search,62,Female,USA,1,8,4,accessories
+2303550c-7f50-40b3-95d0-d6577b5c97e2,186,348,67,111.97,2020-01-01,Bohemian Accessories,14.0,https://Yourclothingbrand.com/store/accessories,265.94,Desktop,Organic Search,69,Female,USA,52,24,5,accessories
+9f8368db-dc19-4102-a8d4-d0a336071d4e,391,313,73,114.62,2020-01-01,Fun Socks,12.0,https://Yourclothingbrand.com/store/socks,160.92,Mobile,Organic Search,53,Female,Austria,8,55,2,socks
+0420ba04-106c-4014-ab0b-c87fe772638a,207,383,11,114.42,2020-01-01,Cropped Pants,4.0,https://Yourclothingbrand.com/store/pants,161.24,Desktop,Paid Advertising,44,Female,USA,10,60,5,pants
+fbdbbd10-d285-44d8-b041-ef1ee34d6cab,375,113,61,101.14,2020-01-01,Tote Handbag,13.0,https://Yourclothingbrand.com/store/handbags,269.66,Desktop,Social Media,69,Female,Ireland,40,26,1,handbag
+c81174bd-e5f3-4e7a-b678-f5dfea1c53e2,238,221,41,110.68,2020-01-01,Graphic T-Shirt,16.0,https://Yourclothingbrand.com/store/t-shirts,267.39,Desktop,Organic Search,40,Female,UK,72,13,4,t-shirt
+dab10002-cc4d-482c-a023-be4c3f6ecad7,252,213,27,64.64,2020-01-01,Ankle Socks,15.0,https://Yourclothingbrand.com/store/socks,67.01,Mobile,Organic Search,34,Female,New Zealand,64,16,3,socks
+b3f77b69-2317-4f6f-8f52-e72949123f6c,348,356,21,109.06,2020-01-01,Comfy Sneaker,7.0,https://Yourclothingbrand.com/store/sneakers,56.94,Mobile,Paid Advertising,60,Female,New Zealand,14,30,2,sneaker
+b614a2f6-6906-4201-be57-adc0ae730eb1,333,321,36,107.45,2020-01-01,Beanie Hat,16.0,https://Yourclothingbrand.com/store/hats,175.94,Mobile,Paid Advertising,28,Female,New Zealand,30,40,4,hat
+738d98ec-a308-424d-b91a-9a23c30315dd,370,378,75,76.63,2020-01-01,Plaid Shirt,18.0,https://Yourclothingbrand.com/store/shirts,173.46,Mobile,Paid Advertising,67,Female,USA,70,7,2,shirt
+01d171f3-b65d-43ce-97c6-7d93d355405b,137,202,47,112.64,2020-01-01,Floral Dress,19.0,https://Yourclothingbrand.com/store/dresses,222.25,Desktop,Organic Search,64,Female,Austria,40,31,1,dress
+d521a1b1-b2ee-4c28-ae46-dcf76f5c627c,259,328,51,110.38,2020-01-01,Denim Shirt,16.0,https://Yourclothingbrand.com/store/shirts,254.14,Mobile,Paid Advertising,45,Female,USA,79,29,3,shirt
+fa8ad53f-98b7-4182-9bf9-be56915a4398,300,103,68,84.72,2020-01-01,Clothing Rental,10.0,https://Yourclothingbrand.com/services,259.84,Desktop,Organic Search,63,Female,France,18,21,3,services
+147735a0-8772-464b-9640-b8b165478b22,372,400,49,97.4,2020-01-01,Ripped Jeans,30.0,https://Yourclothingbrand.com/store/jeans,260.58,Mobile,Organic Search,55,Male,USA,36,43,1,jeans
+8b07306a-7257-459a-8357-d129ead36f9b,129,365,62,71.06,2020-01-01,Chic Skirt,6.0,https://Yourclothingbrand.com/store/skirts,285.56,Desktop,Paid Advertising,25,Female,UK,78,49,1,skirt
+d0af8046-48b7-45e1-9cc6-a7b28541372a,352,360,43,93.96,2020-01-01,Cashmere Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,65.52,Desktop,Paid Advertising,59,Female,Ireland,79,30,3,sweater
+f0f8a1f0-63b9-43f2-833b-7fcee8a6b16f,179,210,68,85.98,2020-01-01,Chic Skirt,12.0,https://Yourclothingbrand.com/store/skirts,257.38,Desktop,Organic Search,50,Male,UK,79,33,1,skirt
+ee76a662-ed6e-473a-bd17-8becb4aaa0ed,315,297,19,114.58,2020-01-01,Fashion Consultation,9.0,https://Yourclothingbrand.com/services,198.23,Mobile,Organic Search,47,Male,New Zealand,18,79,4,services
+35e02e07-12ce-4416-a91f-e1b4ec930141,225,124,79,104.99,2020-01-01,Leather Handbag,19.0,https://Yourclothingbrand.com/store/handbags,100.73,Mobile,Organic Search,46,Female,UK,3,24,5,handbag
+0c89ed2c-afa1-4dca-a65a-d97262d48a28,243,115,60,61.62,2020-01-01,Cozy Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,264.89,Desktop,Organic Search,48,Female,New Zealand,23,72,4,sweater
+1e0c9103-7b4a-4537-99d3-fff08bf32c32,253,210,13,84.02,2020-01-01,Comfy Sneaker,18.0,https://Yourclothingbrand.com/store/sneakers,65.97,Desktop,Organic Search,45,Female,USA,19,47,1,sneaker
+82f7207a-0095-4ddc-bd5c-a17380c8d276,133,206,77,100.16,2020-01-01,Beanie Hat,13.0,https://Yourclothingbrand.com/store/hats,284.52,Desktop,Organic Search,69,Female,Canada,21,5,2,hat
+b1223c39-ed62-4ec3-92e7-6c419a8a71fe,162,121,76,111.91,2020-01-01,Yoga Activewear,32.0,https://Yourclothingbrand.com/store/activewear,224.74,Mobile,Social Media,59,Female,UK,58,31,1,activewear
+94262d1b-5e88-4329-9aca-caba13a60819,352,379,68,60.74,2020-01-01,Floral Dress,9.0,https://Yourclothingbrand.com/store/dresses,82.76,Desktop,Social Media,57,Female,UK,53,47,5,dress
+949595e1-4a41-4fdd-b3ac-79479d050e8f,183,224,47,61.99,2020-01-01,Cozy Sweater,14.0,https://Yourclothingbrand.com/store/sweaters,189.02,Mobile,Organic Search,44,Female,Finland,51,40,1,sweater
+3b08fbd7-dc9e-462b-a453-9a8a9e073b3e,188,185,28,85.49,2020-01-01,Floral Dress,23.0,https://Yourclothingbrand.com/store/dresses,227.33,Desktop,Social Media,57,Male,Finland,57,7,4,dress
+d12cd6c3-3e2c-4a27-9fd2-8d8a0aba04cb,250,251,20,62.27,2020-01-01,Vintage T-Shirt,14.0,https://Yourclothingbrand.com/store/t-shirts,161.91,Desktop,Social Media,36,Male,UK,9,4,1,t-shirt
+dd3b9737-5ea1-4af2-acd7-66c716432862,326,307,77,103.22,2020-01-01,Chic Accessories,10.0,https://Yourclothingbrand.com/store/accessories,261.87,Desktop,Social Media,51,Male,New Zealand,19,70,5,accessories
+777b19b8-ca07-43f1-ad8e-7968dc7757ac,202,377,31,61.61,2020-01-01,Pleated Skirt,10.0,https://Yourclothingbrand.com/store/skirts,252.45,Desktop,Organic Search,30,Female,Nigeria,65,22,2,skirt
+c3a143b2-e91f-4fef-8c44-8027989ba9dd,237,354,55,100.0,2020-01-01,Floral Dress,9.0,https://Yourclothingbrand.com/store/dresses,126.77,Desktop,Organic Search,69,Female,Austria,11,56,2,dress
+42497d93-a4ae-4a3b-a7f0-78093dd1ae1d,167,276,69,82.16,2020-01-01,Ripped Jeans,9.0,https://Yourclothingbrand.com/store/jeans,297.57,Desktop,Organic Search,67,Female,New Zealand,71,28,5,jeans
+965b9522-08c0-44a4-9aa6-8bb778068597,254,378,50,64.74,2020-01-01,Sporty Shorts,10.0,https://Yourclothingbrand.com/store/shorts,227.23,Mobile,Organic Search,46,Female,Finland,35,33,5,shorts
+dff69883-1547-4997-8225-f2e4a2747feb,235,308,59,106.39,2020-01-01,Crossbody Handbag,6.0,https://Yourclothingbrand.com/store/handbags,251.14,Desktop,Paid Advertising,47,Female,Nigeria,68,33,3,handbag
+28a3a243-c919-4e4d-89cf-e3c34f2aa335,382,255,65,96.71,2020-01-01,Floral Dress,6.0,https://Yourclothingbrand.com/store/dresses,195.13,Desktop,Paid Advertising,24,Male,Australia,60,46,4,dress
+00849bc8-07c7-4057-a618-c0d87a190afd,393,317,55,83.58,2020-01-01,Leather Wallet,13.0,https://Yourclothingbrand.com/store/wallets,161.15,Desktop,Paid Advertising,70,Female,New Zealand,45,20,4,wallet
+7723a0a2-bf68-49e3-9db9-bd622d67da0c,292,138,25,79.14,2020-01-01,Fashion Consultation,6.0,https://Yourclothingbrand.com/services,112.45,Desktop,Organic Search,64,Female,USA,18,31,3,services
+78b5aa9b-6877-4594-a434-914149f61f22,396,333,76,111.1,2020-01-01,Slim Wallet,14.0,https://Yourclothingbrand.com/store/wallets,294.74,Desktop,Organic Search,60,Female,UK,43,47,3,wallet
+f615c78f-63ba-4934-8dd2-44d069adc329,305,103,24,101.78,2020-01-01,Midi Skirt,11.0,https://Yourclothingbrand.com/store/skirts,196.78,Desktop,Social Media,49,Male,Australia,1,70,3,skirt
+566dd029-d757-49f6-bd27-d87ead2fdf36,324,190,44,78.42,2020-01-01,Cozy Sweater,5.0,https://Yourclothingbrand.com/store/sweaters,60.91,Desktop,Paid Advertising,24,Female,Canada,28,38,5,sweater
+15dcc378-c715-4c64-a3e0-b5aac0f9e388,322,327,31,101.62,2020-01-01,Leather Wallet,38.0,https://Yourclothingbrand.com/store/wallets,260.83,Mobile,Social Media,33,Male,Germany,50,68,3,wallet
+63e6cb10-931d-4e7b-b42c-78f8eddbec7e,257,356,73,95.39,2020-01-01,Stylish Jacket,21.0,https://Yourclothingbrand.com/store/jackets,131.81,Mobile,Organic Search,41,Female,UK,76,26,5,jacket
+3931b193-3445-43b7-a20d-e7defc47f2a3,230,310,32,88.35,2020-01-01,Ripped Jeans,7.0,https://Yourclothingbrand.com/store/jeans,56.25,Desktop,Paid Advertising,33,Female,Germany,80,8,3,jeans
+a9f23b83-11f0-42d6-a758-fb8eb9aa7d82,269,103,28,102.81,2020-01-01,Mission and Vision,7.0,https://Yourclothingbrand.com/about-us,231.8,Desktop,Organic Search,69,Female,USA,63,49,5,about us
+8ab92d9c-4b93-405d-95fa-b61bdf852108,213,170,29,97.58,2020-01-01,Special Offers,7.0,https://Yourclothingbrand.com/home,216.39,Desktop,Paid Advertising,45,Male,USA,4,26,2,home
+b72072b1-7454-49e5-934c-166e6fbaa227,103,310,36,66.41,2020-01-01,Aviator Sunglasses,26.0,https://Yourclothingbrand.com/store/sunglasses,94.4,Mobile,Social Media,70,Male,Canada,16,6,3,sunglasses
+cb9307fb-f6ad-49d5-bd45-9b455a50cc84,326,354,35,101.42,2020-01-01,Patterned Socks,17.0,https://Yourclothingbrand.com/store/socks,169.49,Desktop,Social Media,69,Female,Singapore,39,52,2,socks
+8a3922d5-74c2-44a1-ba20-a442192f8867,207,314,33,90.01,2020-01-01,Knitted Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,280.29,Mobile,Paid Advertising,38,Female,Austria,69,21,4,sweater
+6aceba02-6963-4e6a-abc9-984c03b4c2c2,142,231,41,61.42,2020-01-01,Classic Jeans,27.0,https://Yourclothingbrand.com/store/jeans,259.54,Mobile,Social Media,41,Female,UK,67,16,2,jeans
+9571b9a3-dd24-49f1-a2fa-65597069d641,223,151,71,111.54,2020-01-01,Vintage T-Shirt,10.0,https://Yourclothingbrand.com/store/t-shirts,299.59,Desktop,Social Media,69,Female,Singapore,73,32,3,t-shirt
+03166a41-ca8d-469c-a855-2c7525cf24c9,195,347,29,116.32,2020-01-01,Skinny Jeans,18.0,https://Yourclothingbrand.com/store/jeans,266.92,Desktop,Social Media,30,Female,Singapore,1,69,4,jeans
+91baf39e-6999-4763-820f-af03e6f80c32,165,355,13,114.75,2020-01-01,Skinny Jeans,9.0,https://Yourclothingbrand.com/store/jeans,275.11,Desktop,Organic Search,41,Female,USA,60,11,3,jeans
+51dd28b8-5bca-4cfa-9606-6388fb901604,316,164,60,75.28,2020-01-01,Wide-Leg Pants,5.0,https://Yourclothingbrand.com/store/pants,229.05,Desktop,Paid Advertising,62,Male,UK,3,6,3,pants
+c478b60e-6f36-4391-b2b8-5d68d3f609e8,171,193,14,66.58,2020-01-01,Sporty Shorts,5.0,https://Yourclothingbrand.com/store/shorts,271.39,Mobile,Paid Advertising,39,Female,USA,20,71,4,shorts
+d2afed8e-f276-4457-8327-ec527c645949,364,377,66,115.25,2020-01-01,Customer Service,12.0,https://Yourclothingbrand.com/contacts,276.51,Desktop,Social Media,65,Male,USA,1,33,4,contact
+e9c53250-ffd5-4d74-807a-56a03595511b,144,139,24,87.36,2020-01-01,Boho Jewelry,19.0,https://Yourclothingbrand.com/store/jewelry,60.05,Desktop,Social Media,50,Female,Canada,75,15,3,jewelry
+02fd1f80-b5a2-4703-a500-df591a86ee00,295,163,32,62.82,2020-01-01,Patterned Socks,28.0,https://Yourclothingbrand.com/store/socks,212.34,Mobile,Social Media,27,Female,Germany,62,33,1,socks
+153426fe-51c1-409f-9ca1-34ff6f03e4c2,358,336,19,106.39,2020-01-01,Personal Styling,10.0,https://Yourclothingbrand.com/services,50.67,Desktop,Organic Search,58,Female,USA,13,5,3,services
+3c3d3591-3148-4063-9dac-9f6e30ee204d,229,316,59,109.43,2020-01-01,Bomber Jacket,19.0,https://Yourclothingbrand.com/store/jackets,206.05,Desktop,Organic Search,40,Female,Germany,19,52,5,jacket
+654997c4-8a50-476c-959d-7f01d43cdaff,147,378,23,98.73,2020-01-01,Cat-Eye Sunglasses,15.0,https://Yourclothingbrand.com/store/sunglasses,159.07,Desktop,Organic Search,31,Female,Singapore,73,7,5,sunglasses
+3d523bb0-72ed-44a9-9d07-5938746acdbd,389,102,66,98.55,2020-01-01,Support Email,9.0,https://Yourclothingbrand.com/contacts,100.69,Desktop,Organic Search,35,Female,USA,17,20,2,contact
+a8d98f3e-1c86-45e9-abbd-d3223689f2bb,388,298,17,94.39,2020-01-01,Stylish Hat,7.0,https://Yourclothingbrand.com/store/hats,220.11,Desktop,Organic Search,25,Female,USA,20,58,1,hat
+a194d06f-2857-47c9-b212-5195cc4f5cac,307,252,20,105.69,2020-01-01,Formal Shirt,10.0,https://Yourclothingbrand.com/store/shirts,176.39,Desktop,Paid Advertising,28,Female,South Korea,18,55,4,shirt
+6db1d812-709e-4b12-bca2-dc356ecd5edf,140,257,56,114.73,2020-01-01,Fashionable Outerwear,12.0,https://Yourclothingbrand.com/store/outerwear,243.75,Desktop,Organic Search,43,Female,France,6,34,4,outerwear
+1ed2eda3-c994-44c9-acce-5a9233d99643,298,325,57,91.02,2020-01-01,Crossbody Handbag,7.0,https://Yourclothingbrand.com/store/handbags,152.99,Desktop,Organic Search,64,Female,UK,5,21,1,handbag
+a9125c54-f2b3-4bce-a6e0-1cb8dd3b557c,201,303,68,80.96,2020-01-01,Printed Scarf,9.0,https://Yourclothingbrand.com/store/scarves,69.87,Desktop,Organic Search,34,Female,France,77,79,4,scarf
+d016fbef-3372-4016-84b0-7c3c1222315d,159,113,74,88.4,2020-01-01,Running Activewear,11.0,https://Yourclothingbrand.com/store/activewear,288.56,Desktop,Social Media,49,Male,USA,63,9,1,activewear
+58ee9fb9-d4a8-4194-95e0-6128e182c4c4,228,381,26,91.07,2020-01-01,Classic Jeans,23.0,https://Yourclothingbrand.com/store/jeans,235.8,Mobile,Social Media,68,Female,Canada,59,31,5,jeans
+6092158a-b744-46a4-a9e6-0174dabbee9f,171,296,16,75.29,2020-01-01,New Arrivals,16.0,https://Yourclothingbrand.com/home,183.4,Mobile,Paid Advertising,25,Female,Canada,30,16,5,home
+8bcd7a93-f768-4ed8-8b88-cdfdd93dad07,114,297,70,99.97,2020-01-01,Ankle Socks,10.0,https://Yourclothingbrand.com/store/socks,188.41,Desktop,Organic Search,32,Male,France,47,36,4,socks
+95009d6f-2df3-44ba-8718-a5c5a0a687ab,185,296,79,78.34,2020-01-01,Glamorous Accessories,17.0,https://Yourclothingbrand.com/store/accessories,253.5,Desktop,Social Media,47,Female,Canada,24,47,4,accessories
+569dea4c-684b-4cb4-9410-0d5aa685cffd,328,281,67,86.79,2020-01-01,Aviator Sunglasses,19.0,https://Yourclothingbrand.com/store/sunglasses,124.23,Desktop,Organic Search,52,Female,USA,75,7,3,sunglasses
+186b93b2-73a3-4e36-92e1-6cb9901bc199,255,172,63,76.3,2020-01-01,Stylish Jacket,17.0,https://Yourclothingbrand.com/store/jackets,152.06,Desktop,Social Media,49,Female,Canada,62,4,1,jacket
+cfd3ff5d-cf7b-45fc-8fd5-7bd3fc014499,396,198,74,100.79,2020-01-01,Cat-Eye Sunglasses,22.0,https://Yourclothingbrand.com/store/sunglasses,179.69,Mobile,Social Media,62,Female,South Korea,20,56,2,sunglasses
+d3b17f12-65c7-4495-af4a-06ad645f8c05,359,246,25,73.55,2020-01-01,Special Offers,14.0,https://Yourclothingbrand.com/home,257.1,Desktop,Social Media,42,Female,Nigeria,31,12,1,home
+a09dc0dd-14e1-481e-9ddf-545112fb2931,107,139,76,109.51,2020-01-01,Floral Dress,28.0,https://Yourclothingbrand.com/store/dresses,126.48,Mobile,Organic Search,31,Female,Austria,28,57,4,dress
+2bbc82c4-d8cd-46af-9a2b-aa1d7aaa9013,214,231,58,87.52,2020-01-01,Stylish Hat,15.0,https://Yourclothingbrand.com/store/hats,155.06,Desktop,Social Media,53,Female,USA,75,36,3,hat
+97699546-21b1-45fc-93a7-b6205974a467,159,153,21,86.9,2020-01-01,Graphic T-Shirt,35.0,https://Yourclothingbrand.com/store/t-shirts,276.07,Mobile,Social Media,58,Male,Netherlands,76,35,1,t-shirt
+af428082-2442-462b-9964-189f8a3a1b30,351,312,46,103.53,2020-01-01,Maxi Dress,7.0,https://Yourclothingbrand.com/store/dresses,151.66,Desktop,Paid Advertising,27,Male,Canada,32,16,5,dress
+bf8ede5a-6a60-4580-9807-1cdc742174a2,172,189,39,99.14,2020-01-01,Winter Outerwear,11.0,https://Yourclothingbrand.com/store/outerwear,157.5,Mobile,Organic Search,70,Female,UK,26,15,2,outerwear
+f8250a57-e0c5-422d-a1a6-cabc373cc4d8,262,390,42,104.09,2020-01-01,Vintage T-Shirt,8.0,https://Yourclothingbrand.com/store/t-shirts,185.39,Desktop,Social Media,61,Male,USA,42,35,4,t-shirt
+d57ff096-54d8-4ad6-9323-a5d767afdf08,129,120,19,92.4,2020-01-01,Tailored Pants,13.0,https://Yourclothingbrand.com/store/pants,284.09,Desktop,Social Media,44,Female,Canada,35,17,1,pants
+f9f4d2c5-4ad8-4e44-8bed-1cef7cad1c87,388,135,43,77.12,2020-01-01,Featured Products,11.0,https://Yourclothingbrand.com/home,285.75,Desktop,Organic Search,55,Female,New Zealand,66,37,2,home
+eb09e468-3001-4dfb-9744-c4cc29524652,390,374,77,108.09,2020-01-01,Pleated Skirt,18.0,https://Yourclothingbrand.com/store/skirts,220.83,Desktop,Social Media,36,Female,Austria,31,53,1,skirt
+cac68db4-88b9-4034-b66b-f93cf5d49b3c,233,344,44,114.49,2020-01-01,Chic Accessories,4.0,https://Yourclothingbrand.com/store/accessories,241.11,Desktop,Paid Advertising,53,Female,USA,61,73,3,accessories
+a17ebe7a-6174-4fa1-bc07-22214fd16ca4,280,130,29,67.09,2020-01-01,Denim Shorts,7.0,https://Yourclothingbrand.com/store/shorts,282.93,Mobile,Social Media,58,Female,South Korea,60,60,1,shorts
+580f31d1-217a-44ec-9db8-945dc56c4ea4,330,323,16,63.71,2020-01-01,Statement Jewelry,4.0,https://Yourclothingbrand.com/store/jewelry,78.35,Desktop,Paid Advertising,54,Male,Canada,70,37,1,jewelry
+15601ae0-c8f1-4805-9d70-2845c8c0f141,366,272,40,61.92,2020-01-01,Tailored Pants,6.0,https://Yourclothingbrand.com/store/pants,178.77,Desktop,Paid Advertising,54,Female,USA,11,3,5,pants
+1c0a9566-9f8b-4976-bdcd-afeb45e2b17b,112,182,24,98.05,2020-01-01,Fedora Hat,10.0,https://Yourclothingbrand.com/store/hats,71.19,Mobile,Paid Advertising,49,Female,Ireland,63,50,3,hat
+5a96f9b6-1485-4766-9c37-e69f62d81ef8,373,297,60,63.8,2020-01-01,Fashion Consultation,13.0,https://Yourclothingbrand.com/services,242.6,Desktop,Organic Search,39,Female,Canada,45,51,5,services
+d170798c-0fa0-461c-aee0-381449c36866,348,231,32,73.89,2020-01-01,Comfy Sneaker,7.0,https://Yourclothingbrand.com/store/sneakers,63.19,Desktop,Paid Advertising,55,Female,Ireland,79,34,4,sneaker
+3955bfee-8cc1-46b9-9ea6-0e1cc153143e,231,113,65,65.23,2020-01-01,Wide-Leg Pants,7.0,https://Yourclothingbrand.com/store/pants,270.2,Desktop,Paid Advertising,19,Female,Austria,26,55,3,pants
+131eac85-1141-4ad4-a0c9-8e9a94a2fe44,358,376,43,109.18,2020-01-01,Yoga Activewear,5.0,https://Yourclothingbrand.com/store/activewear,155.24,Desktop,Organic Search,68,Female,USA,21,63,5,activewear
+87911bcd-e838-4003-beb6-f3c45215ed51,327,274,36,96.54,2020-01-01,Meet the Team,12.0,https://Yourclothingbrand.com/about-us,118.5,Desktop,Paid Advertising,64,Male,Germany,53,36,3,about us
+6b99aec4-230c-4c99-a1e4-3927a7c87fb5,273,259,27,60.58,2020-01-01,Fedora Hat,33.0,https://Yourclothingbrand.com/store/hats,212.59,Mobile,Social Media,59,Female,Austria,68,41,2,hat
+7469bbf2-a924-4303-81ba-b123be35e109,306,354,74,89.04,2020-01-01,Customer Service,10.0,https://Yourclothingbrand.com/contacts,159.24,Mobile,Social Media,62,Female,Nigeria,22,15,1,contact
+c541a822-5e09-46ed-9e70-0fcd8be429ab,371,253,27,70.06,2020-01-01,Fashionable Outerwear,4.0,https://Yourclothingbrand.com/store/outerwear,249.08,Desktop,Paid Advertising,53,Female,Singapore,54,16,5,outerwear
+79704c24-9694-4d6e-8764-85b3b6942fc4,116,260,26,83.83,2020-01-01,Wide-Leg Pants,33.0,https://Yourclothingbrand.com/store/pants,232.85,Mobile,Social Media,37,Female,UK,55,32,3,pants
+1dc458a1-473e-4a4a-a5c3-1e3fba2b65d5,287,248,35,74.51,2020-01-01,Chic Accessories,30.0,https://Yourclothingbrand.com/store/accessories,216.24,Mobile,Organic Search,66,Female,Austria,7,27,4,accessories
+79436271-9e5d-48a4-83d8-7adb43bf0f1a,102,224,39,64.85,2020-01-01,Glamorous Accessories,3.0,https://Yourclothingbrand.com/store/accessories,74.2,Desktop,Paid Advertising,25,Female,Netherlands,60,31,3,accessories
+0bb2bd2b-fa6a-4657-be42-40f14910bb6e,355,320,39,99.03,2020-01-01,Woolen Scarf,6.0,https://Yourclothingbrand.com/store/scarves,81.26,Desktop,Paid Advertising,65,Female,Canada,75,42,3,scarf
+9b46b0aa-dc60-47c1-8b37-c56dca9b0bde,114,198,13,106.02,2020-01-01,Meet the Team,10.0,https://Yourclothingbrand.com/about-us,260.18,Mobile,Paid Advertising,26,Female,USA,2,23,5,about us
+d4326cf4-1dc4-4719-988e-ffda522a8e94,311,204,49,61.01,2020-01-01,Customer Service,14.0,https://Yourclothingbrand.com/contacts,184.77,Desktop,Social Media,56,Male,Austria,77,38,4,contact
+b74f8f49-89d2-4275-bc5e-57309efe6a74,237,307,56,84.18,2020-01-01,Ripped Jeans,37.0,https://Yourclothingbrand.com/store/jeans,167.69,Mobile,Organic Search,21,Male,UK,11,40,5,jeans
+dadf04df-fff0-44b1-8615-b772772bd95d,289,372,45,119.4,2020-01-01,Fun Socks,5.0,https://Yourclothingbrand.com/store/socks,148.19,Desktop,Paid Advertising,45,Female,Netherlands,69,68,1,socks
+04cc0d69-e073-4b43-9495-ae71c12701a6,250,112,41,70.34,2020-01-01,Meet the Team,4.0,https://Yourclothingbrand.com/about-us,147.43,Desktop,Paid Advertising,19,Female,UK,46,31,1,about us
+1e0c19db-5720-422b-86a5-2e864e30e9e2,344,123,57,119.42,2020-01-01,Bomber Jacket,11.0,https://Yourclothingbrand.com/store/jackets,73.92,Desktop,Social Media,67,Female,Germany,35,61,2,jacket
+d7faa653-a8dd-4de2-bde7-dcb66502bf7b,333,317,49,61.27,2020-01-01,Leather Handbag,12.0,https://Yourclothingbrand.com/store/handbags,190.58,Mobile,Organic Search,31,Female,South Korea,25,5,4,handbag
+1c42adeb-5f44-48b1-b0e1-9b2ab05253dc,283,171,20,66.23,2020-01-01,Mission and Vision,5.0,https://Yourclothingbrand.com/about-us,135.39,Desktop,Paid Advertising,65,Male,France,62,41,3,about us
+a44ae51c-e697-4db7-a35a-6d57f8cda70e,263,291,58,98.68,2020-01-01,Fun Socks,9.0,https://Yourclothingbrand.com/store/socks,60.96,Desktop,Social Media,65,Female,Canada,73,60,5,socks
+66312fab-388c-4c70-9734-bf91f81f2ae4,395,363,71,101.38,2020-01-01,Knitted Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,181.9,Desktop,Organic Search,30,Male,Canada,14,65,3,sweater
+7b05cdf7-b1bb-43bd-bca7-b6b189148912,362,127,16,109.03,2020-01-01,Printed Scarf,24.0,https://Yourclothingbrand.com/store/scarves,118.15,Mobile,Paid Advertising,43,Male,USA,2,42,4,scarf
+bc0850d1-babd-4e2f-817d-7683c91b6b32,366,386,79,114.85,2020-01-01,Denim Shorts,11.0,https://Yourclothingbrand.com/store/shorts,173.7,Desktop,Organic Search,32,Female,Germany,53,36,2,shorts
+1c3f30d1-de85-4c02-a4bc-d5c1c2268801,370,113,11,64.47,2020-01-01,Leather Wallet,5.0,https://Yourclothingbrand.com/store/wallets,151.24,Desktop,Paid Advertising,62,Female,Singapore,4,61,5,wallet
+7d1f28d0-add4-4793-a453-50dd871efc6c,210,375,28,64.47,2020-01-01,Tailored Pants,7.0,https://Yourclothingbrand.com/store/pants,54.25,Desktop,Organic Search,48,Female,South Korea,8,8,3,pants
+43462780-a02d-40c4-bf13-ac326f80e4c0,263,115,51,107.29,2020-01-01,Chic Accessories,35.0,https://Yourclothingbrand.com/store/accessories,177.79,Mobile,Organic Search,39,Female,Nigeria,70,73,5,accessories
+616caea9-6797-44f7-98e8-f871acfeabf5,248,210,10,116.16,2020-01-01,Comfy Sneaker,14.0,https://Yourclothingbrand.com/store/sneakers,295.44,Desktop,Paid Advertising,39,Female,Germany,13,16,5,sneaker
+514a4eb2-90dd-4786-a38d-87dd2e715079,111,107,15,68.39,2020-01-01,Cropped Pants,6.0,https://Yourclothingbrand.com/store/pants,209.63,Mobile,Paid Advertising,61,Male,Nigeria,39,68,1,pants
+64988fd6-5246-4886-87fa-ee4ae1f540f8,293,162,66,98.43,2020-01-01,Pleated Skirt,32.0,https://Yourclothingbrand.com/store/skirts,261.53,Mobile,Social Media,25,Female,New Zealand,67,68,5,skirt
+5a38fc4b-0bd8-43c4-85a7-1ebed312a440,334,298,52,80.77,2020-01-01,Crossbody Handbag,18.0,https://Yourclothingbrand.com/store/handbags,133.53,Desktop,Social Media,31,Female,New Zealand,17,32,4,handbag
+7254ee10-a796-4073-9a5b-4602c5ea9711,105,130,52,67.46,2020-01-01,Yoga Activewear,11.0,https://Yourclothingbrand.com/store/activewear,163.75,Desktop,Paid Advertising,65,Female,UK,70,37,4,activewear
+6052dd5e-f1aa-4197-9f8a-f16148c99a71,276,208,65,60.02,2020-01-01,Silk Scarf,10.0,https://Yourclothingbrand.com/store/scarves,219.03,Desktop,Social Media,23,Female,Singapore,30,17,4,scarf
+b32b6eb2-69dd-497d-a42b-00d13ea90ce1,231,194,36,113.8,2020-01-01,Patterned Socks,8.0,https://Yourclothingbrand.com/store/socks,78.7,Mobile,Organic Search,45,Female,UK,8,11,1,socks
+b3757ef5-7ce0-4d92-ada3-d5fb745df855,308,195,62,112.62,2020-01-01,Tote Handbag,16.0,https://Yourclothingbrand.com/store/handbags,152.81,Desktop,Social Media,29,Male,Finland,27,5,5,handbag
+2d9e1883-c41e-4712-88aa-f9add7c601a3,145,277,74,91.42,2020-01-01,Beanie Hat,10.0,https://Yourclothingbrand.com/store/hats,198.5,Desktop,Paid Advertising,50,Male,USA,64,11,5,hat
+775557b8-21af-49db-9774-d0fa991d44f0,359,174,43,96.47,2020-01-01,Statement Jewelry,26.0,https://Yourclothingbrand.com/store/jewelry,167.29,Mobile,Organic Search,55,Female,UK,19,62,1,jewelry
+fdb41f0b-1277-4bc5-971a-a27cdd7a4ee7,266,378,52,76.29,2020-01-01,Classic Jeans,5.0,https://Yourclothingbrand.com/store/jeans,204.75,Desktop,Paid Advertising,32,Female,Canada,68,49,2,jeans
+2c2168cd-2d62-406e-b6ec-0b93c19affd3,111,312,31,101.9,2020-01-01,Support Email,35.0,https://Yourclothingbrand.com/contacts,117.38,Mobile,Social Media,59,Female,France,64,72,4,contact
+3abec8e3-0d8d-4aee-8c89-7331db3a25e3,389,285,35,61.12,2020-01-01,Stylish Jacket,17.0,https://Yourclothingbrand.com/store/jackets,193.52,Desktop,Social Media,46,Female,New Zealand,13,28,3,jacket
+4d2e3ccd-e890-49d2-88ad-1353a1648b5d,298,101,31,107.27,2020-01-01,Leather Jacket,12.0,https://Yourclothingbrand.com/store/jackets,163.31,Desktop,Social Media,22,Female,South Korea,6,67,4,jacket
+f54245e9-abc2-4247-81d3-879319acfc1e,198,294,26,91.72,2020-01-01,Chic Skirt,6.0,https://Yourclothingbrand.com/store/skirts,252.54,Desktop,Paid Advertising,59,Female,Canada,33,58,5,skirt
+3dc5cdc5-9cd0-4c96-9da6-9161275fa254,332,399,68,93.79,2020-01-01,Support Email,45.0,https://Yourclothingbrand.com/contacts,112.91,Mobile,Social Media,55,Female,Australia,39,42,3,contact
+89f0013f-76b1-4955-8e25-39c7bc8bd549,204,137,71,109.24,2020-01-01,Beanie Hat,17.0,https://Yourclothingbrand.com/store/hats,72.35,Desktop,Social Media,49,Female,France,16,3,1,hat
+33388eeb-b26b-47f2-8e93-232847018e03,212,217,43,109.3,2020-01-01,Classic Jeans,6.0,https://Yourclothingbrand.com/store/jeans,217.39,Desktop,Paid Advertising,58,Female,UK,61,73,1,jeans
+d066a361-9044-4710-a2d9-1410563b2a74,303,351,14,64.93,2020-01-01,Elegant Dress,5.0,https://Yourclothingbrand.com/store/dresses,61.42,Desktop,Paid Advertising,34,Female,USA,75,20,4,dress
+749422cc-ffa1-481e-b664-65e27672d865,180,252,42,85.28,2020-01-01,Ripped Jeans,5.0,https://Yourclothingbrand.com/store/jeans,96.5,Mobile,Paid Advertising,64,Female,Australia,39,76,3,jeans
+92c743a8-5c91-4894-9605-175eb5d9df22,247,183,70,108.99,2020-01-01,Clothing Rental,12.0,https://Yourclothingbrand.com/services,70.09,Mobile,Paid Advertising,43,Male,USA,9,64,4,services
+cdf5f621-cefe-457e-b463-34c4ed0c4407,166,207,58,118.52,2020-01-01,Fashionable Sunglasses,7.0,https://Yourclothingbrand.com/store/sunglasses,155.16,Desktop,Paid Advertising,51,Female,UK,38,47,2,sunglasses
+27ebbe4e-75ea-4b99-9e2e-7b54c8c5a452,162,234,31,111.73,2020-01-01,Plaid Shirt,9.0,https://Yourclothingbrand.com/store/shirts,65.55,Desktop,Paid Advertising,34,Female,Nigeria,51,77,2,shirt
+95bd686a-f731-4576-99b6-be8c22501664,160,343,47,71.85,2020-01-01,Bohemian Accessories,10.0,https://Yourclothingbrand.com/store/accessories,257.88,Desktop,Paid Advertising,34,Female,USA,44,69,3,accessories
+8e6df286-5172-4bb1-b115-984e0eb4b290,361,266,11,61.8,2020-01-01,Plaid Shirt,17.0,https://Yourclothingbrand.com/store/shirts,61.44,Desktop,Organic Search,25,Male,New Zealand,12,61,2,shirt
+cde45abe-c01d-4e98-ae52-1036080a1755,108,139,59,105.13,2020-01-01,Bomber Jacket,11.0,https://Yourclothingbrand.com/store/jackets,198.69,Desktop,Organic Search,24,Female,Canada,57,64,2,jacket
+24c792ec-f8a5-4f79-bc73-2f0f7a1d7a28,321,365,50,65.54,2020-01-01,Cropped Pants,5.0,https://Yourclothingbrand.com/store/pants,129.95,Desktop,Paid Advertising,68,Female,Finland,8,66,3,pants
+a48518e6-3425-4202-9106-e53d32099ece,166,358,53,96.31,2020-01-01,Aviator Sunglasses,6.0,https://Yourclothingbrand.com/store/sunglasses,270.19,Desktop,Paid Advertising,19,Female,Singapore,25,15,4,sunglasses
+984cbf0f-abef-4a44-8399-9b69d16c91ad,367,170,50,73.31,2020-01-01,Fedora Hat,12.0,https://Yourclothingbrand.com/store/hats,234.84,Desktop,Paid Advertising,52,Female,Singapore,40,46,2,hat
+2838ac15-04d6-4172-aed9-1d38fea78ff0,184,279,49,109.89,2020-01-01,Statement Jewelry,4.0,https://Yourclothingbrand.com/store/jewelry,254.86,Desktop,Paid Advertising,29,Female,USA,74,71,4,jewelry
+0d63d7fc-04cf-4053-9b67-6de9ee16da50,168,321,24,112.72,2020-01-01,Midi Skirt,18.0,https://Yourclothingbrand.com/store/skirts,125.98,Mobile,Social Media,52,Female,USA,66,59,1,skirt
+c0380558-251e-44bc-8f07-1367b1096645,363,226,53,78.76,2020-01-01,Company History,17.0,https://Yourclothingbrand.com/about-us,190.11,Desktop,Organic Search,49,Female,USA,36,21,1,about us
+589990c0-3662-4ec7-8321-d902b62dcd43,362,308,32,88.66,2020-01-01,Elegant Dress,11.0,https://Yourclothingbrand.com/store/dresses,154.33,Desktop,Organic Search,63,Female,Germany,19,49,5,dress
+155abddf-2e23-46b7-ae4b-931ccb54dbd4,324,377,16,86.79,2020-01-01,Pleated Skirt,7.0,https://Yourclothingbrand.com/store/skirts,295.57,Mobile,Paid Advertising,67,Female,Canada,38,51,5,skirt
+99b8fb93-3060-4203-a6bc-2a77ab2aca6a,214,269,51,96.16,2020-01-01,Aviator Sunglasses,11.0,https://Yourclothingbrand.com/store/sunglasses,220.03,Desktop,Social Media,21,Female,Singapore,32,10,3,sunglasses
+daf56e6e-2917-425b-9a82-f25f05148cd4,163,175,14,94.23,2020-01-01,Stylish Hat,4.0,https://Yourclothingbrand.com/store/hats,284.89,Desktop,Paid Advertising,43,Male,UK,1,6,1,hat
+028520fb-e325-4dc9-b8f6-340dc2fde9d3,244,143,40,65.96,2020-01-01,Fashionable Sunglasses,15.0,https://Yourclothingbrand.com/store/sunglasses,184.93,Desktop,Organic Search,66,Female,Austria,70,65,5,sunglasses
+bc370f9b-b240-44e7-b1b7-95469ae87659,205,140,20,118.14,2020-01-01,Fashionable Sunglasses,18.0,https://Yourclothingbrand.com/store/sunglasses,255.25,Mobile,Social Media,59,Male,New Zealand,13,9,3,sunglasses
+82af58fd-a6a4-411d-a985-e21a6134abad,101,323,14,71.36,2020-01-01,Knitted Sweater,9.0,https://Yourclothingbrand.com/store/sweaters,206.35,Desktop,Organic Search,63,Female,USA,17,54,5,sweater
+9199acf4-ddf1-406d-a21a-71959b36d450,385,200,21,104.76,2020-01-01,Comfy Sneaker,8.0,https://Yourclothingbrand.com/store/sneakers,275.98,Mobile,Paid Advertising,56,Male,UK,6,5,1,sneaker
+498309e1-ac52-448a-82c7-0d6a77196e23,105,294,63,80.45,2020-01-01,Leather Wallet,20.0,https://Yourclothingbrand.com/store/wallets,268.45,Mobile,Organic Search,36,Female,New Zealand,70,42,2,wallet
+3f95ca0e-113f-4432-9339-6ecb54885a25,155,254,75,77.57,2020-01-01,Chic Accessories,25.0,https://Yourclothingbrand.com/store/accessories,269.86,Mobile,Social Media,50,Male,Nigeria,40,30,4,accessories
+97c02649-a46c-4086-a02c-cbe8e9bfdc9e,245,350,46,118.8,2020-01-01,Sporty Activewear,19.0,https://Yourclothingbrand.com/store/activewear,130.21,Desktop,Organic Search,23,Female,UK,35,22,4,activewear
+64906c44-2b3d-486a-bde9-4d10483c7e74,149,179,24,82.17,2020-01-01,Customer Service,7.0,https://Yourclothingbrand.com/contacts,104.25,Desktop,Paid Advertising,27,Male,USA,38,32,5,contact
+f0069be3-a5eb-422f-83a5-732f4c4e9f2a,358,280,73,62.77,2020-01-01,Plaid Shirt,12.0,https://Yourclothingbrand.com/store/shirts,98.65,Desktop,Organic Search,49,Female,USA,4,7,4,shirt
+c0224c15-0be3-48e3-b821-2c7049dbc1cf,159,310,55,92.38,2020-01-01,Basic T-Shirt,12.0,https://Yourclothingbrand.com/store/t-shirts,66.51,Desktop,Organic Search,21,Female,USA,72,27,4,t-shirt
+cda13fc9-e1f8-4b38-9cfc-932a52142ef8,189,255,34,78.97,2020-01-01,Boho Jewelry,11.0,https://Yourclothingbrand.com/store/jewelry,185.28,Desktop,Social Media,38,Male,UK,9,11,3,jewelry
+91960983-10ba-4de8-acfe-91ca5c15d208,187,334,23,116.06,2020-01-01,Basic T-Shirt,5.0,https://Yourclothingbrand.com/store/t-shirts,95.15,Desktop,Paid Advertising,66,Female,Nigeria,19,50,1,t-shirt
+d8f2b222-bfa4-428e-a529-4083954c5ceb,214,206,57,76.27,2020-01-01,Woolen Scarf,12.0,https://Yourclothingbrand.com/store/scarves,84.75,Desktop,Paid Advertising,36,Female,New Zealand,66,15,2,scarf
+484ea9a9-2b3e-4b4d-87ea-d7f31e774ce5,150,376,64,74.66,2020-01-01,Pleated Skirt,5.0,https://Yourclothingbrand.com/store/skirts,209.68,Desktop,Paid Advertising,25,Male,Netherlands,61,38,5,skirt
+4fd49cd1-a562-43d8-81ff-bda3c3f1d346,274,370,67,109.78,2020-01-01,Denim Shorts,33.0,https://Yourclothingbrand.com/store/shorts,288.81,Mobile,Organic Search,33,Male,Germany,35,46,3,shorts
+41c0cf32-2237-42e0-8403-2576d40d8bee,112,387,11,112.03,2020-01-01,Vintage T-Shirt,9.0,https://Yourclothingbrand.com/store/t-shirts,248.01,Desktop,Organic Search,31,Female,France,7,73,4,t-shirt
+325f1784-8a99-47ac-9397-baf69ae2705a,115,119,44,92.26,2020-01-01,Fun Socks,28.0,https://Yourclothingbrand.com/store/socks,52.84,Mobile,Organic Search,25,Female,Canada,71,80,1,socks
+2f7146ad-934d-4ec7-8227-d21e74045ac0,313,214,46,73.92,2020-01-01,Plaid Shirt,6.0,https://Yourclothingbrand.com/store/shirts,71.05,Desktop,Paid Advertising,33,Female,France,32,63,3,shirt
+93be3a13-e63e-4e06-917e-acbe2031177b,361,201,14,96.96,2020-01-01,Ripped Jeans,7.0,https://Yourclothingbrand.com/store/jeans,247.85,Desktop,Paid Advertising,21,Female,USA,13,69,1,jeans
+08fbbfea-6c7c-4d1d-9393-180c177de9e8,263,326,48,119.13,2020-01-01,Formal Shirt,10.0,https://Yourclothingbrand.com/store/shirts,84.38,Mobile,Organic Search,60,Female,USA,69,2,2,shirt
+4ed95216-533f-45a1-9a48-89f24e2725b7,217,350,27,105.64,2020-01-01,Denim Shirt,15.0,https://Yourclothingbrand.com/store/shirts,60.97,Desktop,Social Media,60,Female,Canada,23,4,1,shirt
+757884d1-8fd4-4f29-92c3-34653c78d39c,100,268,48,81.44,2020-01-01,Tote Handbag,15.0,https://Yourclothingbrand.com/store/handbags,100.93,Desktop,Social Media,68,Female,Canada,11,62,3,handbag
+d227e87e-09b6-4bb2-886f-ca9305865c4b,256,297,73,88.55,2020-01-01,Vintage T-Shirt,8.0,https://Yourclothingbrand.com/store/t-shirts,258.03,Desktop,Organic Search,70,Female,UK,66,8,4,t-shirt
+58e21ffb-cf3d-4940-a83f-1a43cf348009,206,256,14,63.52,2020-01-01,Stylish Jacket,10.0,https://Yourclothingbrand.com/store/jackets,248.68,Desktop,Organic Search,32,Female,Ireland,24,47,2,jacket
+327fc95a-fc98-462d-9448-27b1c40b7fa7,308,175,28,84.35,2020-01-01,Woolen Scarf,13.0,https://Yourclothingbrand.com/store/scarves,294.99,Mobile,Social Media,19,Male,New Zealand,11,34,2,scarf
+760328a8-96dd-493b-ad88-e646f1ae2c74,359,312,69,79.74,2020-01-01,Tote Handbag,25.0,https://Yourclothingbrand.com/store/handbags,107.34,Mobile,Social Media,48,Male,USA,78,67,2,handbag
+08797ffb-1257-4535-aa69-a8929d0fbfd2,392,217,32,61.95,2020-01-01,Midi Skirt,6.0,https://Yourclothingbrand.com/store/skirts,289.09,Desktop,Paid Advertising,30,Female,UK,27,9,2,skirt
+a530f676-9bb9-45a7-900f-ec4de86166f6,372,114,67,87.92,2020-01-01,Patterned Socks,6.0,https://Yourclothingbrand.com/store/socks,273.81,Mobile,Paid Advertising,58,Male,New Zealand,16,54,1,socks
+283fdb3a-c537-46a5-98dc-c618ea7c8208,218,183,67,75.59,2020-01-01,Stylish Jacket,6.0,https://Yourclothingbrand.com/store/jackets,101.59,Desktop,Paid Advertising,31,Female,Austria,7,9,2,jacket
+7b662ab8-0e52-4c5b-bf82-0b5a63c26de8,312,341,40,99.09,2020-01-01,Silk Scarf,5.0,https://Yourclothingbrand.com/store/scarves,152.77,Desktop,Paid Advertising,51,Female,USA,56,31,3,scarf
+2e299d08-6a63-4a76-a361-10ee068860ca,245,232,35,83.54,2020-01-01,New Arrivals,15.0,https://Yourclothingbrand.com/home,61.96,Desktop,Social Media,27,Male,New Zealand,72,15,3,home
+95dad5f3-61bd-4c04-8be7-133ee21ccf82,171,132,25,109.52,2020-01-01,Pleated Skirt,10.0,https://Yourclothingbrand.com/store/skirts,235.79,Desktop,Organic Search,38,Female,USA,40,31,5,skirt
+d2224ef4-7f9f-4517-9ae3-2aeaaafe33a7,236,369,76,96.1,2020-01-01,Personal Styling,11.0,https://Yourclothingbrand.com/services,199.82,Mobile,Social Media,36,Female,Austria,40,7,3,services
+2d78e62e-e75d-4161-9112-71715211a01b,229,126,20,81.32,2020-01-01,Winter Outerwear,11.0,https://Yourclothingbrand.com/store/outerwear,267.36,Desktop,Paid Advertising,41,Female,Germany,4,73,2,outerwear
+707c4e9e-9da2-45c3-9c30-5367677dd9f5,309,118,30,103.22,2020-01-01,Aviator Sunglasses,8.0,https://Yourclothingbrand.com/store/sunglasses,116.35,Desktop,Organic Search,47,Female,Canada,52,75,3,sunglasses
+6b8b992a-01fb-4b4e-9219-91b9b4811234,183,194,47,106.83,2020-01-01,New Arrivals,15.0,https://Yourclothingbrand.com/home,168.16,Desktop,Social Media,21,Female,Singapore,41,4,5,home
+f87b6707-fa75-4973-8cbd-36c7a78d71ad,377,208,47,76.87,2020-01-01,Company History,22.0,https://Yourclothingbrand.com/about-us,114.84,Mobile,Social Media,27,Female,Nigeria,69,48,4,about us
+b559f72a-97ec-4c87-9866-384a29890513,199,328,53,96.91,2020-01-01,Graphic T-Shirt,18.0,https://Yourclothingbrand.com/store/t-shirts,166.44,Mobile,Paid Advertising,67,Female,Canada,58,52,3,t-shirt
+dcfc6b71-a59b-47b6-808d-ad8edbf882aa,292,218,46,108.1,2020-01-01,Yoga Activewear,9.0,https://Yourclothingbrand.com/store/activewear,143.58,Desktop,Organic Search,29,Female,Germany,10,3,1,activewear
+4d6c4b48-17b9-426b-a646-3bc3fb35c60d,157,385,36,72.82,2020-01-01,Silk Scarf,5.0,https://Yourclothingbrand.com/store/scarves,148.15,Mobile,Paid Advertising,52,Female,USA,65,63,4,scarf
+9462716a-1578-49cb-b309-9468ac046235,280,204,76,67.96,2020-01-01,Silk Scarf,3.0,https://Yourclothingbrand.com/store/scarves,168.88,Desktop,Paid Advertising,60,Female,Australia,32,45,5,scarf
+5f3f01e3-4b5f-475c-9f10-87f05fab855a,369,367,79,90.78,2020-01-01,Sporty Shorts,20.0,https://Yourclothingbrand.com/store/shorts,164.18,Mobile,Paid Advertising,66,Female,USA,22,28,4,shorts
+b468a94e-d71a-4856-ae78-a47b882b4104,266,149,45,100.2,2020-01-01,Denim Shorts,33.0,https://Yourclothingbrand.com/store/shorts,265.76,Mobile,Social Media,57,Male,Nigeria,63,80,1,shorts
+b261b633-7f91-4609-b604-10fa27cf2e3e,386,277,36,75.51,2020-01-01,Cashmere Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,153.02,Desktop,Social Media,42,Male,USA,8,28,3,sweater
+e77ef62f-dd32-488e-9806-1562f120ae80,321,293,57,66.53,2020-01-01,Clothing Rental,6.0,https://Yourclothingbrand.com/services,182.0,Desktop,Paid Advertising,44,Female,New Zealand,5,74,3,services
+fc787559-3d99-4a86-9fdb-4045a477d32f,246,384,74,106.35,2020-01-01,Boho Jewelry,25.0,https://Yourclothingbrand.com/store/jewelry,285.18,Mobile,Social Media,19,Female,Singapore,15,21,4,jewelry
+37ffeded-1bac-404a-b8e3-d33d6c7bba52,191,221,36,117.12,2020-01-01,Support Email,15.0,https://Yourclothingbrand.com/contacts,142.15,Desktop,Social Media,69,Female,Canada,7,59,1,contact
+41eb1102-e14c-43f8-b325-464cde749feb,377,174,12,92.94,2020-01-01,Fashion Consultation,11.0,https://Yourclothingbrand.com/services,152.35,Desktop,Social Media,21,Male,Austria,44,59,2,services
+6ca46732-3c00-4097-8448-43052d42cade,373,335,30,63.94,2020-01-01,Statement Jewelry,5.0,https://Yourclothingbrand.com/store/jewelry,132.74,Desktop,Paid Advertising,23,Female,USA,38,76,1,jewelry
+12b9ddff-b9d2-4494-94d9-8bf11a856479,392,240,78,116.44,2020-01-01,Inquiry Form,17.0,https://Yourclothingbrand.com/contacts,170.56,Desktop,Social Media,19,Female,USA,59,40,4,contact
+99b5dce7-dabb-4ab3-b1c5-33897dc93bbf,307,319,27,66.18,2020-01-01,Running Activewear,18.0,https://Yourclothingbrand.com/store/activewear,67.56,Mobile,Organic Search,56,Female,New Zealand,39,43,1,activewear
+5c2dc092-7bb4-4bed-8510-20acf42d3bde,224,323,29,74.07,2020-01-01,Bohemian Accessories,7.0,https://Yourclothingbrand.com/store/accessories,251.4,Desktop,Paid Advertising,53,Male,Singapore,75,14,2,accessories
+7ce0fb54-4444-4d16-bfd4-e9de1bbef296,103,316,14,101.3,2020-01-01,Pleated Skirt,15.0,https://Yourclothingbrand.com/store/skirts,136.29,Mobile,Social Media,37,Female,Canada,68,44,2,skirt
+4cd2d521-586e-4342-9dd6-4f7689a7ac90,128,223,50,84.13,2020-01-01,Tote Handbag,5.0,https://Yourclothingbrand.com/store/handbags,244.25,Desktop,Paid Advertising,35,Female,UK,22,59,3,handbag
+316f973d-d872-4ad7-b5af-42c257f6d30a,343,183,22,114.48,2020-01-01,Chic Accessories,15.0,https://Yourclothingbrand.com/store/accessories,120.15,Desktop,Social Media,51,Female,Nigeria,50,55,5,accessories
+afe68a18-077e-4e93-abbf-e3363729b1d2,232,224,14,82.51,2020-01-01,Wide-Leg Pants,16.0,https://Yourclothingbrand.com/store/pants,289.23,Mobile,Paid Advertising,33,Female,USA,70,78,2,pants
+69066dae-f370-4ba8-8640-fc8afb9e3c15,265,303,61,118.01,2020-01-01,New Arrivals,26.0,https://Yourclothingbrand.com/home,187.8,Mobile,Organic Search,43,Female,Singapore,58,36,4,home
+d55187d6-2a02-481b-b3be-258891548a4f,348,219,47,91.43,2020-01-01,Personal Styling,10.0,https://Yourclothingbrand.com/services,74.79,Desktop,Paid Advertising,45,Female,USA,11,18,5,services
+de36e29b-63c3-4db4-bc3e-56d4896dbcb4,332,372,16,60.85,2020-01-01,Denim Shirt,2.0,https://Yourclothingbrand.com/store/shirts,126.9,Desktop,Paid Advertising,25,Female,USA,2,45,3,shirt
+2678525a-1ac0-47ff-b2e1-b0451e5dd133,336,338,51,117.24,2020-01-01,Sporty Activewear,11.0,https://Yourclothingbrand.com/store/activewear,182.24,Desktop,Paid Advertising,33,Female,Canada,75,70,3,activewear
+01fd19d2-9f2f-484f-89f2-98981b21e5de,237,154,33,68.16,2020-01-01,Featured Products,12.0,https://Yourclothingbrand.com/home,222.81,Mobile,Paid Advertising,52,Female,Singapore,34,15,1,home
+da307230-3a7d-4807-bb64-d7b9f4f2eccc,167,321,36,70.72,2020-01-01,Customer Service,9.0,https://Yourclothingbrand.com/contacts,70.92,Desktop,Paid Advertising,69,Female,Austria,78,27,5,contact
+21a7e560-baf4-4399-b602-5aec5ddc2030,307,395,61,89.75,2020-01-01,Silk Scarf,16.0,https://Yourclothingbrand.com/store/scarves,66.19,Mobile,Organic Search,45,Male,Australia,48,43,5,scarf
+9a4ffe32-5eac-4390-8250-4ff5e02eb212,296,159,57,97.77,2020-01-01,Leather Wallet,7.0,https://Yourclothingbrand.com/store/wallets,234.96,Desktop,Paid Advertising,61,Male,Canada,58,25,2,wallet
+692c0dbe-be80-49b2-8425-6b256cecca2d,276,360,17,68.17,2020-01-01,Denim Shorts,5.0,https://Yourclothingbrand.com/store/shorts,242.13,Desktop,Paid Advertising,54,Female,Netherlands,14,53,5,shorts
+940b0ca4-e1d5-485a-8ba7-e59145f73a54,245,390,28,106.67,2020-01-01,Wide-Leg Pants,13.0,https://Yourclothingbrand.com/store/pants,106.63,Desktop,Organic Search,40,Female,Singapore,46,31,3,pants
+77f4097f-710d-4992-8ce0-a7845cae4f9b,179,336,59,67.65,2020-01-01,Cozy Sweater,34.0,https://Yourclothingbrand.com/store/sweaters,53.68,Mobile,Organic Search,58,Male,Austria,7,20,4,sweater
+00fe0528-4204-401f-9ea5-077c05976cf7,249,237,62,97.76,2020-01-01,Fashion Consultation,28.0,https://Yourclothingbrand.com/services,167.97,Mobile,Social Media,26,Male,Canada,51,14,4,services
+250dcd62-ef8f-4387-9cf6-f1e459b62141,195,316,33,74.88,2020-01-01,New Arrivals,10.0,https://Yourclothingbrand.com/home,128.17,Mobile,Organic Search,48,Female,Finland,40,48,3,home
+27cb0d20-d4e7-4e2f-bc25-a95f72c6eab1,388,271,74,78.6,2020-01-01,Fashion Consultation,8.0,https://Yourclothingbrand.com/services,234.91,Desktop,Social Media,67,Male,Nigeria,36,57,4,services
+3ab3ba44-4b8f-462c-94f2-4712603b69c6,188,392,15,61.63,2020-01-01,Ripped Jeans,4.0,https://Yourclothingbrand.com/store/jeans,281.71,Desktop,Paid Advertising,23,Female,Singapore,63,42,5,jeans
+ecf64588-3bee-40d7-a6f4-59ab7f8c415e,336,395,25,86.19,2020-01-01,Basic T-Shirt,10.0,https://Yourclothingbrand.com/store/t-shirts,250.89,Mobile,Organic Search,43,Female,UK,4,12,5,t-shirt
+21c9167d-c77a-41cb-b715-8a1b75fca086,363,270,41,88.32,2020-01-01,Comfy Shorts,3.0,https://Yourclothingbrand.com/store/shorts,50.31,Desktop,Paid Advertising,34,Female,USA,3,9,1,shorts
+1c8d77a3-b9ab-4149-afca-d2b0a23c94d3,242,333,39,76.23,2020-01-01,Midi Skirt,12.0,https://Yourclothingbrand.com/store/skirts,183.05,Desktop,Social Media,33,Female,France,21,52,5,skirt
+a546d008-e98a-42c4-8ac8-bb8cb544584e,225,277,31,88.82,2020-01-01,Stylish Jacket,5.0,https://Yourclothingbrand.com/store/jackets,72.23,Desktop,Paid Advertising,55,Female,Netherlands,14,58,2,jacket
+f6ad6693-213d-44cf-8cf2-e66627ae65ec,196,289,26,81.99,2020-01-01,Ankle Socks,4.0,https://Yourclothingbrand.com/store/socks,217.18,Desktop,Paid Advertising,37,Female,Austria,6,1,4,socks
+e286225a-2756-46d5-a4f7-ae99e57644bc,278,176,10,115.51,2020-01-01,Chic Accessories,13.0,https://Yourclothingbrand.com/store/accessories,152.11,Desktop,Social Media,45,Male,Nigeria,4,14,3,accessories
+8324a70b-fbaa-415e-8ec5-7c07b3f93e0d,218,144,59,76.22,2020-01-01,Statement Jewelry,7.0,https://Yourclothingbrand.com/store/jewelry,163.41,Mobile,Paid Advertising,22,Male,Germany,33,52,5,jewelry
+261083a9-34cf-4cc3-bb2b-20ad232eae28,118,313,19,107.46,2020-01-01,Sporty Activewear,5.0,https://Yourclothingbrand.com/store/activewear,211.12,Mobile,Paid Advertising,48,Female,Austria,74,12,2,activewear
+9a700b0d-8527-4543-b485-9bedb1c6d9a3,120,205,33,113.24,2020-01-01,New Arrivals,11.0,https://Yourclothingbrand.com/home,286.27,Desktop,Social Media,46,Female,UK,26,34,2,home
+4c42dd61-884e-4705-a546-1e90a87a2490,193,197,45,86.37,2020-01-01,Denim Shirt,11.0,https://Yourclothingbrand.com/store/shirts,135.56,Desktop,Organic Search,44,Female,Australia,69,28,1,shirt
+4c447251-72d6-443e-8d46-40924f13f843,317,254,79,82.19,2020-01-01,Denim Shirt,15.0,https://Yourclothingbrand.com/store/shirts,53.32,Mobile,Paid Advertising,65,Female,Austria,50,44,5,shirt
+cd7d779b-524c-4092-8a95-b03db7de2379,249,105,62,105.72,2020-01-01,Sporty Shorts,17.0,https://Yourclothingbrand.com/store/shorts,143.21,Mobile,Paid Advertising,53,Female,New Zealand,66,11,2,shorts
+87907c41-7b22-47b1-8751-bbf84952cd3b,309,168,59,117.32,2020-01-01,Denim Shirt,14.0,https://Yourclothingbrand.com/store/shirts,254.8,Desktop,Organic Search,43,Female,Austria,68,55,5,shirt
+5073573a-dd67-47cc-a8cc-1974e9499e36,296,277,71,113.44,2020-01-01,Cozy Sweater,20.0,https://Yourclothingbrand.com/store/sweaters,174.98,Mobile,Social Media,65,Female,France,9,74,2,sweater
+533a5c49-c28f-467b-a2ce-7de24427a120,304,159,25,113.35,2020-01-01,Printed Scarf,5.0,https://Yourclothingbrand.com/store/scarves,192.46,Desktop,Paid Advertising,43,Male,New Zealand,76,70,1,scarf
+97fa6315-2405-4275-9aff-b6c04e7ba52e,149,243,21,86.92,2020-01-01,Chic Accessories,30.0,https://Yourclothingbrand.com/store/accessories,61.77,Mobile,Social Media,28,Female,Finland,69,5,5,accessories
+4cc68750-19e7-472e-870f-5d1042ee1d43,107,243,16,92.53,2020-01-01,Clothing Rental,20.0,https://Yourclothingbrand.com/services,60.59,Mobile,Social Media,69,Male,Ireland,21,45,2,services
+e800c8b0-309d-4729-a0ad-29cd601bd212,162,177,38,109.98,2020-01-01,Tailored Pants,16.0,https://Yourclothingbrand.com/store/pants,293.94,Desktop,Organic Search,57,Male,Nigeria,67,57,3,pants
+01d0d6d4-152c-4d65-b528-514450f513b6,343,100,72,76.85,2020-01-01,Printed Scarf,8.0,https://Yourclothingbrand.com/store/scarves,186.0,Mobile,Social Media,66,Male,USA,62,52,4,scarf
+2b31d71e-8a1c-4dd7-90b1-1b0a892da76e,146,104,34,98.27,2020-01-01,Personal Styling,11.0,https://Yourclothingbrand.com/services,99.28,Desktop,Social Media,22,Male,Austria,51,51,5,services
+0e884c77-6665-4d8d-816b-c6e41a01f46e,374,341,69,62.4,2020-01-01,Cat-Eye Sunglasses,14.0,https://Yourclothingbrand.com/store/sunglasses,259.82,Mobile,Social Media,69,Male,Canada,26,30,4,sunglasses
+b73fb26f-6f27-4833-87b1-b89626e370cb,163,221,71,110.72,2020-01-01,Aviator Sunglasses,7.0,https://Yourclothingbrand.com/store/sunglasses,162.22,Desktop,Paid Advertising,20,Female,Canada,42,70,3,sunglasses
+40bfa7d5-2bd6-40a5-8dd9-2932f9fd6297,156,278,42,81.9,2020-01-01,Meet the Team,10.0,https://Yourclothingbrand.com/about-us,261.52,Desktop,Paid Advertising,31,Female,Ireland,37,67,5,about us
+520eff2b-d850-4bc9-8686-826e2a27440c,334,336,40,71.04,2020-01-01,Cropped Pants,29.0,https://Yourclothingbrand.com/store/pants,189.9,Mobile,Social Media,31,Female,USA,32,71,1,pants
+334015ef-508d-4939-b06c-150609ee3305,211,246,10,94.92,2020-01-01,Denim Shirt,4.0,https://Yourclothingbrand.com/store/shirts,252.83,Desktop,Paid Advertising,29,Female,Germany,20,38,4,shirt
+e501f99e-b89e-47dc-a495-5dabbf32f6ca,350,350,60,111.9,2020-01-01,Support Email,43.0,https://Yourclothingbrand.com/contacts,184.48,Mobile,Social Media,43,Female,UK,44,1,2,contact
+c40eb950-1fb8-46c8-b167-5c8a7df0f1a2,380,214,14,95.97,2020-01-01,Floral Dress,12.0,https://Yourclothingbrand.com/store/dresses,159.95,Desktop,Social Media,22,Female,UK,79,25,2,dress
+5732b080-6093-4c99-808d-7b054d381b1c,267,113,40,79.12,2020-01-01,Beanie Hat,12.0,https://Yourclothingbrand.com/store/hats,194.64,Desktop,Organic Search,39,Female,Finland,15,17,4,hat
+9c7351f8-4b44-4df1-884d-4eef97836eaa,243,357,25,94.29,2020-01-01,Cozy Sweater,17.0,https://Yourclothingbrand.com/store/sweaters,118.7,Desktop,Social Media,48,Male,USA,49,35,2,sweater
+dfe54908-ebaf-4079-9b4b-13017ab5fef7,148,337,53,104.65,2020-01-01,Slim Wallet,14.0,https://Yourclothingbrand.com/store/wallets,121.66,Mobile,Social Media,51,Female,France,79,78,5,wallet
+45ad3b36-6e4d-4416-abb5-8cc39d4ba3cd,386,150,27,98.57,2020-01-01,Formal Shirt,23.0,https://Yourclothingbrand.com/store/shirts,139.94,Mobile,Organic Search,62,Female,Nigeria,78,15,2,shirt
+cb9c9458-b42b-49ec-8e22-97a3d4eb90ee,309,280,59,107.76,2020-01-01,Dainty Jewelry,12.0,https://Yourclothingbrand.com/store/jewelry,66.38,Desktop,Organic Search,40,Female,Nigeria,15,7,5,jewelry
+6a017baa-f843-4d1b-8273-502da7932dfe,315,155,45,78.26,2020-01-01,Bohemian Accessories,14.0,https://Yourclothingbrand.com/store/accessories,213.42,Mobile,Organic Search,70,Female,Nigeria,30,46,2,accessories
+961ef1fc-cd66-494b-84ea-67b73519dd7a,282,325,24,67.73,2020-01-01,Ripped Jeans,31.0,https://Yourclothingbrand.com/store/jeans,127.79,Mobile,Organic Search,27,Male,New Zealand,32,72,2,jeans
+4be8ede4-bbfb-4518-a583-cf9232cc183d,328,172,31,63.91,2020-01-01,Tailored Pants,7.0,https://Yourclothingbrand.com/store/pants,91.29,Desktop,Paid Advertising,25,Female,USA,72,50,4,pants
+c94460b9-d20e-4d2e-9587-4afc21977b57,101,352,65,68.67,2020-01-01,Fashionable Outerwear,26.0,https://Yourclothingbrand.com/store/outerwear,107.69,Mobile,Social Media,57,Female,Nigeria,12,46,3,outerwear
+cb65d387-8ace-4df4-9ed2-8be979bec90d,135,394,14,64.83,2020-01-01,Clothing Rental,10.0,https://Yourclothingbrand.com/services,137.72,Desktop,Organic Search,22,Female,Nigeria,11,41,1,services
+4bcc27bd-d95d-45b3-94d0-099b155fd204,272,344,33,119.39,2020-01-01,Crossbody Handbag,10.0,https://Yourclothingbrand.com/store/handbags,105.38,Desktop,Paid Advertising,34,Female,UK,80,60,5,handbag
+44532e13-a3c8-4e33-9590-250ce926a981,306,108,71,100.88,2020-01-01,Fashion Consultation,6.0,https://Yourclothingbrand.com/services,170.56,Desktop,Paid Advertising,22,Female,UK,59,28,5,services
+d61c59e4-b24d-44e3-9dae-79031bd798a1,230,322,61,70.91,2020-01-01,Personal Styling,12.0,https://Yourclothingbrand.com/services,174.34,Desktop,Organic Search,68,Female,Germany,77,78,2,services
+a33d0e7a-478c-4f5a-87be-9ec7cd1a1981,108,134,30,86.07,2020-01-01,Fashion Consultation,12.0,https://Yourclothingbrand.com/services,149.02,Mobile,Paid Advertising,57,Female,USA,48,7,1,services
+c8504471-2509-411e-8ace-624f1734be54,229,166,14,113.24,2020-01-01,Denim Shorts,8.0,https://Yourclothingbrand.com/store/shorts,75.94,Desktop,Organic Search,33,Female,New Zealand,13,65,3,shorts
+b2bb1005-b9d0-4e1c-91ef-6d8679ca4ca1,244,377,40,67.58,2020-01-01,Bomber Jacket,10.0,https://Yourclothingbrand.com/store/jackets,53.38,Desktop,Social Media,19,Female,Austria,6,20,1,jacket
+6b90a460-9487-4039-8f87-39da699c8667,380,166,14,96.81,2020-01-01,Basic T-Shirt,9.0,https://Yourclothingbrand.com/store/t-shirts,298.53,Desktop,Paid Advertising,52,Male,Austria,14,18,1,t-shirt
+bdd8dd21-d0c9-453f-b06f-8f3f9bf3d7eb,254,267,79,114.58,2020-01-01,Fashionable Sunglasses,10.0,https://Yourclothingbrand.com/store/sunglasses,213.87,Desktop,Social Media,53,Female,Nigeria,47,65,1,sunglasses
+21a89738-6595-4cc1-b829-524ce47a3b8d,247,362,52,87.87,2020-01-01,Elegant Dress,8.0,https://Yourclothingbrand.com/store/dresses,173.05,Desktop,Organic Search,22,Female,USA,37,71,2,dress
+aa300820-4780-436b-ac80-acfc7ee7daaa,328,100,40,104.08,2020-01-01,Dainty Jewelry,14.0,https://Yourclothingbrand.com/store/jewelry,72.31,Desktop,Social Media,42,Female,Ireland,49,9,4,jewelry
+edb9eef0-5f52-4d63-8c63-af3ab9f713b9,130,104,15,89.0,2020-01-01,Fashion Consultation,18.0,https://Yourclothingbrand.com/services,233.84,Desktop,Organic Search,58,Female,Singapore,13,37,1,services
+3889f4de-f198-4e87-853e-548567c927ac,170,383,67,100.22,2020-01-01,Personal Styling,5.0,https://Yourclothingbrand.com/services,255.05,Desktop,Paid Advertising,41,Female,Singapore,42,4,5,services
+02ef251f-6bad-45b3-b93e-3d34f4d1c8f9,332,213,73,84.73,2020-01-01,Wide-Leg Pants,10.0,https://Yourclothingbrand.com/store/pants,59.82,Mobile,Social Media,42,Female,Singapore,16,56,5,pants
+eb3eace4-60bc-4fe3-a35d-5614881b277c,338,390,64,91.24,2020-01-01,Glamorous Accessories,5.0,https://Yourclothingbrand.com/store/accessories,75.75,Mobile,Paid Advertising,37,Female,Austria,80,66,4,accessories
+5d29f3f1-c0cc-4ba4-a29e-460a454209bb,272,287,76,110.44,2020-01-01,Ripped Jeans,18.0,https://Yourclothingbrand.com/store/jeans,281.58,Mobile,Social Media,27,Female,UK,27,57,4,jeans
+329a0ac1-e36c-4d32-b61a-09072e4ba84c,280,382,39,66.39,2020-01-01,Comfy Sneaker,21.0,https://Yourclothingbrand.com/store/sneakers,250.86,Mobile,Organic Search,67,Female,USA,62,17,3,sneaker
+dc3f218b-dc5a-4f4a-a710-b8116525b4d6,307,179,77,99.62,2020-01-01,Leather Handbag,16.0,https://Yourclothingbrand.com/store/handbags,195.72,Mobile,Paid Advertising,45,Female,USA,8,55,4,handbag
+3c5ddd3b-c64b-42df-8d52-7dc735eba822,389,252,10,111.59,2020-01-01,Patterned Socks,11.0,https://Yourclothingbrand.com/store/socks,133.06,Desktop,Social Media,55,Male,Canada,71,22,3,socks
+07fa075e-21ca-419c-b0ce-83690a41a9a2,298,394,70,93.0,2020-01-01,Vintage T-Shirt,10.0,https://Yourclothingbrand.com/store/t-shirts,205.4,Mobile,Paid Advertising,67,Male,Netherlands,5,73,5,t-shirt
+3f3c8a92-5d86-47d4-aebf-e6b59b6a4234,369,242,18,89.23,2020-01-01,Cropped Pants,10.0,https://Yourclothingbrand.com/store/pants,232.43,Desktop,Social Media,56,Female,UK,50,73,5,pants
+b2072de3-3b1f-45c9-baf3-b393f5ed9427,229,203,36,117.54,2020-01-01,Beanie Hat,21.0,https://Yourclothingbrand.com/store/hats,175.1,Desktop,Social Media,36,Female,New Zealand,56,67,3,hat
+3437c1cd-efff-4ccf-8a96-9b217fc6b37c,110,159,31,61.53,2020-01-01,Personal Styling,5.0,https://Yourclothingbrand.com/services,299.23,Desktop,Paid Advertising,36,Female,UK,46,73,4,services
+8c89a9ee-e51e-4074-932e-0844a50c3a15,109,216,60,78.15,2020-01-01,Meet the Team,5.0,https://Yourclothingbrand.com/about-us,179.33,Desktop,Organic Search,69,Female,UK,11,35,2,about us
+1335dd55-5767-4c22-8cf4-5b807b2949a9,244,169,61,113.02,2020-01-01,Lightweight Outerwear,9.0,https://Yourclothingbrand.com/store/outerwear,193.35,Desktop,Paid Advertising,39,Female,Canada,10,11,4,outerwear
+f67285b6-b143-454e-a86f-2e54cc6d97c1,319,102,74,83.82,2020-01-01,Aviator Sunglasses,23.0,https://Yourclothingbrand.com/store/sunglasses,188.54,Mobile,Organic Search,33,Female,New Zealand,44,61,4,sunglasses
+2f08594b-3ae2-4200-89e4-844b08ad6133,338,164,24,65.74,2020-01-01,Ankle Socks,12.0,https://Yourclothingbrand.com/store/socks,98.55,Mobile,Paid Advertising,48,Female,Netherlands,56,7,3,socks
+1e433472-2333-4f12-bd94-c14a7c7a27d2,288,352,58,100.46,2020-01-01,Knitted Sweater,20.0,https://Yourclothingbrand.com/store/sweaters,249.91,Mobile,Organic Search,52,Female,Canada,9,44,2,sweater
+79692e7d-edf7-4d0a-b75a-f43ef35069b7,220,136,77,90.3,2020-01-01,Knitted Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,180.99,Desktop,Organic Search,59,Female,Austria,2,72,3,sweater
+4e2f576d-eed0-4744-bf4b-85e4e443fe32,196,311,64,76.76,2020-01-01,Chic Accessories,9.0,https://Yourclothingbrand.com/store/accessories,67.76,Desktop,Paid Advertising,55,Female,New Zealand,31,71,3,accessories
+d0f03cc6-ab70-49b6-b3e9-ac5867216206,291,182,37,104.5,2020-01-01,Fun Socks,10.0,https://Yourclothingbrand.com/store/socks,131.02,Desktop,Paid Advertising,45,Female,Australia,74,13,3,socks
+8fe4c682-a04c-4ba6-93dc-3dbc43c629a8,171,219,25,78.18,2020-01-01,Fedora Hat,12.0,https://Yourclothingbrand.com/store/hats,155.98,Desktop,Social Media,53,Female,Nigeria,14,1,1,hat
+2f14edc9-fc8a-491b-af5e-54e4227677b1,289,124,54,108.21,2020-01-01,Sneaker Collection,14.0,https://Yourclothingbrand.com/store/sneakers,60.0,Desktop,Organic Search,24,Female,Finland,67,50,5,sneaker
+11431bdf-647f-4376-bc4c-adb27636230e,285,231,80,64.23,2020-01-01,Tailored Pants,5.0,https://Yourclothingbrand.com/store/pants,214.14,Desktop,Paid Advertising,51,Female,Canada,13,74,1,pants
+b93d6d97-a623-4849-9537-9bb1e8dd05d7,155,124,39,83.04,2020-01-01,Beanie Hat,6.0,https://Yourclothingbrand.com/store/hats,82.3,Desktop,Paid Advertising,42,Female,Ireland,73,15,2,hat
+eef26b3d-6c52-4549-941d-452736b9ae19,193,220,70,75.19,2020-01-01,Company History,21.0,https://Yourclothingbrand.com/about-us,288.8,Mobile,Social Media,23,Female,Netherlands,36,80,3,about us
+9116c92a-ab2f-4be2-89eb-39d3d6313c8a,178,162,18,108.07,2020-01-01,Personal Styling,17.0,https://Yourclothingbrand.com/services,175.99,Mobile,Social Media,46,Female,Singapore,55,31,3,services
+74547d23-2ddd-42d8-8dcd-4492056a7a05,312,310,48,75.02,2020-01-01,Winter Outerwear,21.0,https://Yourclothingbrand.com/store/outerwear,147.06,Mobile,Social Media,27,Female,USA,18,33,2,outerwear
+e58a857e-7a81-4933-a95b-1e9ec2e1b946,178,308,12,80.87,2020-01-01,Comfy Shorts,7.0,https://Yourclothingbrand.com/store/shorts,97.78,Desktop,Paid Advertising,70,Female,New Zealand,42,36,2,shorts
+dd006a43-7a34-4083-9e6a-fb1cbdcdc7b4,381,323,31,85.26,2020-01-01,Aviator Sunglasses,9.0,https://Yourclothingbrand.com/store/sunglasses,249.06,Desktop,Organic Search,30,Female,France,37,17,3,sunglasses
+55eac8ef-ce12-4775-a764-59cc2c8f29bb,210,376,47,105.84,2020-01-01,Dainty Jewelry,3.0,https://Yourclothingbrand.com/store/jewelry,144.31,Desktop,Paid Advertising,39,Male,Ireland,58,45,1,jewelry
+a39368b2-f581-4b3b-93d8-c834a47bbeee,211,102,53,109.52,2020-01-01,Stylish Jacket,7.0,https://Yourclothingbrand.com/store/jackets,297.91,Desktop,Paid Advertising,29,Female,Canada,49,49,5,jacket
+2d6b7218-d0c0-4914-b4bd-bf36ddac24d6,291,221,14,77.39,2020-01-01,Inquiry Form,5.0,https://Yourclothingbrand.com/contacts,295.44,Desktop,Paid Advertising,38,Female,France,31,75,5,contact
+e5e8f33c-928f-400b-b2be-7b06a8fcd9e3,390,268,42,84.82,2020-01-01,Comfy Sneaker,17.0,https://Yourclothingbrand.com/store/sneakers,280.19,Desktop,Organic Search,40,Male,UK,44,41,3,sneaker
+2e672fca-505f-4094-999e-bcceee6beccf,137,306,58,86.61,2020-01-01,Designer Wallet,9.0,https://Yourclothingbrand.com/store/wallets,276.06,Desktop,Organic Search,32,Female,Canada,77,69,4,wallet
+882d3a84-fdca-49f7-aa71-7be917bea097,121,218,28,102.96,2020-01-01,Cashmere Sweater,6.0,https://Yourclothingbrand.com/store/sweaters,112.88,Desktop,Paid Advertising,41,Female,Canada,10,67,1,sweater
+9e72445b-232e-4411-8150-1af0c9fc6e7f,377,215,60,87.37,2020-01-01,Silk Scarf,27.0,https://Yourclothingbrand.com/store/scarves,231.72,Mobile,Social Media,49,Female,Canada,6,43,5,scarf
+4323cf5b-5a52-4830-af41-0c72c292f8d2,252,310,21,78.24,2020-01-01,Patterned Socks,9.0,https://Yourclothingbrand.com/store/socks,102.25,Desktop,Social Media,64,Female,Nigeria,9,39,3,socks
+ddc6c98d-a23e-456a-8d60-f32342191c1f,258,254,14,72.34,2020-01-01,Dainty Jewelry,3.0,https://Yourclothingbrand.com/store/jewelry,210.85,Mobile,Paid Advertising,58,Female,Germany,49,4,2,jewelry
+5726106b-1f7d-4596-85e6-d4d9acb06ec8,107,166,20,63.33,2020-01-01,Wide-Leg Pants,8.0,https://Yourclothingbrand.com/store/pants,61.82,Desktop,Organic Search,64,Female,South Korea,12,71,3,pants
+665e69b1-6494-4756-8977-947d48628b9e,127,223,51,79.31,2020-01-01,Glamorous Accessories,11.0,https://Yourclothingbrand.com/store/accessories,55.3,Desktop,Organic Search,55,Female,UK,50,34,3,accessories
+55e5cca3-68b2-4c93-b718-7319841947d5,205,250,49,65.92,2020-01-01,Sporty Activewear,17.0,https://Yourclothingbrand.com/store/activewear,269.83,Mobile,Organic Search,20,Female,Canada,48,17,3,activewear
+be2ecb23-960e-43f5-a6e7-729764e1d55a,274,210,36,103.71,2020-01-01,Printed Scarf,6.0,https://Yourclothingbrand.com/store/scarves,290.72,Mobile,Paid Advertising,33,Male,UK,65,16,3,scarf
+2c1e9d78-43f5-491e-a23a-5c8368f6b8a1,161,107,40,70.22,2020-01-01,Midi Skirt,17.0,https://Yourclothingbrand.com/store/skirts,236.99,Mobile,Social Media,26,Male,UK,14,48,4,skirt
+4587ead7-e784-47af-b3d3-f6d1787df4d0,134,394,53,100.18,2020-01-01,Personal Styling,12.0,https://Yourclothingbrand.com/services,84.14,Desktop,Social Media,36,Male,Canada,7,5,1,services
+d6cf4c7c-1fb3-4027-98fa-6c56f6c5fa72,163,122,67,109.03,2020-01-01,Skinny Jeans,16.0,https://Yourclothingbrand.com/store/jeans,281.26,Desktop,Organic Search,69,Male,Finland,70,55,3,jeans
+b2b044db-4f14-439d-9499-7c99bcbc0c4e,288,152,53,64.67,2020-01-01,Mission and Vision,11.0,https://Yourclothingbrand.com/about-us,165.28,Desktop,Organic Search,28,Female,Austria,15,10,3,about us
+7eb9b828-3e21-40ee-832b-0a2ee8f6b34a,296,104,14,76.88,2020-01-01,Denim Shorts,6.0,https://Yourclothingbrand.com/store/shorts,136.44,Desktop,Organic Search,58,Male,Austria,22,26,5,shorts
+833b9378-f75a-43d6-b4c5-ba5181cc81e0,109,354,56,108.88,2020-01-01,Elegant Dress,9.0,https://Yourclothingbrand.com/store/dresses,128.66,Desktop,Social Media,58,Female,Canada,80,66,4,dress
+ff63f703-4f3e-4791-9fca-145962d35f96,204,134,67,78.22,2020-01-01,Wide-Leg Pants,6.0,https://Yourclothingbrand.com/store/pants,234.95,Desktop,Paid Advertising,61,Female,Austria,36,13,5,pants
+0405ae53-682c-491b-9ff3-72ef435e2e85,268,241,69,110.23,2020-01-01,Denim Shorts,10.0,https://Yourclothingbrand.com/store/shorts,165.73,Desktop,Organic Search,32,Male,Australia,40,59,1,shorts
+35994f43-a236-4cfe-a41d-30cdaf8f8d26,173,276,56,113.4,2020-01-01,Cat-Eye Sunglasses,18.0,https://Yourclothingbrand.com/store/sunglasses,199.5,Mobile,Paid Advertising,20,Female,USA,74,59,1,sunglasses
+a57ee6d1-bf3e-4dbe-bbd9-3ba2889b199e,272,147,66,89.88,2020-01-01,Bomber Jacket,13.0,https://Yourclothingbrand.com/store/jackets,142.73,Desktop,Organic Search,54,Female,USA,51,54,1,jacket
+ae0ea4fc-277a-4be7-8e7c-abfe4c18145c,298,217,36,112.6,2020-01-01,Denim Shorts,5.0,https://Yourclothingbrand.com/store/shorts,109.95,Desktop,Paid Advertising,68,Male,Australia,25,9,2,shorts
+0e6ae17c-e002-49a5-880f-736d23439550,204,320,49,114.66,2020-01-01,Patterned Socks,13.0,https://Yourclothingbrand.com/store/socks,218.02,Desktop,Paid Advertising,64,Female,Canada,19,55,5,socks
+37487ce1-2cbe-4578-b6c5-9eb9755255b9,284,257,37,61.42,2020-01-01,Winter Outerwear,28.0,https://Yourclothingbrand.com/store/outerwear,152.97,Mobile,Social Media,30,Female,USA,73,51,4,outerwear
+05a03600-e189-4881-ba1c-2329bce79ff4,309,195,30,64.6,2020-01-01,New Arrivals,11.0,https://Yourclothingbrand.com/home,67.4,Desktop,Organic Search,64,Female,UK,30,40,2,home
+c2b103fa-fe58-4f44-982f-6f0446bdd243,321,320,38,99.71,2020-01-01,Floral Dress,9.0,https://Yourclothingbrand.com/store/dresses,80.25,Desktop,Organic Search,69,Female,USA,62,41,5,dress
+4a1fba46-b4cc-460e-8a9b-16d937182f90,133,207,66,116.28,2020-01-01,Slim Wallet,16.0,https://Yourclothingbrand.com/store/wallets,251.43,Desktop,Social Media,57,Male,Ireland,40,78,1,wallet
+c1305e09-efcd-49df-b4c6-56e7fd305536,277,128,38,93.96,2020-01-01,Fashion Consultation,6.0,https://Yourclothingbrand.com/services,57.93,Desktop,Paid Advertising,28,Female,Australia,40,77,2,services
+419da641-dc18-4fa5-8fff-7280246d7a03,273,140,63,95.94,2020-01-01,Graphic T-Shirt,12.0,https://Yourclothingbrand.com/store/t-shirts,57.04,Desktop,Paid Advertising,38,Female,Netherlands,7,15,5,t-shirt
+af56ce95-3665-4d40-b50f-5ee9287f4dd1,173,355,64,63.05,2020-01-01,Patterned Socks,14.0,https://Yourclothingbrand.com/store/socks,284.57,Desktop,Organic Search,55,Female,Austria,18,59,4,socks
+776ac55f-98ba-46b4-909e-a67e3a08c909,341,204,12,92.49,2020-01-01,Printed Scarf,15.0,https://Yourclothingbrand.com/store/scarves,235.08,Desktop,Organic Search,69,Female,New Zealand,75,3,3,scarf
+e5b86c77-eea3-4b24-af42-8a7ccec1ebe9,234,278,78,108.84,2020-01-01,Sporty Shorts,3.0,https://Yourclothingbrand.com/store/shorts,140.08,Desktop,Paid Advertising,60,Female,Nigeria,5,64,3,shorts
+177dbdc6-4ebe-47bf-be88-c5f172786790,243,250,72,102.04,2020-01-01,Printed Scarf,12.0,https://Yourclothingbrand.com/store/scarves,71.81,Desktop,Organic Search,19,Female,UK,60,25,3,scarf
+988dcfaf-4f5a-4648-acf8-b0a3b1d966a8,106,393,70,81.39,2020-01-01,Tailored Pants,10.0,https://Yourclothingbrand.com/store/pants,229.06,Desktop,Organic Search,33,Female,South Korea,57,22,1,pants
+e0130561-598b-4696-b1b9-c12dbba5995d,320,343,45,61.08,2020-01-01,Chic Accessories,5.0,https://Yourclothingbrand.com/store/accessories,105.76,Desktop,Paid Advertising,19,Female,Singapore,44,19,1,accessories
+d70f375a-e011-4dca-bf1a-81cec0b88ce3,173,102,35,72.92,2020-01-01,Leather Handbag,16.0,https://Yourclothingbrand.com/store/handbags,291.05,Desktop,Organic Search,66,Female,USA,19,36,3,handbag
+c99af65f-5e24-449b-9cdd-8a1e605146af,210,170,57,89.54,2020-01-01,Bohemian Accessories,23.0,https://Yourclothingbrand.com/store/accessories,200.73,Mobile,Organic Search,30,Male,Ireland,50,11,3,accessories
+d7b4e930-c9ec-4033-951f-bb8088690a05,295,116,28,109.62,2020-01-01,Meet the Team,8.0,https://Yourclothingbrand.com/about-us,58.09,Desktop,Organic Search,47,Female,Austria,35,27,1,about us
+5dd0089b-606a-4e9d-af2f-7d4465a3118d,372,300,45,89.3,2020-01-01,Ripped Jeans,14.0,https://Yourclothingbrand.com/store/jeans,116.93,Desktop,Social Media,52,Male,Canada,5,54,1,jeans
+3c28745f-522c-4864-a006-90825e4bfd86,169,359,50,109.92,2020-01-01,Floral Dress,13.0,https://Yourclothingbrand.com/store/dresses,70.26,Desktop,Social Media,61,Male,Nigeria,30,55,4,dress
+45fc4fbb-43f8-426c-be25-0a0506f4bf61,390,308,79,76.24,2020-01-01,Meet the Team,13.0,https://Yourclothingbrand.com/about-us,244.62,Desktop,Social Media,28,Male,UK,53,69,2,about us
+b5aa1a65-fc99-41e6-b3e3-29d5462b5804,251,198,48,80.37,2020-01-01,Stylish Hat,37.0,https://Yourclothingbrand.com/store/hats,112.82,Mobile,Organic Search,45,Female,France,4,61,3,hat
+47522c59-ae81-4cef-8e50-75d20d7ab767,130,314,66,62.4,2020-01-01,Silk Scarf,11.0,https://Yourclothingbrand.com/store/scarves,137.65,Mobile,Paid Advertising,47,Female,Ireland,76,70,2,scarf
+5f912b3e-5d4d-4af1-b4b4-a92d93a3d2bd,392,257,32,118.59,2020-01-01,Patterned Socks,14.0,https://Yourclothingbrand.com/store/socks,132.86,Desktop,Social Media,43,Female,USA,15,23,3,socks
+6667f834-d8b4-42f5-9621-30c67b395258,260,116,74,61.26,2020-01-01,Yoga Activewear,22.0,https://Yourclothingbrand.com/store/activewear,58.15,Mobile,Organic Search,41,Female,South Korea,3,21,1,activewear
+b85edb2e-b3d5-4ba8-bc1b-cf04563bd7f3,387,333,28,65.81,2020-01-01,Vintage T-Shirt,22.0,https://Yourclothingbrand.com/store/t-shirts,296.18,Desktop,Social Media,35,Female,Australia,26,29,3,t-shirt
+3afccd40-518b-4c99-8ba1-5bdfc9accbc0,112,289,19,97.42,2020-01-01,Tailored Pants,10.0,https://Yourclothingbrand.com/store/pants,107.37,Desktop,Social Media,66,Male,France,29,75,3,pants
+f3e0326a-d566-40a5-ab01-cff3ce889044,288,140,38,75.41,2020-01-01,Featured Products,15.0,https://Yourclothingbrand.com/home,274.95,Desktop,Organic Search,32,Female,Austria,19,72,3,home
+d711fa23-385d-438e-89bf-af4af7e1e243,167,251,48,109.45,2020-01-01,Mission and Vision,4.0,https://Yourclothingbrand.com/about-us,60.98,Desktop,Paid Advertising,67,Female,Canada,13,45,1,about us
+bd689b02-01b3-41d7-a028-3b030108a80c,262,278,71,118.88,2020-01-01,Printed Scarf,8.0,https://Yourclothingbrand.com/store/scarves,224.44,Desktop,Organic Search,66,Female,Finland,68,11,3,scarf
+4b26b7e2-7380-49f4-9d2e-d9e946412bcd,314,189,13,101.15,2020-01-01,Sporty Activewear,19.0,https://Yourclothingbrand.com/store/activewear,66.74,Desktop,Social Media,55,Female,USA,30,68,4,activewear
+d9afbcad-e2b8-4b70-bc44-d959b0a79bb8,385,389,26,66.19,2020-01-01,Ripped Jeans,11.0,https://Yourclothingbrand.com/store/jeans,112.09,Desktop,Social Media,20,Female,Canada,66,8,1,jeans
+39e2d369-3bb4-4f71-bbbe-20f9a8437fa1,261,316,48,99.2,2020-01-01,Statement Jewelry,12.0,https://Yourclothingbrand.com/store/jewelry,298.14,Desktop,Organic Search,55,Male,UK,43,78,4,jewelry
+c29091d8-4d16-4e99-ac77-8f9ea81e5444,199,365,64,103.59,2020-01-01,Fashion Consultation,5.0,https://Yourclothingbrand.com/services,132.86,Desktop,Organic Search,39,Female,UK,76,12,4,services
+4bef3124-bce6-4bcf-a9f8-1165b95ca39a,369,300,50,69.02,2020-01-01,Leather Handbag,5.0,https://Yourclothingbrand.com/store/handbags,247.85,Desktop,Paid Advertising,37,Female,New Zealand,29,32,3,handbag
+9582e2b5-faf6-49e5-95ea-96c9c30d6c1d,329,287,59,91.95,2020-01-01,Chic Accessories,18.0,https://Yourclothingbrand.com/store/accessories,292.81,Mobile,Social Media,56,Male,Australia,46,28,3,accessories
+1ef6426f-55e1-4dc6-8c75-fd7f56ff0fde,180,392,48,64.8,2020-01-01,Skinny Jeans,3.0,https://Yourclothingbrand.com/store/jeans,59.25,Desktop,Paid Advertising,41,Female,Nigeria,66,41,2,jeans
+cbcf5705-6afb-4e39-bd2a-f12039f68ad1,349,363,60,101.69,2020-01-01,Leather Handbag,15.0,https://Yourclothingbrand.com/store/handbags,221.76,Desktop,Organic Search,25,Male,USA,51,47,4,handbag
+898f6603-6de2-4eb2-8075-4e35d391e6f0,343,333,45,62.41,2020-01-01,Sporty Activewear,22.0,https://Yourclothingbrand.com/store/activewear,73.94,Desktop,Social Media,60,Female,Nigeria,38,64,5,activewear
+f07c9712-a9b9-4042-9691-3bad041cf07b,104,208,31,101.56,2020-01-01,Crossbody Handbag,4.0,https://Yourclothingbrand.com/store/handbags,134.79,Desktop,Paid Advertising,21,Female,Canada,71,65,4,handbag
+454de6a1-6ce1-45fd-bb79-46b7b0c7b4cc,362,245,62,105.52,2020-01-01,Tote Handbag,9.0,https://Yourclothingbrand.com/store/handbags,64.01,Desktop,Organic Search,50,Female,Nigeria,49,21,1,handbag
+29b7cd5e-fc2e-48ff-8fdd-d98800a20051,370,301,12,95.06,2020-01-01,Personal Styling,8.0,https://Yourclothingbrand.com/services,208.67,Desktop,Organic Search,46,Male,UK,33,55,3,services
+dabdd286-89c7-401b-a466-391bc39f5aa0,206,241,25,110.4,2020-01-01,Chic Accessories,5.0,https://Yourclothingbrand.com/store/accessories,214.91,Desktop,Paid Advertising,53,Female,Finland,1,4,3,accessories
+3b7c18b6-4dbc-4fa4-8b24-ccdf843ec379,284,135,49,93.68,2020-01-01,Formal Shirt,26.0,https://Yourclothingbrand.com/store/shirts,226.77,Mobile,Organic Search,22,Female,New Zealand,44,62,3,shirt
+079f4ed6-37d6-4196-83a0-8f2cd6e2956b,304,115,35,99.81,2020-01-01,Cashmere Sweater,14.0,https://Yourclothingbrand.com/store/sweaters,160.34,Mobile,Paid Advertising,20,Male,Canada,38,45,4,sweater
+1c36a38c-7cb8-4003-9f43-6f4820093b46,359,110,56,115.71,2020-01-01,Cozy Sweater,11.0,https://Yourclothingbrand.com/store/sweaters,71.03,Mobile,Social Media,20,Female,New Zealand,22,44,4,sweater
+130c7caa-c565-4128-9c83-20f8826f857a,293,205,30,81.47,2020-01-01,Graphic T-Shirt,17.0,https://Yourclothingbrand.com/store/t-shirts,295.6,Desktop,Social Media,57,Male,USA,6,64,1,t-shirt
+a8039c64-5dfb-4640-a102-c0f4f31aeed3,184,114,52,107.87,2020-01-01,Skinny Jeans,10.0,https://Yourclothingbrand.com/store/jeans,216.82,Desktop,Paid Advertising,32,Female,Ireland,49,4,4,jeans
+63c2985c-7ab4-42c5-8ae7-ec1617b24551,277,122,47,116.84,2020-01-01,Denim Shorts,10.0,https://Yourclothingbrand.com/store/shorts,185.47,Desktop,Paid Advertising,47,Female,USA,54,40,2,shorts
+0764a756-28f6-474f-92ed-1d6777439d43,224,155,26,69.02,2020-01-01,Plaid Shirt,17.0,https://Yourclothingbrand.com/store/shirts,85.46,Desktop,Organic Search,28,Female,UK,37,3,4,shirt
+9728fee9-8972-4f83-822e-b4d48447d1c0,344,224,33,94.98,2020-01-01,Classic Jeans,11.0,https://Yourclothingbrand.com/store/jeans,148.94,Desktop,Organic Search,31,Female,USA,78,54,5,jeans
+8f088228-bf0b-410f-8000-0fd199071ea1,225,131,80,114.02,2020-01-01,Comfy Shorts,14.0,https://Yourclothingbrand.com/store/shorts,168.73,Desktop,Organic Search,37,Female,UK,12,12,4,shorts
+2f35aa06-0947-4884-84aa-e79bbe448ac9,111,135,54,90.26,2020-01-01,Clothing Rental,10.0,https://Yourclothingbrand.com/services,129.23,Desktop,Organic Search,35,Female,USA,29,27,1,services
+4af687d6-bfb9-4699-a0c0-88987fa8d7d4,335,353,73,90.7,2020-01-01,Ripped Jeans,9.0,https://Yourclothingbrand.com/store/jeans,113.59,Desktop,Paid Advertising,24,Female,USA,54,25,3,jeans
+c30c5c07-0ac1-4d20-88f6-fee5c3b5966c,101,269,16,113.64,2020-01-01,Leather Wallet,3.0,https://Yourclothingbrand.com/store/wallets,96.67,Desktop,Paid Advertising,35,Female,New Zealand,44,49,2,wallet
+e3c3307c-793c-4e04-a5d7-121e1183e316,156,128,65,95.77,2020-01-01,Formal Shirt,21.0,https://Yourclothingbrand.com/store/shirts,143.26,Mobile,Social Media,22,Female,Singapore,48,38,3,shirt
+e3b11ef9-ae88-4f6e-b0aa-0052fd6ae03b,111,343,21,87.47,2020-01-01,Slim Wallet,4.0,https://Yourclothingbrand.com/store/wallets,207.62,Desktop,Paid Advertising,41,Male,Netherlands,52,47,1,wallet
+0c76f310-9328-4c79-8c38-72d86eeefb31,209,124,29,118.16,2020-01-01,Ankle Socks,22.0,https://Yourclothingbrand.com/store/socks,58.59,Mobile,Social Media,58,Female,USA,78,61,5,socks
+b8bbb112-06ca-4cd7-b11e-186840c47892,278,312,30,83.46,2020-01-01,Fashionable Sunglasses,8.0,https://Yourclothingbrand.com/store/sunglasses,176.48,Mobile,Paid Advertising,21,Female,USA,54,70,3,sunglasses
+19f4d0f7-b04a-457a-9d0a-fbad1f4f159b,175,302,79,111.26,2020-01-01,Maxi Dress,13.0,https://Yourclothingbrand.com/store/dresses,215.9,Desktop,Social Media,32,Male,Ireland,31,59,2,dress
+ce08dc00-ceb1-4f96-9d91-766284d2be1d,305,278,49,83.91,2020-01-01,Graphic T-Shirt,13.0,https://Yourclothingbrand.com/store/t-shirts,123.2,Desktop,Social Media,63,Male,New Zealand,74,17,5,t-shirt
+0fa1d7c7-4c32-49c1-8ab7-979d6d173ff4,284,178,71,109.61,2020-01-01,Formal Shirt,5.0,https://Yourclothingbrand.com/store/shirts,291.09,Desktop,Paid Advertising,57,Female,Germany,65,4,5,shirt
+711958a0-f66e-4a18-a0e4-9eab433dbaa4,290,363,69,110.36,2020-01-01,Wide-Leg Pants,12.0,https://Yourclothingbrand.com/store/pants,201.38,Desktop,Organic Search,64,Male,UK,53,2,5,pants
+92370e07-da2d-4abe-91ed-e0c6917182f1,332,355,41,99.79,2020-01-01,Formal Shirt,10.0,https://Yourclothingbrand.com/store/shirts,292.8,Desktop,Social Media,53,Female,Netherlands,7,50,1,shirt
+e03200a5-4765-49b4-ad87-239737545111,259,349,32,111.39,2020-01-01,Beanie Hat,16.0,https://Yourclothingbrand.com/store/hats,140.2,Mobile,Social Media,38,Male,Finland,65,52,4,hat
+055848f1-54a6-4f59-b9db-fa2d39b1c9e0,158,262,76,108.89,2020-01-01,Leather Wallet,8.0,https://Yourclothingbrand.com/store/wallets,94.25,Desktop,Organic Search,67,Female,USA,50,69,3,wallet
+16593193-8d48-449a-b23e-36d369cb4ef7,400,311,65,64.38,2020-01-01,Beanie Hat,12.0,https://Yourclothingbrand.com/store/hats,184.52,Desktop,Social Media,62,Female,Nigeria,68,79,5,hat
+fa0c8790-e672-4f28-8bd7-302dd3021870,277,213,66,61.66,2020-01-01,Lightweight Outerwear,7.0,https://Yourclothingbrand.com/store/outerwear,112.93,Mobile,Paid Advertising,56,Female,USA,29,50,4,outerwear
+90fbacbe-581d-46f7-9c22-5b01ae862e65,307,226,17,91.94,2020-01-01,Maxi Dress,16.0,https://Yourclothingbrand.com/store/dresses,54.79,Desktop,Social Media,23,Female,New Zealand,25,77,2,dress
+c704b821-6ae2-41c3-be80-e1f09941f406,202,371,54,87.39,2020-01-01,Yoga Activewear,10.0,https://Yourclothingbrand.com/store/activewear,276.96,Desktop,Social Media,42,Female,UK,6,27,5,activewear
+61b7b1a2-c4e9-4a6d-8e4d-7ef1917b73d5,351,268,56,104.54,2020-01-01,Inquiry Form,7.0,https://Yourclothingbrand.com/contacts,109.53,Desktop,Paid Advertising,54,Female,New Zealand,71,1,2,contact
+d084adf1-1464-4526-9c12-bfb3be8e9283,343,258,33,103.52,2020-01-01,Winter Outerwear,18.0,https://Yourclothingbrand.com/store/outerwear,194.41,Desktop,Organic Search,28,Female,Austria,18,35,1,outerwear
+cbf09b1f-87fe-43ac-ad5d-d4bc05f9f19e,318,392,39,109.25,2020-01-01,Designer Wallet,16.0,https://Yourclothingbrand.com/store/wallets,220.47,Desktop,Organic Search,46,Female,Austria,36,55,5,wallet
+fc37b8a7-e508-4387-9096-62c4eb5f5a01,283,280,15,103.91,2020-01-01,Bohemian Accessories,9.0,https://Yourclothingbrand.com/store/accessories,268.66,Desktop,Organic Search,39,Female,Finland,22,77,4,accessories
+be861207-e86f-44b6-a8d2-151700f9c919,207,325,57,98.08,2020-01-01,Graphic T-Shirt,3.0,https://Yourclothingbrand.com/store/t-shirts,211.24,Desktop,Paid Advertising,64,Female,Canada,17,41,3,t-shirt
+68c6e669-dd43-48ae-a3f8-2737f4974790,200,287,53,114.24,2020-01-01,Fedora Hat,10.0,https://Yourclothingbrand.com/store/hats,249.11,Desktop,Paid Advertising,67,Female,Nigeria,33,72,2,hat
+99c4e636-a8c0-4235-a16e-f46ab65657d8,247,275,48,84.95,2020-01-01,Printed Scarf,12.0,https://Yourclothingbrand.com/store/scarves,134.51,Mobile,Paid Advertising,19,Female,Austria,42,23,5,scarf
+f4fd610f-3922-4ae5-865f-4de4cba13c3e,169,241,76,61.74,2020-01-01,Crossbody Handbag,9.0,https://Yourclothingbrand.com/store/handbags,212.12,Desktop,Organic Search,31,Female,UK,38,58,4,handbag
+875280dd-e54e-49bf-be09-a3010693c256,156,385,51,71.62,2020-01-01,Fedora Hat,15.0,https://Yourclothingbrand.com/store/hats,151.82,Desktop,Organic Search,34,Female,Canada,14,48,4,hat
+cee886d2-ae57-41c8-8941-152bf77126ee,147,357,36,79.22,2020-01-01,Crossbody Handbag,5.0,https://Yourclothingbrand.com/store/handbags,255.02,Desktop,Paid Advertising,64,Female,Finland,49,57,1,handbag
+94061adc-b585-438f-8230-1c06a95b1a74,186,234,54,93.06,2020-01-01,Ankle Socks,17.0,https://Yourclothingbrand.com/store/socks,223.22,Desktop,Social Media,46,Female,Canada,80,26,5,socks
+9c9e752c-62ea-44c3-8cab-fc5c65ab1c03,276,128,25,118.65,2020-01-01,Fashion Consultation,16.0,https://Yourclothingbrand.com/services,154.76,Desktop,Social Media,47,Male,South Korea,56,16,5,services
+9b512735-2d36-4a62-824a-088bc7ad656e,246,316,74,81.63,2020-01-01,Special Offers,19.0,https://Yourclothingbrand.com/home,295.77,Mobile,Social Media,60,Female,Nigeria,40,33,5,home
+18a03268-3dae-4c32-988d-c3accb1d3d7e,178,359,29,116.23,2020-01-01,Cat-Eye Sunglasses,25.0,https://Yourclothingbrand.com/store/sunglasses,93.49,Mobile,Organic Search,69,Male,Nigeria,40,65,3,sunglasses
+22a412f2-5911-483f-a6c3-055ffad1aa67,307,334,28,93.16,2020-01-01,New Arrivals,15.0,https://Yourclothingbrand.com/home,126.82,Desktop,Organic Search,52,Female,USA,13,31,4,home
+cc8cbb01-9d21-4b09-8d81-51e709359e32,262,147,73,110.88,2020-01-01,Tailored Pants,13.0,https://Yourclothingbrand.com/store/pants,162.67,Desktop,Organic Search,44,Female,USA,76,7,2,pants
+e967e4a9-63f0-4ed6-8a0b-bca9e3b64dd3,135,179,14,103.27,2020-01-01,Beanie Hat,10.0,https://Yourclothingbrand.com/store/hats,166.78,Mobile,Organic Search,62,Female,UK,35,49,4,hat
+85588401-76e2-4bab-92a9-3077aaf8d77c,383,249,65,119.42,2020-01-01,Sporty Activewear,13.0,https://Yourclothingbrand.com/store/activewear,206.07,Mobile,Paid Advertising,34,Female,Germany,7,2,1,activewear
+62abeaf1-7e6e-4533-bfb5-eab105f725a2,214,119,46,63.48,2020-01-01,Support Email,26.0,https://Yourclothingbrand.com/contacts,115.79,Mobile,Social Media,63,Female,UK,15,43,5,contact
+7813e6ca-8261-4316-97ff-bad943c0897a,247,117,22,85.64,2020-01-01,Winter Outerwear,10.0,https://Yourclothingbrand.com/store/outerwear,176.68,Desktop,Organic Search,55,Male,Austria,17,65,1,outerwear
+36e5656a-0cc0-4a59-8cc7-1fa8896dc789,330,187,45,109.53,2020-01-01,Bomber Jacket,38.0,https://Yourclothingbrand.com/store/jackets,123.04,Mobile,Social Media,51,Female,Canada,8,57,3,jacket
+5e12609d-2293-48cf-9eab-2ad54ea3fffc,332,162,40,64.14,2020-01-01,Yoga Activewear,7.0,https://Yourclothingbrand.com/store/activewear,51.55,Mobile,Organic Search,65,Female,USA,19,34,1,activewear
+fde0d000-1e01-4a5a-b067-c27bfd70b65f,384,352,37,106.21,2020-01-01,Bohemian Accessories,9.0,https://Yourclothingbrand.com/store/accessories,165.17,Desktop,Social Media,25,Female,Nigeria,9,24,2,accessories
+7ad9a92b-6674-4d3b-b7f2-1d9ddf9ece42,152,165,34,103.35,2020-01-01,Comfy Shorts,7.0,https://Yourclothingbrand.com/store/shorts,161.79,Desktop,Social Media,48,Female,Canada,54,14,4,shorts
+b2da61cb-7297-4935-abd8-2d5b126b7cd7,169,348,54,110.21,2020-01-01,Ankle Socks,10.0,https://Yourclothingbrand.com/store/socks,200.21,Desktop,Social Media,31,Female,Canada,28,19,5,socks
+748800f3-a6bf-43a1-a855-f72da6765022,397,110,26,60.14,2020-01-01,Cropped Pants,11.0,https://Yourclothingbrand.com/store/pants,287.09,Desktop,Social Media,56,Male,Nigeria,76,10,5,pants
+e1837ab7-9311-44c3-96d2-21f1fd59316b,400,400,44,96.69,2020-01-01,Patterned Socks,8.0,https://Yourclothingbrand.com/store/socks,175.01,Desktop,Organic Search,54,Male,Canada,15,61,3,socks
+8b53f347-7e01-4683-afc9-fd0f3ea39dbc,344,304,78,98.1,2020-01-01,Classic Jeans,12.0,https://Yourclothingbrand.com/store/jeans,173.37,Desktop,Paid Advertising,33,Female,New Zealand,43,67,3,jeans
+cb949467-e30c-41ea-a241-113115370def,197,381,14,72.66,2020-01-01,Crossbody Handbag,12.0,https://Yourclothingbrand.com/store/handbags,171.73,Mobile,Social Media,19,Male,Nigeria,51,15,5,handbag
+9cb82db8-ba9c-48fc-b1e3-1a7595ac1017,195,192,48,114.52,2020-01-01,Leather Wallet,14.0,https://Yourclothingbrand.com/store/wallets,243.74,Desktop,Social Media,25,Female,Netherlands,37,25,4,wallet
+dc990cbc-0654-4420-b2c3-7506d2642b31,148,348,54,95.78,2020-01-01,Cashmere Sweater,14.0,https://Yourclothingbrand.com/store/sweaters,225.13,Desktop,Organic Search,30,Female,Netherlands,12,44,3,sweater
+851d8f48-e94c-4b20-8d21-51a721b52e74,356,340,69,103.18,2020-01-01,Bohemian Accessories,20.0,https://Yourclothingbrand.com/store/accessories,222.03,Desktop,Social Media,40,Female,Singapore,68,38,3,accessories
+ca2947ab-c4bf-4945-bdd5-b99e664a14d1,343,118,49,77.22,2020-01-01,Glamorous Accessories,11.0,https://Yourclothingbrand.com/store/accessories,110.79,Desktop,Social Media,46,Female,France,62,8,3,accessories
+2f8d5fbf-1221-4281-a239-0664e35b75e4,299,113,57,78.26,2020-01-01,Crossbody Handbag,18.0,https://Yourclothingbrand.com/store/handbags,139.17,Desktop,Organic Search,68,Male,UK,73,22,4,handbag
+57656fcf-58bd-4d54-a35b-186d36c816a1,131,325,28,78.93,2020-01-01,Leather Jacket,40.0,https://Yourclothingbrand.com/store/jackets,92.43,Mobile,Social Media,53,Female,Ireland,30,70,3,jacket
+96e82f86-c8cc-4899-96d2-29475b3426f3,188,168,46,60.9,2020-01-01,Vintage T-Shirt,11.0,https://Yourclothingbrand.com/store/t-shirts,147.25,Desktop,Organic Search,30,Female,Canada,49,39,2,t-shirt
+73a192d6-9f2f-413a-8c3a-274ce805b4f1,112,312,33,100.46,2020-01-01,Comfy Shorts,8.0,https://Yourclothingbrand.com/store/shorts,265.46,Desktop,Paid Advertising,44,Female,South Korea,36,27,3,shorts
+b2ceca6e-bbe6-4e08-a11d-db7dc4fa0555,132,289,71,106.96,2020-01-01,Lightweight Outerwear,17.0,https://Yourclothingbrand.com/store/outerwear,248.41,Desktop,Organic Search,41,Female,USA,42,31,1,outerwear
+1007b5ec-c2f0-47ca-9dcb-f61049dcb207,262,104,27,118.38,2020-01-01,Dainty Jewelry,19.0,https://Yourclothingbrand.com/store/jewelry,257.44,Mobile,Paid Advertising,40,Female,USA,35,11,4,jewelry
+89504e05-8af5-4deb-8966-688748c927dc,201,220,62,85.04,2020-01-01,Meet the Team,7.0,https://Yourclothingbrand.com/about-us,236.21,Desktop,Social Media,47,Female,Canada,66,64,1,about us
+34ffedf8-a5f5-43ac-9098-42accf65a971,379,301,34,106.92,2020-01-01,Cashmere Sweater,19.0,https://Yourclothingbrand.com/store/sweaters,144.19,Desktop,Organic Search,38,Male,USA,14,1,5,sweater
+c44d8580-8235-4342-b443-f3aea37bf9ac,230,275,42,98.47,2020-01-01,Cropped Pants,15.0,https://Yourclothingbrand.com/store/pants,102.25,Mobile,Organic Search,49,Female,Austria,35,7,4,pants
+412c5633-854b-4c81-ad88-7bcf76802d42,348,348,26,72.71,2020-01-01,Designer Wallet,11.0,https://Yourclothingbrand.com/store/wallets,289.94,Desktop,Organic Search,56,Female,Germany,53,59,5,wallet
+32bae7d3-24fc-447a-a229-1c78b32b1b9f,100,130,40,82.6,2020-01-01,Aviator Sunglasses,11.0,https://Yourclothingbrand.com/store/sunglasses,99.98,Desktop,Organic Search,61,Female,Germany,25,36,4,sunglasses
+8b1dcbca-0142-42fa-bc76-bab4be0e1111,346,321,30,116.74,2020-01-01,Winter Outerwear,7.0,https://Yourclothingbrand.com/store/outerwear,182.53,Desktop,Organic Search,22,Female,USA,13,56,1,outerwear
+69275f07-8e78-4493-9421-d123ea035cb1,116,264,72,64.56,2020-01-01,Crossbody Handbag,4.0,https://Yourclothingbrand.com/store/handbags,191.86,Mobile,Paid Advertising,67,Female,USA,6,60,2,handbag
+3d11cc46-0f65-4333-9cb6-9c94c0daf91b,284,133,30,103.62,2020-01-01,Knitted Sweater,13.0,https://Yourclothingbrand.com/store/sweaters,244.12,Desktop,Organic Search,43,Female,Singapore,24,3,1,sweater
+d45c179e-5657-4e71-80f0-6c5ffd7a9c96,381,276,52,107.49,2020-01-01,Comfy Sneaker,15.0,https://Yourclothingbrand.com/store/sneakers,118.46,Mobile,Organic Search,55,Female,USA,74,48,1,sneaker
+a55765d3-a335-442e-8c6f-39eb17fa91d0,288,115,72,114.14,2020-01-01,Leather Wallet,5.0,https://Yourclothingbrand.com/store/wallets,297.75,Mobile,Paid Advertising,61,Female,Canada,55,23,2,wallet
+ed3b686f-12c2-44c3-9400-e38c80020d75,252,397,63,64.17,2020-01-01,Elegant Dress,14.0,https://Yourclothingbrand.com/store/dresses,273.91,Mobile,Organic Search,48,Female,USA,80,63,1,dress
+f745993a-408b-43ac-a16d-8b7b7eec61d6,165,187,54,97.08,2020-01-01,Fedora Hat,6.0,https://Yourclothingbrand.com/store/hats,114.44,Desktop,Paid Advertising,41,Female,Canada,71,4,1,hat
+68518fe9-cbeb-4b22-99b6-d526a0266e28,299,291,36,90.18,2020-01-01,Denim Shorts,6.0,https://Yourclothingbrand.com/store/shorts,160.61,Desktop,Paid Advertising,35,Female,South Korea,51,67,2,shorts
+87850b3c-e3bd-409b-ab90-7e6fe66b0c7c,211,156,51,69.01,2020-01-01,Personal Styling,8.0,https://Yourclothingbrand.com/services,64.81,Desktop,Organic Search,37,Female,Austria,67,5,3,services
+c6f1d16b-c238-4a31-9d99-6f9fd074deda,233,179,78,69.6,2020-01-01,Sporty Shorts,7.0,https://Yourclothingbrand.com/store/shorts,185.67,Desktop,Organic Search,21,Female,USA,73,64,5,shorts
+0464b978-6095-4c82-a805-d8c9527bee97,243,288,67,60.76,2020-01-01,Woolen Scarf,11.0,https://Yourclothingbrand.com/store/scarves,222.64,Desktop,Organic Search,68,Female,Austria,53,78,1,scarf
+a1e98cba-f76d-4b26-99a1-3f4bfc09f227,346,335,16,70.6,2020-01-01,Leather Handbag,21.0,https://Yourclothingbrand.com/store/handbags,144.61,Desktop,Social Media,19,Female,Germany,36,20,4,handbag
+8a15bfc6-08b7-49cb-bf94-868b737e749f,227,143,58,104.04,2020-01-01,Elegant Sneaker,32.0,https://Yourclothingbrand.com/store/sneakers,60.04,Mobile,Social Media,38,Male,UK,40,75,4,sneaker
+d24dbb0a-cbf5-4535-91fb-471489fcdb44,173,385,36,81.58,2020-01-01,Lightweight Outerwear,13.0,https://Yourclothingbrand.com/store/outerwear,171.75,Desktop,Social Media,51,Female,USA,76,33,3,outerwear
+64e075c3-1ea1-4edd-b3d5-dc6a671e7b0e,272,258,70,109.46,2020-01-01,Featured Products,16.0,https://Yourclothingbrand.com/home,177.91,Mobile,Paid Advertising,50,Male,Austria,29,20,3,home
+5b9b667a-54a6-4183-8fef-4e8ff2437b6b,200,357,40,112.54,2020-01-01,Inquiry Form,8.0,https://Yourclothingbrand.com/contacts,77.21,Desktop,Paid Advertising,52,Female,Nigeria,9,5,3,contact
+de146384-4357-4808-aeb0-5cf4f2c18fc5,323,116,48,80.46,2020-01-01,Aviator Sunglasses,9.0,https://Yourclothingbrand.com/store/sunglasses,269.38,Desktop,Organic Search,51,Female,USA,43,65,5,sunglasses
+0727174a-b766-48ad-9dea-6cc0e59b28bc,138,170,42,78.81,2020-01-01,Cat-Eye Sunglasses,6.0,https://Yourclothingbrand.com/store/sunglasses,198.8,Desktop,Paid Advertising,26,Female,USA,42,47,4,sunglasses
+7aeb8154-2e3b-4991-9047-34e650e58994,150,247,43,79.53,2020-01-01,Cashmere Sweater,7.0,https://Yourclothingbrand.com/store/sweaters,134.18,Desktop,Organic Search,66,Female,UK,35,7,2,sweater
+ffc55122-0406-4f07-ba1e-f54cc90744fa,152,306,59,94.27,2020-01-01,Pleated Skirt,26.0,https://Yourclothingbrand.com/store/skirts,249.33,Mobile,Social Media,66,Female,New Zealand,22,48,3,skirt
+3c327b06-6997-4ddf-808f-f2b690e05501,165,142,42,112.38,2020-01-01,Bohemian Accessories,18.0,https://Yourclothingbrand.com/store/accessories,185.84,Mobile,Paid Advertising,69,Female,Singapore,4,31,3,accessories
+298a55ce-4846-46b3-be55-fddd56381aa5,108,332,60,113.94,2020-01-01,Bomber Jacket,13.0,https://Yourclothingbrand.com/store/jackets,241.98,Desktop,Social Media,23,Female,Germany,1,33,3,jacket
+4f282f06-3d8f-462a-bb3c-e30085b41613,282,334,27,82.59,2020-01-01,Denim Shorts,20.0,https://Yourclothingbrand.com/store/shorts,274.95,Desktop,Social Media,49,Female,Finland,45,6,5,shorts
+3c33948f-6989-411c-88f5-2bcef1df5369,250,203,18,62.66,2020-01-01,Graphic T-Shirt,15.0,https://Yourclothingbrand.com/store/t-shirts,141.17,Desktop,Organic Search,31,Female,New Zealand,58,13,1,t-shirt
+6ade408e-5871-42fe-bb92-d555e1797775,136,212,14,67.57,2020-01-01,Elegant Sneaker,11.0,https://Yourclothingbrand.com/store/sneakers,201.03,Desktop,Organic Search,22,Female,USA,41,71,4,sneaker
+2bf92b47-f0b3-4503-a5ed-871ffd7fc2bc,308,103,26,110.2,2020-01-01,Tote Handbag,11.0,https://Yourclothingbrand.com/store/handbags,233.44,Mobile,Paid Advertising,41,Female,Canada,52,79,3,handbag
+bcf0171d-59f7-4757-b7ef-944f2b893e76,154,177,66,73.32,2020-01-01,Customer Service,15.0,https://Yourclothingbrand.com/contacts,83.89,Desktop,Social Media,58,Female,UK,33,9,4,contact
+8280eb9a-587c-4204-9504-8021f513e2fa,365,272,73,110.84,2020-01-01,Fashionable Outerwear,7.0,https://Yourclothingbrand.com/store/outerwear,239.75,Desktop,Organic Search,22,Female,New Zealand,51,26,5,outerwear
+6150e3d1-cb77-4dc8-8802-5cbac05d166d,204,288,24,66.1,2020-01-01,Cashmere Sweater,16.0,https://Yourclothingbrand.com/store/sweaters,219.33,Mobile,Paid Advertising,31,Female,Canada,8,1,5,sweater
+538d112b-cf9b-420e-a86e-d5553d78b3a5,120,225,65,82.28,2020-01-01,Sporty Activewear,3.0,https://Yourclothingbrand.com/store/activewear,285.88,Desktop,Paid Advertising,60,Female,New Zealand,39,7,1,activewear
+c38fb395-8331-4141-8ef6-0657bd250dcd,237,313,41,89.95,2020-01-01,Printed Scarf,9.0,https://Yourclothingbrand.com/store/scarves,290.54,Desktop,Paid Advertising,32,Female,USA,5,37,1,scarf
+baca4989-8b80-4d9f-8dc2-2f4758d11c8e,258,194,59,105.57,2020-01-01,Maxi Dress,12.0,https://Yourclothingbrand.com/store/dresses,130.32,Desktop,Paid Advertising,21,Female,Australia,49,60,1,dress
+b383bd7c-151b-4295-96b3-9899ed5f6066,132,211,26,62.08,2020-01-01,Silk Scarf,7.0,https://Yourclothingbrand.com/store/scarves,144.62,Desktop,Paid Advertising,33,Female,Nigeria,32,60,3,scarf
+e1c63082-5680-4ec5-9d48-9a0a7ac4fc27,123,191,76,116.37,2020-01-01,Leather Wallet,10.0,https://Yourclothingbrand.com/store/wallets,233.05,Desktop,Organic Search,32,Female,USA,33,34,1,wallet
+01d5ef1e-1616-42c7-ba95-5d20347e317b,192,126,29,114.03,2020-01-01,Ripped Jeans,5.0,https://Yourclothingbrand.com/store/jeans,288.89,Mobile,Paid Advertising,37,Female,USA,30,14,1,jeans
+1a4f438f-277c-4b80-b020-22f77c88dc74,213,174,37,80.84,2020-01-01,Cat-Eye Sunglasses,24.0,https://Yourclothingbrand.com/store/sunglasses,76.95,Mobile,Social Media,35,Female,Singapore,2,16,3,sunglasses
+e078ac61-32c6-42d7-81f2-78f641562c62,287,220,43,112.25,2020-01-01,Lightweight Outerwear,26.0,https://Yourclothingbrand.com/store/outerwear,81.75,Mobile,Social Media,32,Female,USA,51,38,4,outerwear
+3543b5af-c948-4825-be53-197e15feb6a0,385,376,74,67.69,2020-01-01,Pleated Skirt,15.0,https://Yourclothingbrand.com/store/skirts,64.21,Desktop,Organic Search,28,Female,UK,5,1,3,skirt
+d07f047a-775f-4114-8698-cca8b988a5a3,303,126,13,85.41,2020-01-01,Bohemian Accessories,17.0,https://Yourclothingbrand.com/store/accessories,297.49,Desktop,Social Media,55,Female,Singapore,39,10,1,accessories
+89cabbcf-c0ec-4241-a05b-8fbeae408389,259,251,10,117.9,2020-01-01,Plaid Shirt,16.0,https://Yourclothingbrand.com/store/shirts,117.7,Desktop,Social Media,67,Female,UK,18,59,2,shirt
+5179dede-d1a0-439b-af1b-a74d66fc190b,207,353,30,73.88,2020-01-01,Dainty Jewelry,7.0,https://Yourclothingbrand.com/store/jewelry,85.23,Desktop,Paid Advertising,24,Male,Australia,1,43,3,jewelry
+6d5fdff7-fbce-456a-8b7c-c846093df78b,396,382,26,115.63,2020-01-01,Wide-Leg Pants,6.0,https://Yourclothingbrand.com/store/pants,274.34,Desktop,Paid Advertising,23,Male,USA,33,8,2,pants
+1d2c4fce-c75b-484e-9620-53e2a89d16c9,190,147,21,107.17,2020-01-01,Chic Skirt,9.0,https://Yourclothingbrand.com/store/skirts,207.39,Mobile,Organic Search,32,Female,USA,5,30,3,skirt
+291957d6-a061-49fd-8875-72f4b558d5d9,353,215,29,113.68,2020-01-01,Clothing Rental,11.0,https://Yourclothingbrand.com/services,149.49,Desktop,Social Media,26,Female,USA,9,56,1,services
+025030e1-56e1-4344-afcc-13121dffbca7,370,109,43,93.36,2020-01-01,Inquiry Form,10.0,https://Yourclothingbrand.com/contacts,282.25,Desktop,Organic Search,22,Female,USA,45,17,3,contact
+053e5012-3dc1-4e08-8a07-b800a208e2a4,229,386,49,71.19,2020-01-01,Vintage T-Shirt,6.0,https://Yourclothingbrand.com/store/t-shirts,99.27,Desktop,Paid Advertising,22,Female,Germany,24,45,4,t-shirt
+8308766e-cc5d-44ff-bca5-6991c644502c,350,117,54,118.62,2020-01-01,Stylish Jacket,13.0,https://Yourclothingbrand.com/store/jackets,247.24,Desktop,Organic Search,38,Female,USA,7,57,4,jacket
+44fd25aa-5278-42a3-a9ed-5de9ba87d35d,246,273,42,79.31,2020-01-01,Crossbody Handbag,13.0,https://Yourclothingbrand.com/store/handbags,140.22,Desktop,Organic Search,52,Female,Singapore,71,7,3,handbag
+385c7c13-5bf2-4da9-9302-03fd60dd7672,197,323,11,110.52,2020-01-01,Cashmere Sweater,9.0,https://Yourclothingbrand.com/store/sweaters,170.65,Desktop,Paid Advertising,63,Female,Netherlands,43,25,4,sweater
+42470c3f-063a-49d2-8857-31bbd0298d6a,270,278,26,63.37,2020-01-01,Denim Shirt,17.0,https://Yourclothingbrand.com/store/shirts,201.93,Desktop,Organic Search,30,Female,Canada,76,10,2,shirt
+a7025bd7-9961-4216-b21f-f5ae822f26ce,164,116,14,83.44,2020-01-01,Designer Wallet,24.0,https://Yourclothingbrand.com/store/wallets,203.13,Desktop,Social Media,62,Female,UK,65,20,4,wallet
+369d1b4c-1883-4024-a759-27c5133bf1b0,313,153,20,73.98,2020-01-01,Featured Products,27.0,https://Yourclothingbrand.com/home,236.19,Mobile,Paid Advertising,64,Male,USA,73,39,3,home
+9abcb122-277e-488c-a3e3-ce2afb0ad439,186,296,13,93.62,2020-01-01,Chic Accessories,41.0,https://Yourclothingbrand.com/store/accessories,61.09,Mobile,Social Media,30,Male,Austria,38,27,1,accessories
+b21c81f2-4bb0-49ae-a59a-17b8a8a05574,201,262,38,112.05,2020-01-01,Crossbody Handbag,8.0,https://Yourclothingbrand.com/store/handbags,277.64,Desktop,Paid Advertising,66,Female,UK,4,74,3,handbag
+4c946661-ae52-4202-b0d6-79f2d869914d,104,366,12,113.17,2020-01-01,Skinny Jeans,15.0,https://Yourclothingbrand.com/store/jeans,234.31,Mobile,Organic Search,63,Male,Nigeria,2,79,4,jeans
+ef736f1a-e661-4a26-891b-70da7bf34edf,320,321,14,68.0,2020-01-01,Vintage T-Shirt,8.0,https://Yourclothingbrand.com/store/t-shirts,278.9,Desktop,Organic Search,34,Female,USA,41,29,1,t-shirt
+70ceb8ce-e728-4545-b223-31fec59fa3f4,386,390,31,67.43,2020-01-01,Statement Jewelry,16.0,https://Yourclothingbrand.com/store/jewelry,141.91,Desktop,Social Media,52,Male,Austria,25,53,2,jewelry
+4855d7b9-b03e-400e-a094-74a1d7c62215,216,107,45,68.9,2020-01-01,Sporty Activewear,5.0,https://Yourclothingbrand.com/store/activewear,146.24,Desktop,Organic Search,55,Female,New Zealand,26,49,1,activewear
+a2268522-e4d9-476d-8a26-008d77e2aa4e,184,220,23,96.63,2020-01-01,Knitted Sweater,18.0,https://Yourclothingbrand.com/store/sweaters,292.99,Desktop,Social Media,25,Female,USA,25,21,4,sweater
+2a97e116-214b-4537-953c-99c89a659eca,219,353,25,80.45,2020-01-01,Dainty Jewelry,11.0,https://Yourclothingbrand.com/store/jewelry,94.57,Mobile,Paid Advertising,39,Female,Australia,74,30,5,jewelry
+b568497e-96d7-410b-9614-d9ab7596d381,253,131,75,114.67,2020-01-01,Denim Shirt,13.0,https://Yourclothingbrand.com/store/shirts,59.99,Desktop,Social Media,33,Female,Canada,55,67,1,shirt
+fcf0ad6e-4c44-477d-a1df-ae6a5631beb4,352,291,31,71.93,2020-01-01,Bohemian Accessories,29.0,https://Yourclothingbrand.com/store/accessories,255.85,Mobile,Social Media,21,Female,New Zealand,18,2,3,accessories
+ff1a84ec-2d79-4354-b16a-51e0e7b4d1ee,332,185,54,100.33,2020-01-01,Plaid Shirt,42.0,https://Yourclothingbrand.com/store/shirts,205.82,Mobile,Social Media,57,Female,Nigeria,3,12,3,shirt
+ff2f0fb6-fade-4552-addd-df998f0d6b35,107,179,39,75.4,2020-01-01,Chic Accessories,6.0,https://Yourclothingbrand.com/store/accessories,65.03,Desktop,Paid Advertising,45,Female,Singapore,80,68,2,accessories
+05882fa7-655b-432d-9d75-f1abcc5027b5,255,123,21,77.01,2020-01-01,Fashionable Sunglasses,33.0,https://Yourclothingbrand.com/store/sunglasses,189.57,Mobile,Social Media,39,Female,Austria,16,12,5,sunglasses
+2887632d-f833-4e3c-9ff6-e49178e208b3,316,150,68,84.75,2020-01-01,Denim Shorts,8.0,https://Yourclothingbrand.com/store/shorts,203.9,Desktop,Paid Advertising,42,Female,USA,66,76,5,shorts
+1c5cf429-b5cc-417b-80e9-f1a0dfc89c2c,274,347,42,96.84,2020-01-01,Beanie Hat,10.0,https://Yourclothingbrand.com/store/hats,65.23,Desktop,Social Media,42,Female,Finland,53,10,3,hat
+09122e3d-70ef-4286-8962-88110af818f7,117,190,57,62.42,2020-01-01,Featured Products,18.0,https://Yourclothingbrand.com/home,256.52,Mobile,Paid Advertising,50,Female,UK,65,69,2,home
+9afcb3c5-385d-43a1-b5d1-fe7d0d3ee337,159,253,42,75.53,2020-01-01,Cropped Pants,11.0,https://Yourclothingbrand.com/store/pants,170.88,Desktop,Organic Search,68,Female,New Zealand,64,48,3,pants
+80527a32-4a0c-4940-8ab9-b6b628eff845,150,309,33,94.25,2020-01-01,Pleated Skirt,5.0,https://Yourclothingbrand.com/store/skirts,186.33,Desktop,Paid Advertising,70,Female,Canada,77,67,2,skirt
+5f6ee5fc-a801-4ee3-b0d5-e1711b9fc25f,140,118,65,71.51,2020-01-01,Ripped Jeans,7.0,https://Yourclothingbrand.com/store/jeans,279.42,Desktop,Social Media,51,Female,Nigeria,78,23,5,jeans
+7be32424-53e7-4367-bbac-1b83b0464003,277,351,39,89.63,2020-01-01,Elegant Sneaker,14.0,https://Yourclothingbrand.com/store/sneakers,80.79,Desktop,Social Media,40,Female,Singapore,37,14,3,sneaker
+931e083a-2e67-4419-8d43-6870e9ba08cb,205,137,16,70.35,2020-01-01,Fun Socks,10.0,https://Yourclothingbrand.com/store/socks,122.85,Desktop,Organic Search,60,Female,Nigeria,18,53,5,socks
+7d913d6f-ec18-4be4-b9e9-17814c3dfa3a,168,100,31,95.35,2020-01-01,Leather Wallet,16.0,https://Yourclothingbrand.com/store/wallets,57.35,Desktop,Organic Search,57,Female,Nigeria,1,11,5,wallet
+50288646-c4e7-483b-ae36-2e7eb26580e1,199,359,57,101.83,2020-01-01,Patterned Socks,12.0,https://Yourclothingbrand.com/store/socks,228.35,Desktop,Organic Search,69,Female,Germany,46,43,3,socks
+faa25fb5-3a86-4cf1-b52f-64ba7d231877,216,320,51,90.04,2020-01-01,Yoga Activewear,3.0,https://Yourclothingbrand.com/store/activewear,111.78,Desktop,Paid Advertising,35,Female,UK,44,53,3,activewear
+3e09e554-8448-4ea7-8198-b99b442b6ec5,115,335,59,96.65,2020-01-01,Fashionable Outerwear,10.0,https://Yourclothingbrand.com/store/outerwear,183.2,Desktop,Organic Search,25,Female,Singapore,75,20,4,outerwear
+9d424842-dc66-45b9-80cf-856cd42137cd,116,398,79,81.47,2020-01-01,Clothing Rental,12.0,https://Yourclothingbrand.com/services,238.3,Desktop,Organic Search,50,Female,Austria,39,21,3,services
+5fde4bdf-dd15-4e80-8a66-02ad161d287e,168,300,29,66.37,2020-01-01,Boho Jewelry,14.0,https://Yourclothingbrand.com/store/jewelry,153.95,Desktop,Organic Search,63,Female,South Korea,15,76,2,jewelry
+c822b11c-5d22-44ff-b8a4-71aa01c46f42,128,104,54,74.27,2020-01-01,Personal Styling,18.0,https://Yourclothingbrand.com/services,298.16,Desktop,Social Media,44,Male,Ireland,71,29,2,services
+53427e45-6564-48ea-aa98-03bd07d5b712,276,177,66,98.45,2020-01-01,Tote Handbag,20.0,https://Yourclothingbrand.com/store/handbags,103.06,Desktop,Social Media,48,Female,Netherlands,21,39,3,handbag
+ee931779-574c-4e65-b419-e8bb90c878c7,213,166,17,104.24,2020-01-01,Stylish Jacket,9.0,https://Yourclothingbrand.com/store/jackets,98.17,Desktop,Organic Search,33,Female,Singapore,13,33,5,jacket
+18dbdb97-bc13-49c4-9df0-d07106c4d6e8,159,363,31,96.55,2020-01-01,Tailored Pants,36.0,https://Yourclothingbrand.com/store/pants,278.27,Mobile,Organic Search,68,Female,Nigeria,65,31,1,pants
+06175ad8-2358-4ae7-bcfa-5da747f9adfc,297,149,56,97.56,2020-01-01,Leather Jacket,21.0,https://Yourclothingbrand.com/store/jackets,218.38,Mobile,Paid Advertising,60,Female,South Korea,4,44,1,jacket
+d5bf7fae-4969-467d-bcc8-27d5a6605130,383,397,13,118.31,2020-01-01,Sporty Activewear,35.0,https://Yourclothingbrand.com/store/activewear,94.51,Mobile,Social Media,26,Male,Nigeria,9,52,1,activewear
+ea52178f-26f6-414c-8e74-b7640b78e3a6,293,290,19,76.43,2020-01-01,Graphic T-Shirt,18.0,https://Yourclothingbrand.com/store/t-shirts,253.92,Mobile,Organic Search,64,Male,New Zealand,37,39,3,t-shirt
+4920f86e-a6c4-47a1-aa05-c8d114a5cc85,153,175,45,85.33,2020-01-01,Fashion Consultation,8.0,https://Yourclothingbrand.com/services,272.8,Mobile,Paid Advertising,59,Female,Germany,69,16,2,services
+02f955fd-d014-4573-8b6e-2580296e6ab4,341,270,13,93.25,2020-01-01,Graphic T-Shirt,5.0,https://Yourclothingbrand.com/store/t-shirts,125.55,Desktop,Paid Advertising,24,Male,Austria,54,11,2,t-shirt
+f8e0fc0a-6446-4a5e-a636-028a4ea82d38,120,310,47,113.67,2020-01-01,Knitted Sweater,4.0,https://Yourclothingbrand.com/store/sweaters,283.51,Desktop,Paid Advertising,70,Male,Canada,69,9,3,sweater
+b4a8e2a2-6723-4a66-babc-512aedb5d702,223,232,43,77.53,2020-01-01,Bomber Jacket,17.0,https://Yourclothingbrand.com/store/jackets,190.78,Desktop,Organic Search,26,Female,USA,43,74,4,jacket
+f38c1147-53be-454a-8a5f-028fa1e863b5,133,258,56,98.89,2020-01-01,Bomber Jacket,11.0,https://Yourclothingbrand.com/store/jackets,272.97,Desktop,Organic Search,30,Female,Germany,34,31,3,jacket
+11a0fe5f-34b9-458b-a2bb-85d5e24b47b0,346,209,56,101.58,2020-01-01,Wide-Leg Pants,6.0,https://Yourclothingbrand.com/store/pants,273.67,Desktop,Paid Advertising,33,Male,USA,18,50,1,pants
+dd67af1e-a2b1-48e1-8f0a-2ab26755a58c,156,260,78,79.1,2020-01-01,Beanie Hat,12.0,https://Yourclothingbrand.com/store/hats,222.05,Desktop,Organic Search,47,Female,Nigeria,5,10,4,hat
+c26f50a1-ac33-424f-8777-d4d4e24beef9,300,134,51,79.55,2020-01-01,New Arrivals,32.0,https://Yourclothingbrand.com/home,83.06,Mobile,Social Media,38,Female,Austria,55,7,2,home
+6ebc2cb8-9699-4d7c-955c-a70a7a926756,196,317,68,86.79,2020-01-01,Skinny Jeans,8.0,https://Yourclothingbrand.com/store/jeans,233.96,Desktop,Paid Advertising,36,Female,USA,69,41,2,jeans
+929a5fbf-4dfc-416f-85f4-ccc533e8a1a0,297,157,30,66.72,2020-01-01,Boho Jewelry,7.0,https://Yourclothingbrand.com/store/jewelry,228.8,Desktop,Organic Search,60,Female,Canada,47,28,2,jewelry
+dac0983f-2e6f-4544-9005-c0fa613138c1,102,354,57,76.58,2020-01-01,Stylish Jacket,11.0,https://Yourclothingbrand.com/store/jackets,136.43,Desktop,Paid Advertising,49,Female,South Korea,25,44,5,jacket
+a2b51fd0-1ebc-4d20-97d9-3fa93abd9218,197,342,62,104.13,2020-01-01,Wide-Leg Pants,4.0,https://Yourclothingbrand.com/store/pants,284.96,Desktop,Paid Advertising,57,Female,New Zealand,31,68,2,pants
+c5225d63-6c05-4ca2-9314-41736b302f20,287,194,59,104.83,2020-01-01,Midi Skirt,13.0,https://Yourclothingbrand.com/store/skirts,68.84,Desktop,Social Media,48,Male,USA,42,60,1,skirt
+8b40e6ce-11be-45ac-bd06-530940c6de79,287,202,65,103.73,2020-01-01,New Arrivals,7.0,https://Yourclothingbrand.com/home,266.29,Desktop,Organic Search,55,Female,South Korea,23,38,1,home
+f047cba4-2b7c-4098-ae20-f8d60eb49dda,233,106,52,100.15,2020-01-01,Slim Wallet,28.0,https://Yourclothingbrand.com/store/wallets,245.75,Mobile,Organic Search,45,Male,Germany,50,8,1,wallet
+6e4c2328-9cea-4c8a-b46e-df53dd0dbd5c,248,235,62,113.64,2020-01-01,Leather Jacket,34.0,https://Yourclothingbrand.com/store/jackets,192.64,Mobile,Social Media,60,Female,UK,57,12,1,jacket
+a96bd5ff-0970-4440-ae48-5d3ebe966c27,284,299,58,67.08,2020-01-01,Printed Scarf,19.0,https://Yourclothingbrand.com/store/scarves,189.97,Desktop,Social Media,34,Male,Austria,68,47,1,scarf
+1e631791-ef2e-4bf9-9448-b395b452d534,257,389,41,79.93,2020-01-01,Meet the Team,16.0,https://Yourclothingbrand.com/about-us,165.82,Desktop,Organic Search,37,Female,Singapore,57,28,3,about us
+99fb4764-8e87-498e-b438-3d7b1acb06e9,113,289,24,115.83,2020-01-01,Elegant Sneaker,2.0,https://Yourclothingbrand.com/store/sneakers,110.2,Desktop,Paid Advertising,65,Female,USA,46,74,2,sneaker
+af375886-2cb5-4cec-a8eb-ba353b7e13b5,216,243,68,85.84,2020-01-01,Plaid Shirt,6.0,https://Yourclothingbrand.com/store/shirts,64.45,Desktop,Paid Advertising,36,Female,USA,74,18,1,shirt
+01615192-546b-48e9-842c-9168066b9bcf,230,279,79,88.54,2020-01-01,Leather Jacket,13.0,https://Yourclothingbrand.com/store/jackets,130.52,Desktop,Paid Advertising,32,Female,USA,22,74,4,jacket
+09f8894b-10dd-4b33-971b-b5f929162d81,221,299,38,77.93,2020-01-01,Basic T-Shirt,17.0,https://Yourclothingbrand.com/store/t-shirts,120.42,Mobile,Social Media,51,Female,Canada,16,52,1,t-shirt
+4b3dc26c-a1a0-45c1-bf3f-522fc756e2a1,196,221,53,68.83,2020-01-01,Stylish Hat,13.0,https://Yourclothingbrand.com/store/hats,230.83,Desktop,Social Media,69,Male,New Zealand,51,52,3,hat
+38c5d7c6-09cc-4db7-86ea-16b3eebc7011,363,203,41,82.74,2020-01-01,Sporty Shorts,5.0,https://Yourclothingbrand.com/store/shorts,127.96,Desktop,Paid Advertising,67,Male,Nigeria,52,4,3,shorts
+a22ba63f-c764-4da5-9a2d-54f8f5091dd8,155,222,72,92.11,2020-01-01,Chic Skirt,12.0,https://Yourclothingbrand.com/store/skirts,115.62,Desktop,Organic Search,51,Female,New Zealand,56,19,3,skirt
+f8215067-d104-4df5-9562-20faa03fe3a9,182,347,37,91.15,2020-01-01,Floral Dress,5.0,https://Yourclothingbrand.com/store/dresses,262.18,Desktop,Paid Advertising,23,Male,Canada,20,55,1,dress
+8ae573f3-50f4-4095-95cd-fbefca679e34,345,235,45,78.07,2020-01-01,Meet the Team,9.0,https://Yourclothingbrand.com/about-us,250.28,Desktop,Paid Advertising,57,Female,USA,79,26,5,about us
+c73ae65a-209a-4433-b94f-2f0373729d78,393,156,62,85.39,2020-01-01,Printed Scarf,29.0,https://Yourclothingbrand.com/store/scarves,66.45,Mobile,Social Media,26,Female,Finland,50,15,5,scarf
+97a817b7-cae7-4b24-b02d-0de36360eb69,128,308,75,117.65,2020-01-01,Cropped Pants,5.0,https://Yourclothingbrand.com/store/pants,176.64,Desktop,Paid Advertising,24,Female,Germany,11,71,5,pants
+81edc032-147a-46a9-bbe1-21c823dd39c3,111,284,38,63.17,2020-01-01,Mission and Vision,10.0,https://Yourclothingbrand.com/about-us,114.2,Desktop,Paid Advertising,67,Female,South Korea,26,72,5,about us
+bff5844a-492f-4eab-98f7-954e64100f9b,144,391,13,61.88,2020-01-01,Knitted Sweater,8.0,https://Yourclothingbrand.com/store/sweaters,108.86,Desktop,Organic Search,26,Female,USA,79,26,4,sweater
+740e6f14-84bd-4f27-a836-398543ca8378,145,345,45,97.04,2020-01-01,Sneaker Collection,7.0,https://Yourclothingbrand.com/store/sneakers,173.52,Desktop,Paid Advertising,68,Female,USA,60,13,5,sneaker
+59134cac-7d7b-4cef-bda8-e30d435111d8,149,272,75,73.46,2020-01-01,Printed Scarf,16.0,https://Yourclothingbrand.com/store/scarves,143.48,Desktop,Social Media,43,Male,Ireland,35,15,5,scarf
+1a1f0641-457a-486c-b679-ce82e81c100d,395,295,74,72.38,2020-01-01,Graphic T-Shirt,14.0,https://Yourclothingbrand.com/store/t-shirts,166.78,Desktop,Organic Search,56,Female,Canada,58,79,2,t-shirt
+44a6c491-c136-40f4-86e8-4b291b04f1e7,343,280,13,106.05,2020-01-01,Graphic T-Shirt,32.0,https://Yourclothingbrand.com/store/t-shirts,211.78,Mobile,Organic Search,60,Female,Austria,77,23,4,t-shirt
+08185155-ab43-43e8-9550-e20862893929,379,229,41,65.42,2020-01-01,Formal Shirt,5.0,https://Yourclothingbrand.com/store/shirts,174.16,Desktop,Paid Advertising,34,Female,UK,32,41,4,shirt
+7a129ae7-29b4-4c86-a99a-34a1cc9cce8e,158,364,45,116.09,2020-01-01,Beanie Hat,10.0,https://Yourclothingbrand.com/store/hats,125.94,Desktop,Organic Search,45,Female,New Zealand,14,6,2,hat
+ac179a4e-3c44-40a3-be80-349da7dc871f,104,251,55,76.42,2020-01-01,Silk Scarf,12.0,https://Yourclothingbrand.com/store/scarves,137.72,Mobile,Social Media,19,Male,Canada,56,57,3,scarf
+e509c7ef-540d-4483-aa2a-18292e4e54df,304,246,58,99.21,2020-01-01,Inquiry Form,26.0,https://Yourclothingbrand.com/contacts,280.23,Mobile,Organic Search,65,Female,Canada,56,50,3,contact
+a354d14b-50ac-4b71-a4b1-943ff9c6467f,301,121,62,114.33,2020-01-01,Comfy Sneaker,5.0,https://Yourclothingbrand.com/store/sneakers,120.58,Mobile,Paid Advertising,27,Female,Austria,55,77,3,sneaker
+1072335b-5856-45de-b4c2-c50ebd332ce3,257,346,38,108.34,2020-01-01,Cat-Eye Sunglasses,9.0,https://Yourclothingbrand.com/store/sunglasses,299.41,Mobile,Paid Advertising,58,Female,Nigeria,28,54,4,sunglasses
+fb4825df-c3dd-4b08-bfb3-3d6fbc6c7adc,145,112,74,94.72,2020-01-01,Beanie Hat,19.0,https://Yourclothingbrand.com/store/hats,269.55,Desktop,Social Media,31,Female,Finland,76,16,1,hat
+731bf54b-eb49-463f-85c8-0030745bdfab,335,327,31,89.11,2020-01-01,Meet the Team,7.0,https://Yourclothingbrand.com/about-us,283.15,Desktop,Organic Search,63,Female,UK,36,53,2,about us
+36b4b67e-a5c7-42e7-87c2-99b95332c0c2,287,130,36,100.16,2020-01-01,Company History,19.0,https://Yourclothingbrand.com/about-us,283.4,Mobile,Organic Search,69,Female,UK,27,79,3,about us
+8f4076a4-e5b7-43c2-a40a-51fd72068ad4,190,150,49,109.51,2020-01-01,Dainty Jewelry,9.0,https://Yourclothingbrand.com/store/jewelry,155.69,Mobile,Paid Advertising,29,Female,Austria,79,20,5,jewelry
+c8d9b360-2ae2-4513-a08e-51667922b5a8,305,195,76,63.94,2020-01-01,Statement Jewelry,10.0,https://Yourclothingbrand.com/store/jewelry,216.87,Desktop,Paid Advertising,22,Female,Germany,49,16,3,jewelry
+8e526a38-37a6-4c5d-aa7b-397398e2fdc5,126,113,75,77.79,2020-01-01,Chic Skirt,15.0,https://Yourclothingbrand.com/store/skirts,221.26,Desktop,Social Media,44,Female,Canada,8,31,5,skirt
+257cfa92-561b-45d5-a866-58108a125806,270,108,16,66.42,2020-01-01,Slim Wallet,9.0,https://Yourclothingbrand.com/store/wallets,271.44,Desktop,Paid Advertising,57,Female,UK,42,73,3,wallet
+2dd6c657-478c-454d-b720-e5051e067d6f,380,172,48,78.78,2020-01-01,Printed Scarf,12.0,https://Yourclothingbrand.com/store/scarves,293.74,Desktop,Organic Search,65,Female,USA,32,26,1,scarf
+76ed2aa7-3728-4a25-bf46-15c72f0f3387,157,295,22,109.44,2020-01-01,Inquiry Form,12.0,https://Yourclothingbrand.com/contacts,90.95,Desktop,Organic Search,69,Female,Finland,77,40,2,contact
+eb11fd3c-0557-4cf6-ab4a-d2e4b2f6ece1,231,390,49,90.25,2020-01-01,Fashionable Outerwear,12.0,https://Yourclothingbrand.com/store/outerwear,226.97,Desktop,Paid Advertising,63,Female,UK,43,24,1,outerwear
+02ec2359-68bf-4f5b-9d57-0f289d8c8ce4,119,281,14,74.0,2020-01-01,Leather Jacket,8.0,https://Yourclothingbrand.com/store/jackets,169.81,Desktop,Paid Advertising,45,Male,USA,29,29,3,jacket
+d9302d1f-94a7-4d5f-a022-b7346be1dc27,253,365,43,67.98,2020-01-01,Aviator Sunglasses,16.0,https://Yourclothingbrand.com/store/sunglasses,196.66,Desktop,Organic Search,62,Female,USA,37,38,2,sunglasses
+9f983735-d739-412f-b879-349fcf9eff9d,167,229,21,68.26,2020-01-01,Tote Handbag,7.0,https://Yourclothingbrand.com/store/handbags,60.05,Mobile,Paid Advertising,38,Male,Nigeria,48,50,1,handbag
+c8bb0d38-c01a-4dd3-a1d4-1e90aaf8b4b7,315,391,72,62.54,2020-01-01,Mission and Vision,8.0,https://Yourclothingbrand.com/about-us,190.16,Desktop,Paid Advertising,40,Female,Australia,41,76,3,about us
+bde77c9c-4e9c-49ad-badc-7834bba8bc4b,120,239,76,78.51,2020-01-01,Cat-Eye Sunglasses,8.0,https://Yourclothingbrand.com/store/sunglasses,225.96,Desktop,Paid Advertising,39,Female,USA,53,44,1,sunglasses
+70f4b794-fe60-4bce-a876-603f9e65a772,311,250,55,66.56,2020-01-01,Denim Shorts,22.0,https://Yourclothingbrand.com/store/shorts,267.74,Desktop,Social Media,57,Female,Austria,32,73,5,shorts
+1f0ec404-04dd-4dd6-a73e-83a665ec5b9c,192,213,27,105.15,2020-01-01,Fashionable Sunglasses,18.0,https://Yourclothingbrand.com/store/sunglasses,248.1,Mobile,Organic Search,40,Female,UK,69,74,5,sunglasses
+98d3f2bf-e37a-4a04-9d2e-dfc1c15b39f1,172,166,13,118.77,2020-01-01,Meet the Team,20.0,https://Yourclothingbrand.com/about-us,169.68,Desktop,Social Media,35,Female,USA,72,11,5,about us
+fb106eab-313b-4152-98f9-7b7cc958aea4,302,297,58,104.91,2020-01-01,Glamorous Accessories,7.0,https://Yourclothingbrand.com/store/accessories,128.76,Mobile,Paid Advertising,24,Female,USA,62,33,1,accessories
+823f7edf-d745-42d2-b63b-8f5d5c622949,260,263,55,91.37,2020-01-01,Plaid Shirt,13.0,https://Yourclothingbrand.com/store/shirts,180.61,Mobile,Social Media,38,Female,UK,11,31,4,shirt
+4a5f96cd-eaf7-4f07-9e0d-d6ba0cd03995,339,241,60,94.07,2020-01-01,Floral Dress,12.0,https://Yourclothingbrand.com/store/dresses,196.39,Mobile,Organic Search,46,Female,Austria,78,74,5,dress
+52f08a10-5688-4043-bc92-e8b9446e96c1,185,173,36,111.5,2020-01-01,Yoga Activewear,10.0,https://Yourclothingbrand.com/store/activewear,118.39,Desktop,Paid Advertising,45,Male,UK,12,55,4,activewear
+2b1645df-6e02-40a0-8479-98228df89713,276,357,11,84.59,2020-01-01,Cashmere Sweater,13.0,https://Yourclothingbrand.com/store/sweaters,146.13,Mobile,Social Media,66,Male,Singapore,63,18,4,sweater
+7d8785e4-fee5-4e35-8d99-c95791fdb40e,137,292,45,63.21,2020-01-01,Meet the Team,11.0,https://Yourclothingbrand.com/about-us,178.65,Desktop,Paid Advertising,54,Female,UK,51,47,5,about us
+2fdf96b0-178d-45d5-bfbc-cd1e12975b5e,150,370,54,114.09,2020-01-01,Stylish Hat,6.0,https://Yourclothingbrand.com/store/hats,198.7,Desktop,Paid Advertising,65,Female,Canada,1,33,4,hat
+a6e76844-21a3-479b-8b30-b9f474470625,184,357,37,116.14,2020-01-01,Leather Wallet,13.0,https://Yourclothingbrand.com/store/wallets,279.77,Desktop,Social Media,67,Female,New Zealand,61,73,5,wallet
+6b1273cb-cd3d-4600-9514-53bd487cc972,358,227,74,78.7,2020-01-01,Stylish Jacket,4.0,https://Yourclothingbrand.com/store/jackets,229.34,Mobile,Organic Search,52,Male,USA,2,5,4,jacket
+eeaf35e4-1c37-4f4c-bbff-7e5982243bc0,317,242,13,74.32,2020-01-01,Denim Shorts,14.0,https://Yourclothingbrand.com/store/shorts,237.5,Desktop,Social Media,26,Female,Austria,33,65,1,shorts
+853fd4ce-2ad0-4e61-baff-3bb706eb0fbc,181,182,21,110.56,2020-01-01,Company History,8.0,https://Yourclothingbrand.com/about-us,67.94,Mobile,Paid Advertising,23,Female,USA,38,38,3,about us
+19aed20d-b1ed-4da3-90e7-142f3d22a4dd,355,117,28,66.54,2020-01-01,Glamorous Accessories,8.0,https://Yourclothingbrand.com/store/accessories,126.23,Desktop,Paid Advertising,52,Male,Canada,76,51,5,accessories
+235c5a57-780d-4a91-8f41-7b5129cfe6b1,132,361,49,89.79,2020-01-01,Statement Jewelry,6.0,https://Yourclothingbrand.com/store/jewelry,208.46,Mobile,Paid Advertising,45,Female,South Korea,58,10,3,jewelry
+67bb7b88-04bc-4895-9120-c70d992c18d6,345,350,19,73.63,2020-01-01,Pleated Skirt,11.0,https://Yourclothingbrand.com/store/skirts,299.83,Desktop,Social Media,39,Female,Austria,8,12,4,skirt
+52d17a4a-77fa-4616-b07f-6bb897ed98ef,206,308,35,118.27,2020-01-01,Tailored Pants,13.0,https://Yourclothingbrand.com/store/pants,208.44,Desktop,Social Media,54,Female,UK,26,39,3,pants
+ff555474-62bc-4a2c-8c51-20de2856d8a3,278,368,53,113.76,2020-01-01,Fun Socks,7.0,https://Yourclothingbrand.com/store/socks,285.31,Desktop,Paid Advertising,54,Female,USA,3,70,4,socks
+399cc032-e771-4c5f-9932-789ae3ae8791,116,350,77,91.87,2020-01-01,Clothing Rental,11.0,https://Yourclothingbrand.com/services,217.92,Desktop,Organic Search,41,Female,USA,30,19,1,services
+bf6f6b97-2842-46a7-8196-d2aa7be2d22e,171,348,62,65.79,2020-01-01,Skinny Jeans,21.0,https://Yourclothingbrand.com/store/jeans,286.67,Desktop,Social Media,28,Female,USA,19,50,4,jeans
+7cdadb81-a4db-4a0b-b58f-ad35c0804c6f,328,178,71,91.33,2020-01-01,Comfy Shorts,13.0,https://Yourclothingbrand.com/store/shorts,231.91,Desktop,Organic Search,21,Female,USA,9,25,2,shorts
+3f37b81a-a38a-46b0-8bab-099da3a39a52,188,209,54,73.56,2020-01-01,Mission and Vision,8.0,https://Yourclothingbrand.com/about-us,299.89,Desktop,Organic Search,36,Female,USA,15,25,4,about us
+31bc4fdc-848f-4162-b65c-55e82f521341,328,129,34,76.4,2020-01-01,Tailored Pants,11.0,https://Yourclothingbrand.com/store/pants,199.65,Desktop,Paid Advertising,43,Female,Singapore,48,59,2,pants
+ba2681c1-d05a-4cd8-b8ff-02688c773039,220,183,21,60.63,2020-01-01,Fashionable Outerwear,34.0,https://Yourclothingbrand.com/store/outerwear,81.61,Mobile,Organic Search,61,Female,France,64,40,5,outerwear
+df12d842-30c7-40e4-8848-a519ddafa949,400,396,11,82.88,2020-01-01,Company History,14.0,https://Yourclothingbrand.com/about-us,201.63,Desktop,Paid Advertising,57,Female,Australia,18,28,3,about us
+1d606ee1-9759-45d8-b59c-f0a0f55cc88b,385,269,46,69.45,2020-01-01,Statement Jewelry,10.0,https://Yourclothingbrand.com/store/jewelry,200.35,Desktop,Paid Advertising,60,Female,New Zealand,66,15,5,jewelry
+0245a011-c6cd-4375-812e-d707a077c2fd,268,301,47,103.84,2020-01-01,Clothing Rental,8.0,https://Yourclothingbrand.com/services,218.93,Desktop,Social Media,61,Female,Canada,59,9,2,services
+5922cf8d-6134-4564-84f5-2cd2ec672a8f,148,162,36,87.36,2020-01-01,New Arrivals,24.0,https://Yourclothingbrand.com/home,224.35,Desktop,Social Media,64,Female,Canada,48,80,5,home
+6c808eee-cb57-488f-9ac3-08b1d54dff01,112,327,49,115.18,2020-01-01,Printed Scarf,19.0,https://Yourclothingbrand.com/store/scarves,103.01,Desktop,Social Media,43,Female,UK,6,50,4,scarf
+17b63a56-4778-4e9e-ba5e-2c0e91a554f5,217,225,15,94.53,2020-01-01,Stylish Jacket,13.0,https://Yourclothingbrand.com/store/jackets,137.57,Desktop,Paid Advertising,69,Female,USA,22,60,2,jacket
+0ebb17b2-6f86-4bd7-87b6-4ffed2730bfb,269,339,16,102.79,2020-01-01,Vintage T-Shirt,9.0,https://Yourclothingbrand.com/store/t-shirts,142.13,Desktop,Social Media,47,Female,Nigeria,74,47,4,t-shirt
+2d26bdd8-d93f-4766-b6fa-6a3011675723,191,116,25,70.0,2020-01-01,Tailored Pants,7.0,https://Yourclothingbrand.com/store/pants,190.33,Desktop,Organic Search,48,Male,Finland,61,74,4,pants
+cb684c0c-7087-4560-810c-403895e22973,229,289,16,83.21,2020-01-01,New Arrivals,14.0,https://Yourclothingbrand.com/home,181.21,Desktop,Social Media,35,Female,Australia,54,54,1,home
+544a8d61-1bd6-4cb6-a5c2-3256f5ab227c,172,175,63,85.65,2020-01-01,Meet the Team,7.0,https://Yourclothingbrand.com/about-us,95.29,Mobile,Paid Advertising,39,Female,UK,43,18,5,about us
+461e7633-b2c8-4fdc-a0e5-0a51ad657da7,253,137,35,104.46,2020-01-01,Boho Jewelry,12.0,https://Yourclothingbrand.com/store/jewelry,142.15,Desktop,Organic Search,65,Female,USA,4,60,2,jewelry
+1dac08cd-fbbf-42da-8c06-26dd59021372,226,383,32,101.14,2020-01-01,Customer Service,18.0,https://Yourclothingbrand.com/contacts,65.11,Desktop,Social Media,43,Female,Austria,27,80,4,contact
+c9bd869b-6d56-477e-9db0-dcf1c186f69f,327,316,45,73.11,2020-01-01,Chic Accessories,15.0,https://Yourclothingbrand.com/store/accessories,167.81,Mobile,Organic Search,36,Female,USA,65,40,2,accessories
+662be0f7-2661-4cc6-803c-dd4c7240e37c,153,259,49,113.5,2020-01-01,Fashionable Outerwear,8.0,https://Yourclothingbrand.com/store/outerwear,246.96,Desktop,Organic Search,58,Female,Nigeria,76,60,2,outerwear
+cca02125-e14e-4f2b-9897-e2f2e4ffd5ae,214,212,62,96.03,2020-01-01,Dainty Jewelry,12.0,https://Yourclothingbrand.com/store/jewelry,89.57,Desktop,Organic Search,35,Male,Canada,41,18,2,jewelry
+257588ad-1ea1-4f2f-b420-cf0e2d4ee2d3,266,305,33,71.0,2020-01-01,Basic T-Shirt,25.0,https://Yourclothingbrand.com/store/t-shirts,90.8,Mobile,Social Media,25,Male,USA,28,74,1,t-shirt
+b0912317-5bd3-4de7-bc24-4a0f3b68e454,264,269,53,75.06,2020-01-01,Designer Wallet,37.0,https://Yourclothingbrand.com/store/wallets,168.67,Mobile,Social Media,21,Female,UK,38,29,1,wallet
+aea9abaa-74f3-4ab3-a866-4e655b5c2f89,146,334,40,112.96,2020-01-01,Cat-Eye Sunglasses,11.0,https://Yourclothingbrand.com/store/sunglasses,165.67,Mobile,Social Media,39,Female,South Korea,29,5,1,sunglasses
+6e06aa84-de7a-49be-97bb-34be340c1266,181,174,13,60.61,2020-01-01,Knitted Sweater,13.0,https://Yourclothingbrand.com/store/sweaters,63.54,Desktop,Organic Search,68,Male,Nigeria,10,17,3,sweater
+e48fd3e2-f896-49cd-856e-db4b4049ca2e,232,270,48,118.42,2020-01-01,Beanie Hat,11.0,https://Yourclothingbrand.com/store/hats,291.37,Mobile,Paid Advertising,59,Female,USA,56,76,3,hat
+159cba16-39e1-4451-8608-095209abb407,264,295,39,65.14,2020-01-01,Classic Jeans,18.0,https://Yourclothingbrand.com/store/jeans,177.95,Mobile,Organic Search,62,Female,Canada,55,50,5,jeans
+fac5b187-da12-4f55-8293-a026c060ea87,300,118,45,88.53,2020-01-01,Printed Scarf,17.0,https://Yourclothingbrand.com/store/scarves,248.12,Desktop,Social Media,57,Female,UK,39,37,2,scarf
+42ae6d1b-365f-4c82-a3c5-d5b716f11cfd,121,279,13,63.56,2020-01-01,Running Activewear,12.0,https://Yourclothingbrand.com/store/activewear,291.26,Desktop,Paid Advertising,46,Male,South Korea,70,36,1,activewear
+dc3f79ca-3863-47e9-a8e0-694a1215ae0e,331,373,25,74.8,2020-01-01,Clothing Rental,14.0,https://Yourclothingbrand.com/services,83.35,Mobile,Social Media,43,Female,USA,11,15,2,services
+2fecd52d-fef3-4059-8c67-73586bc815c9,115,292,76,66.19,2020-01-01,Elegant Sneaker,11.0,https://Yourclothingbrand.com/store/sneakers,100.16,Desktop,Social Media,43,Female,Canada,60,64,2,sneaker
+6453002e-1fac-4708-baa0-4ff453cac768,200,174,36,81.12,2020-01-01,Floral Dress,21.0,https://Yourclothingbrand.com/store/dresses,137.2,Mobile,Social Media,27,Female,USA,75,68,1,dress
+40d57b5b-b77f-4b98-8c33-f31dbd9b54a5,188,285,52,105.8,2020-01-01,Bohemian Accessories,10.0,https://Yourclothingbrand.com/store/accessories,149.87,Desktop,Paid Advertising,42,Female,Nigeria,38,29,2,accessories
+1c6064c2-3942-4cc0-83ea-7b2f52fffe8c,164,154,12,86.5,2020-01-01,Ankle Socks,33.0,https://Yourclothingbrand.com/store/socks,129.58,Mobile,Social Media,19,Female,Germany,32,53,4,socks
+ffddded7-f952-4499-9e2a-1f08d99f028f,264,307,43,85.93,2020-01-01,Stylish Jacket,9.0,https://Yourclothingbrand.com/store/jackets,127.25,Desktop,Paid Advertising,53,Male,Nigeria,71,37,3,jacket
+71f8dcdc-5ab1-4676-83ad-bb3369a92b27,183,182,40,64.85,2020-01-01,Boho Jewelry,13.0,https://Yourclothingbrand.com/store/jewelry,160.32,Desktop,Social Media,51,Female,Canada,26,11,5,jewelry
+b89d1b71-af9c-4ea1-826b-e4c33d7458b4,372,133,58,66.05,2020-01-01,Leather Jacket,7.0,https://Yourclothingbrand.com/store/jackets,287.69,Desktop,Social Media,22,Female,UK,34,48,4,jacket
+189afb4a-cfd5-405b-a528-1ec5ce9c5e91,350,394,33,92.27,2020-01-01,Elegant Sneaker,6.0,https://Yourclothingbrand.com/store/sneakers,242.34,Desktop,Organic Search,43,Female,Nigeria,16,67,5,sneaker
+761a23c4-c356-41b4-bee6-f714a4e32e67,191,104,13,69.84,2020-01-01,Featured Products,5.0,https://Yourclothingbrand.com/home,129.89,Desktop,Paid Advertising,36,Female,Nigeria,68,18,1,home
+7bbbae93-483b-44b3-bea8-ed3536f2a3e5,389,198,61,101.23,2020-01-01,Cat-Eye Sunglasses,11.0,https://Yourclothingbrand.com/store/sunglasses,146.96,Desktop,Organic Search,38,Female,USA,51,80,4,sunglasses
+6cd82f13-5a56-4ab9-b209-47ad3c30efcf,350,273,12,73.93,2020-01-01,Formal Shirt,9.0,https://Yourclothingbrand.com/store/shirts,89.49,Desktop,Organic Search,39,Female,Netherlands,50,75,3,shirt
+26aeb404-c72a-46ba-bd2d-b1a3f4103a53,280,100,64,107.16,2020-01-01,Classic Jeans,15.0,https://Yourclothingbrand.com/store/jeans,154.38,Mobile,Organic Search,45,Male,USA,15,24,2,jeans
+842a4880-15fb-416d-a344-198cfba16b72,364,196,76,104.41,2020-01-01,Elegant Dress,5.0,https://Yourclothingbrand.com/store/dresses,295.09,Desktop,Paid Advertising,45,Female,Austria,60,31,3,dress
+f5c7eb52-21ff-416e-8406-b91826865b0f,382,130,71,96.99,2020-01-01,Comfy Sneaker,3.0,https://Yourclothingbrand.com/store/sneakers,232.04,Mobile,Paid Advertising,53,Male,USA,61,58,3,sneaker
+79e9cd3c-ccbf-4f1d-a3a5-696ff640025a,314,366,34,113.84,2020-01-01,Personal Styling,8.0,https://Yourclothingbrand.com/services,136.35,Desktop,Paid Advertising,20,Female,USA,75,31,4,services
+a9951d2b-5ac5-4029-8f6c-461504d404dd,265,366,71,118.66,2020-01-01,Formal Shirt,8.0,https://Yourclothingbrand.com/store/shirts,189.35,Mobile,Paid Advertising,34,Male,UK,65,44,1,shirt
