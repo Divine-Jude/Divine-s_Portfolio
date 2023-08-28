@@ -32,15 +32,19 @@ The project aims to answer the following questions:
 
 ## Methodology
 Step 1: Database Development
+
 To start the project, I utilized Microsoft SQL Server to create a database that could accommodate the provided dataset. The data consisted of multiple years, including 2018, 2019, and 2020. Additionally, we had data on meal costs and market segments. I converted the file from Excel to CSV and imported the relevant data into the SQL database for further analysis.
 
 Step 2: SQL Query Development
+
 Once the database was set up, I developed SQL queries to extract the required information. This involved utilizing various SQL functions to retrieve the necessary data for analysis.
 
 Step 3: Power BI Integration
+
 To visualize the data and gain meaningful insights, I connected Power BI to the SQL database. This integration allowed us to create interactive and visually appealing visualizations for effective data exploration.
 
 Step 4: Data Visualization
+
 Using Power BI’s visualization capabilities, I created charts, graphs, and dashboards to represent the hotel data visually appealing and informatively. These visualizations enabled stakeholders to understand the patterns, trends, and relationships within the data. 
 
 ![image](https://github.com/Divine-Jude/PortfolioProjects/assets/95667763/46c93bbc-5e13-4b28-b0fa-b37aea50adb7)
