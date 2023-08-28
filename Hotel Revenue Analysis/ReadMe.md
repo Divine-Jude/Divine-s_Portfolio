@@ -28,7 +28,7 @@ The project aims to answer the following questions:
 
 - Calculate the revenue by customer type.
 
-- Calculate the revenue, count of required car parking spaces, and parking percentage for each arrivand all year and hotel.
+- Calculate the revenue, count of required car parking spaces, and parking percentage for each arrived all year and hotel.
 
 ## Methodology
 Step 1: Database Development
