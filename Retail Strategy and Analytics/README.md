@@ -21,9 +21,9 @@ Transactional data: Purchase information, including date, store number, loyalty 
 The project involves several key analytics skills and techniques, including:
 
 - Data wrangling: Cleaning, transforming, and integrating the transactional and customer data to prepare it for analysis.
-- Data visualization: Creating visualizations, such as bar charts, column charts, and line charts, to explore and present the data effectively.
 - Programming skills: Utilizing programming language like Python to conduct data analysis and implement statistical models.
 - Statistical analysis: Applying statistical techniques to uncover patterns, correlations, and trends in the data.
+- Data visualization: Creating visualizations, such as bar charts, column charts, and line charts, to explore and present the data effectively.
 - Critical thinking: Formulating hypotheses, testing them, and drawing meaningful conclusions from the analysis.
 - Commercial thinking: Considering business implications and providing actionable insights to guide strategic decision-making.
 
